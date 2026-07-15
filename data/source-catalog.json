@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "sources": [
     {
       "source_id": "arxiv:2604.25541",
@@ -47,22 +47,34 @@
       "category": "ai-robot-navigation"
     },
     {
-      "source_id": "arxiv:1810.04085",
-      "title": "Optimal Post-Detection Integration Technique for the Reacquisition of Weak GNSS Signals",
-      "url": "https://arxiv.org/abs/1810.04085",
-      "published": "2018-10-09",
+      "source_id": "doi:10.1109/taes.1985.310538",
+      "title": "An Algebraic Solution of the GPS Equations",
+      "url": "https://doi.org/10.1109/TAES.1985.310538",
+      "published": "1985-01",
       "digest_date": "2026-07-15",
       "section": "deep",
-      "category": "acquisition"
+      "category": "positioning",
+      "learning_level": "advanced"
     },
     {
-      "source_id": "doi:10.3390/rs16111836",
-      "title": "Performance Enhancement and Evaluation of a Vector Tracking Receiver Using Adaptive Tracking Loops",
-      "url": "https://www.mdpi.com/2072-4292/16/11/1836",
-      "published": "2024-05-22",
+      "source_id": "navipedia:frequency-lock-loop",
+      "title": "Frequency Lock Loop：经典 FLL 鉴频器",
+      "url": "https://gssc.esa.int/navipedia/index.php?title=Frequency_Lock_Loop_%28FLL%29",
+      "published": "2011",
       "digest_date": "2026-07-15",
       "section": "deep",
-      "category": "tracking"
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "navipedia:generic-receiver-description",
+      "title": "Generic Receiver Description：二维捕获面与相关峰",
+      "url": "https://gssc.esa.int/navipedia/index.php?title=Generic_Receiver_Description",
+      "published": "2011",
+      "digest_date": "2026-07-15",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
     }
   ],
   "deep_topic_rotation": {
@@ -70,10 +82,15 @@
     "tracking": 1,
     "receiver-engineering": 0,
     "low-cost-mobile": 0,
-    "positioning": 0
+    "positioning": 1
+  },
+  "learning_level_counts": {
+    "foundation": 1,
+    "intermediate": 1,
+    "advanced": 1
   },
   "positioning_rotation": {
-    "spp": 0,
+    "spp": 1,
     "rtk": 0,
     "ppp-ppp-rtk": 0,
     "dual-antenna-heading": 0,
