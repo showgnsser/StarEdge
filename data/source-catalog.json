@@ -75,23 +75,98 @@
       "section": "deep",
       "category": "acquisition",
       "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2606.06358",
+      "title": "桥下 RTK 改正中断与 INS 连续性的实测基准",
+      "url": "https://arxiv.org/abs/2606.06358",
+      "published": "2026-06-04",
+      "digest_date": "2026-07-16",
+      "section": "brief",
+      "category": "rtk-ins-continuity"
+    },
+    {
+      "source_id": "arxiv:2606.29192",
+      "title": "单频 GNSS 借助相对运动观测实现分米级定位",
+      "url": "https://arxiv.org/abs/2606.29192",
+      "published": "2026-06-28",
+      "digest_date": "2026-07-16",
+      "section": "brief",
+      "category": "low-cost-carrier-phase-fusion"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-56661-9",
+      "title": "LEO 与 MEO 混合多普勒定位的降维解法",
+      "url": "https://doi.org/10.1038/s41598-026-56661-9",
+      "published": "2026-06-24",
+      "digest_date": "2026-07-16",
+      "section": "brief",
+      "category": "leo-gnss-doppler-positioning"
+    },
+    {
+      "source_id": "doi:10.1038/s44459-026-00032-3",
+      "title": "不依赖 GNSS 预补偿的 6G 非地面网络同步",
+      "url": "https://doi.org/10.1038/s44459-026-00032-3",
+      "published": "2026-06-03",
+      "digest_date": "2026-07-16",
+      "section": "brief",
+      "category": "ntn-gnss-resilience"
+    },
+    {
+      "source_id": "doi:10.3390/s26134047",
+      "title": "利用恒包络调制互调分量认证民用 GNSS",
+      "url": "https://doi.org/10.3390/s26134047",
+      "published": "2026-06-25",
+      "digest_date": "2026-07-16",
+      "section": "brief",
+      "category": "gnss-signal-authentication"
+    },
+    {
+      "source_id": "doi:10.5081/jgps.17.2.151",
+      "title": "单差与双差观测、秩亏和多 GNSS 整数固定",
+      "url": "https://www.cpgps.org/wwwroot/issue202102/JoGPS_v17_Issue2_pp151-163.pdf",
+      "published": "2021",
+      "digest_date": "2026-07-16",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
+    },
+    {
+      "source_id": "fig:9374",
+      "title": "公共振荡器误差为何值得做矢量载波跟踪",
+      "url": "https://www.fig.net/resources/proceedings/fig_proceedings/fig2018/papers/ts04e/TS04E_gao_9374.pdf",
+      "published": "2018-05",
+      "digest_date": "2026-07-16",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "tudelft-ocw:ae4e08-lecture-3",
+      "title": "从移位、相乘、积分到三角相关峰",
+      "url": "https://ocw.tudelft.nl/course-lectures/satellite-navigation-gnss-receivers/",
+      "published": "2011",
+      "digest_date": "2026-07-16",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 1,
     "tracking": 1,
-    "receiver-engineering": 0,
-    "low-cost-mobile": 0,
-    "positioning": 1
+    "receiver-engineering": 1,
+    "low-cost-mobile": 1,
+    "positioning": 2
   },
   "learning_level_counts": {
-    "foundation": 1,
-    "intermediate": 1,
-    "advanced": 1
+    "foundation": 2,
+    "intermediate": 2,
+    "advanced": 2
   },
   "positioning_rotation": {
     "spp": 1,
-    "rtk": 0,
+    "rtk": 1,
     "ppp-ppp-rtk": 0,
     "dual-antenna-heading": 0,
     "smartphone-low-cost": 0
