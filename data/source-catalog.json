@@ -150,24 +150,99 @@
       "section": "deep",
       "category": "receiver-engineering",
       "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2607.05658",
+      "title": "GNSS 天顶湿延迟改善极端降水预报",
+      "url": "https://arxiv.org/abs/2607.05658",
+      "published": "2026-07-06",
+      "digest_date": "2026-07-17",
+      "section": "brief",
+      "category": "gnss-zwd-weather-foundation-model"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02123-8",
+      "title": "光钟把 PPP-RTK 改正保持时间从 10 s 推到 54 s",
+      "url": "https://doi.org/10.1007/s10291-026-02123-8",
+      "published": "2026-07-04",
+      "digest_date": "2026-07-17",
+      "section": "brief",
+      "category": "optical-clock-ppp-rtk-holdover"
+    },
+    {
+      "source_id": "doi:10.1007/s44517-026-00006-w",
+      "title": "GNSS 与多模态滑坡位移监测的能力边界",
+      "url": "https://doi.org/10.1007/s44517-026-00006-w",
+      "published": "2026-07-14",
+      "digest_date": "2026-07-17",
+      "section": "brief",
+      "category": "gnss-multimodal-landslide-monitoring"
+    },
+    {
+      "source_id": "doi:10.1186/s13634-026-01356-6",
+      "title": "渐进搜索降低 FFT 捕获的硬件规模",
+      "url": "https://doi.org/10.1186/s13634-026-01356-6",
+      "published": "2026-07-09",
+      "digest_date": "2026-07-17",
+      "section": "brief",
+      "category": "progressive-fft-acquisition"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00204-0",
+      "title": "海基 JPALS 的多基准布尔电离层梯度监测",
+      "url": "https://doi.org/10.1186/s43020-026-00204-0",
+      "published": "2026-07-07",
+      "digest_date": "2026-07-17",
+      "section": "brief",
+      "category": "jpals-ionospheric-integrity"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-021-01490-z",
+      "title": "PPP-RTK 改正延迟怎样进入模糊度协方差",
+      "url": "https://doi.org/10.1007/s00190-021-01490-z",
+      "published": "2021-03-25",
+      "digest_date": "2026-07-17",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/s16071128",
+      "title": "简化本地副载波时，前端带宽增加多少才值得",
+      "url": "https://doi.org/10.3390/s16071128",
+      "published": "2016-07-20",
+      "digest_date": "2026-07-17",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "is-gps-200n",
+      "title": "为什么 C/A 码 1 ms 重复而相干积累不能盲跨 20 ms",
+      "url": "https://archive.gps.gov/technical/icwg/IS-GPS-200N.pdf",
+      "published": "2022-08-01",
+      "digest_date": "2026-07-17",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 1,
-    "tracking": 1,
+    "acquisition": 2,
+    "tracking": 2,
     "receiver-engineering": 1,
     "low-cost-mobile": 1,
-    "positioning": 2
+    "positioning": 3
   },
   "learning_level_counts": {
-    "foundation": 2,
-    "intermediate": 2,
-    "advanced": 2
+    "foundation": 3,
+    "intermediate": 3,
+    "advanced": 3
   },
   "positioning_rotation": {
     "spp": 1,
     "rtk": 1,
-    "ppp-ppp-rtk": 0,
+    "ppp-ppp-rtk": 1,
     "dual-antenna-heading": 0,
     "smartphone-low-cost": 0
   }
