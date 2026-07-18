@@ -225,25 +225,100 @@
       "section": "deep",
       "category": "acquisition",
       "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2605.26762",
+      "title": "透射智能表面把卫星信号引入室内",
+      "url": "https://arxiv.org/abs/2605.26762",
+      "published": "2026-05-26",
+      "digest_date": "2026-07-18",
+      "section": "brief",
+      "category": "tis-aided-indoor-satellite-navigation"
+    },
+    {
+      "source_id": "arxiv:2606.03265",
+      "title": "轮载 IMU 学习位移怎样补进 GNSS/EKF",
+      "url": "https://arxiv.org/abs/2606.03265",
+      "published": "2026-06-02",
+      "digest_date": "2026-07-18",
+      "section": "brief",
+      "category": "wheel-imu-neural-gnss-fusion"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-49269-6",
+      "title": "低成本 SDR 的 Galileo 自适应捕获与跟踪",
+      "url": "https://doi.org/10.1038/s41598-026-49269-6",
+      "published": "2026-04-28",
+      "digest_date": "2026-07-18",
+      "section": "brief",
+      "category": "galileo-sdr-adaptive-tracking"
+    },
+    {
+      "source_id": "doi:10.3390/s26134107",
+      "title": "Huber 自适应 RTS 平滑抑制海上 GNSS/INS 异常",
+      "url": "https://doi.org/10.3390/s26134107",
+      "published": "2026-06-28",
+      "digest_date": "2026-07-18",
+      "section": "brief",
+      "category": "marine-gnss-ins-robust-smoothing"
+    },
+    {
+      "source_id": "doi:10.5194/nhess-26-2579-2026",
+      "title": "L 波段 InSAR 与 GNSS 共同补齐高山滑坡监测",
+      "url": "https://doi.org/10.5194/nhess-26-2579-2026",
+      "published": "2026-06-04",
+      "digest_date": "2026-07-18",
+      "section": "brief",
+      "category": "l-band-insar-gnss-slope-monitoring"
+    },
+    {
+      "source_id": "doi:10.3390/geosciences10020079",
+      "title": "时钟校正为何改善可用性却未必改善 DRMS",
+      "url": "https://doi.org/10.3390/geosciences10020079",
+      "published": "2020-02-21",
+      "digest_date": "2026-07-18",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s24031034",
+      "title": "双天线载波相位如何从基线变成航向",
+      "url": "https://doi.org/10.3390/s24031034",
+      "published": "2024-02-05",
+      "digest_date": "2026-07-18",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
+    },
+    {
+      "source_id": "mitre:09-3995",
+      "title": "为什么 1 位量化只损失约 1.96 dB",
+      "url": "https://www.mitre.org/sites/default/files/pdf/09_3995.pdf",
+      "published": "2009",
+      "digest_date": "2026-07-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 2,
     "tracking": 2,
-    "receiver-engineering": 1,
-    "low-cost-mobile": 1,
-    "positioning": 3
+    "receiver-engineering": 2,
+    "low-cost-mobile": 2,
+    "positioning": 4
   },
   "learning_level_counts": {
-    "foundation": 3,
-    "intermediate": 3,
-    "advanced": 3
+    "foundation": 4,
+    "intermediate": 4,
+    "advanced": 4
   },
   "positioning_rotation": {
     "spp": 1,
     "rtk": 1,
     "ppp-ppp-rtk": 1,
-    "dual-antenna-heading": 0,
+    "dual-antenna-heading": 1,
     "smartphone-low-cost": 0
   }
 }
