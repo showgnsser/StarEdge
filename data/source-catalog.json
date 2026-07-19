@@ -300,25 +300,100 @@
       "section": "deep",
       "category": "receiver-engineering",
       "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2606.03673",
+      "title": "地面台网追踪到跨洲影响的星载 GNSS 干扰源",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "published": "2026-06-02",
+      "digest_date": "2026-07-19",
+      "section": "brief",
+      "category": "space-based-gnss-interference-geolocation"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02056-7",
+      "title": "用高时间分辨率弹性码偏差应对卫星 Flex Power",
+      "url": "https://doi.org/10.1007/s00190-026-02056-7",
+      "published": "2026-06-04",
+      "digest_date": "2026-07-19",
+      "section": "brief",
+      "category": "resilient-code-bias-flex-power"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00202-2",
+      "title": "网络 RTK 的三载波逐级固定究竟怕什么",
+      "url": "https://doi.org/10.1186/s43020-026-00202-2",
+      "published": "2026-06-22",
+      "digest_date": "2026-07-19",
+      "section": "brief",
+      "category": "network-rtk-gf-tcar-ionosphere-sensitivity"
+    },
+    {
+      "source_id": "doi:10.3390/s26113346",
+      "title": "环境上下文与 NLOS 检测自适应调节手机 RTK 权阵",
+      "url": "https://doi.org/10.3390/s26113346",
+      "published": "2026-05-25",
+      "digest_date": "2026-07-19",
+      "section": "brief",
+      "category": "smartphone-rtk-context-aware-covariance"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02047-3",
+      "title": "MAD 创新质量控制改善低成本多 GNSS PPP",
+      "url": "https://doi.org/10.1007/s10291-026-02047-3",
+      "published": "2026-03-09",
+      "digest_date": "2026-07-19",
+      "section": "brief",
+      "category": "low-cost-ppp-mad-quality-control"
+    },
+    {
+      "source_id": "android:gnss-analysis-tools",
+      "title": "从 Android 时钟字段构造可检验伪距",
+      "url": "https://developer.android.com/develop/sensors-and-location/sensors/gnss/downloads/gnss_analysis_tools_from_google.pdf",
+      "published": "2018-03",
+      "digest_date": "2026-07-19",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/electronics8010005",
+      "title": "周跳为何让载波平滑从降噪器变成污染源",
+      "url": "https://doi.org/10.3390/electronics8010005",
+      "published": "2018-12-21",
+      "digest_date": "2026-07-19",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s19092189",
+      "title": "双频手机 PPP 为什么可能比单频更差",
+      "url": "https://doi.org/10.3390/s19092189",
+      "published": "2019-05-13",
+      "digest_date": "2026-07-19",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 2,
     "tracking": 2,
-    "receiver-engineering": 2,
-    "low-cost-mobile": 2,
-    "positioning": 4
+    "receiver-engineering": 3,
+    "low-cost-mobile": 3,
+    "positioning": 5
   },
   "learning_level_counts": {
-    "foundation": 4,
-    "intermediate": 4,
-    "advanced": 4
+    "foundation": 5,
+    "intermediate": 5,
+    "advanced": 5
   },
   "positioning_rotation": {
     "spp": 1,
     "rtk": 1,
     "ppp-ppp-rtk": 1,
     "dual-antenna-heading": 1,
-    "smartphone-low-cost": 0
+    "smartphone-low-cost": 1
   }
 }
