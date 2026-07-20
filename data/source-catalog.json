@@ -450,22 +450,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1093/comjnl/bxag067",
+      "title": "Attention-GRU 在 GNSS 退化时生成伪观测",
+      "url": "https://doi.org/10.1093/comjnl/bxag067",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-20",
+      "section": "brief",
+      "category": "attention-gru-gnss-ins-degradation"
+    },
+    {
+      "source_id": "doi:10.1016/j.measurement.2026.122560",
+      "title": "二维方位—高度角模型校准天线群时延变化",
+      "url": "https://doi.org/10.1016/j.measurement.2026.122560",
+      "published": "2026-07-13",
+      "digest_date": "2026-07-20",
+      "section": "brief",
+      "category": "azimuth-dependent-antenna-group-delay"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.04.026",
+      "title": "融合 Galileo HAS 与北斗 PPP-B2b 的轨钟产品",
+      "url": "https://doi.org/10.1016/j.asr.2026.04.026",
+      "published": "2026-07-15",
+      "digest_date": "2026-07-20",
+      "section": "brief",
+      "category": "galileo-has-ppp-b2b-orbit-clock-fusion"
+    },
+    {
+      "source_id": "arxiv:2607.09700",
+      "title": "用 ADS-B 航迹一致性发现 GNSS 干扰事件",
+      "url": "https://arxiv.org/abs/2607.09700",
+      "published": "2026-06-21",
+      "digest_date": "2026-07-20",
+      "section": "brief",
+      "category": "ads-b-track-consistency-gnss-rfi"
+    },
+    {
+      "source_id": "doi:10.1109/icc59461.2026.11587254",
+      "title": "路侧光纤振动为 GNSS 中断补连续位置",
+      "url": "https://doi.org/10.1109/ICC59461.2026.11587254",
+      "published": "2026-07-14",
+      "digest_date": "2026-07-20",
+      "section": "brief",
+      "category": "gnss-distributed-acoustic-sensing-fusion"
+    },
+    {
+      "source_id": "eu:galileo-os-sis-icd-2.2",
+      "title": "从 Galileo E1 CBOC 结构决定捕获副本",
+      "url": "https://www.gsc-europa.eu/sites/default/files/sites/all/files/Galileo_OS_SIS_ICD_in_force.pdf",
+      "published": "2025-11",
+      "digest_date": "2026-07-20",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "navipedia:delay-lock-loop",
+      "title": "DLL 的 Early/Late 间隔与带宽怎样换噪声",
+      "url": "https://gssc.esa.int/navipedia/index.php/Delay_Lock_Loop_%28DLL%29",
+      "published": "2011",
+      "digest_date": "2026-07-20",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.11003/jpnt.2025.14.1.11",
+      "title": "把码残差与 C/N0 合成手机 SPP 权值",
+      "url": "https://doi.org/10.11003/JPNT.2025.14.1.11",
+      "published": "2025-03-15",
+      "digest_date": "2026-07-20",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 2,
-    "tracking": 2,
+    "acquisition": 3,
+    "tracking": 3,
     "receiver-engineering": 4,
     "low-cost-mobile": 3,
-    "positioning": 6
+    "positioning": 7
   },
   "learning_level_counts": {
-    "foundation": 6,
-    "intermediate": 6,
-    "advanced": 6
+    "foundation": 7,
+    "intermediate": 7,
+    "advanced": 7
   },
   "positioning_rotation": {
-    "spp": 1,
+    "spp": 2,
     "rtk": 1,
     "ppp-ppp-rtk": 1,
     "dual-antenna-heading": 1,
