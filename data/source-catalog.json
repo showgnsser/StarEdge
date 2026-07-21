@@ -525,23 +525,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.5194/essd-18-5117-2026",
+      "title": "格陵兰 71 站 GNSS 基岩位移资料形成开放长序列",
+      "url": "https://doi.org/10.5194/essd-18-5117-2026",
+      "published": "2026-07-20",
+      "digest_date": "2026-07-21",
+      "section": "brief",
+      "category": "greenland-gnet-bedrock-displacement-dataset"
+    },
+    {
+      "source_id": "doi:10.3390/rs18142392",
+      "title": "GNSS 反演陆地水储量并非网格越细越好",
+      "url": "https://doi.org/10.3390/rs18142392",
+      "published": "2026-07-18",
+      "digest_date": "2026-07-21",
+      "section": "brief",
+      "category": "gnss-terrestrial-water-storage-slepian-green-function"
+    },
+    {
+      "source_id": "doi:10.3390/s26144551",
+      "title": "SDR 试验台把还能定位与定位可信分开",
+      "url": "https://doi.org/10.3390/s26144551",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-21",
+      "section": "brief",
+      "category": "sdr-gnss-receiver-jamming-spoofing-reacquisition"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02127-4",
+      "title": "低成本 Galileo HAS 开始进入动态形变监测验证",
+      "url": "https://doi.org/10.1007/s10291-026-02127-4",
+      "published": "2026-07-10",
+      "digest_date": "2026-07-21",
+      "section": "brief",
+      "category": "galileo-has-low-cost-dynamic-deformation-monitoring"
+    },
+    {
+      "source_id": "doi:10.3390/s26144388",
+      "title": "多因子排序替代按单一高度角删模糊度",
+      "url": "https://doi.org/10.3390/s26144388",
+      "published": "2026-07-10",
+      "digest_date": "2026-07-21",
+      "section": "brief",
+      "category": "entropy-weighted-partial-ambiguity-resolution-ppp"
+    },
+    {
+      "source_id": "navipedia:carrier-phase-ambiguity-fixing",
+      "title": "载波模糊度什么时候才真是整数",
+      "url": "https://gssc.esa.int/navipedia/index.php?title=Carrier_Phase_Ambiguity_Fixing",
+      "published": "2011",
+      "digest_date": "2026-07-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/app12010435",
+      "title": "手机 RTK 为什么要按频点定权并只固定好模糊度",
+      "url": "https://doi.org/10.3390/app12010435",
+      "published": "2022-01-03",
+      "digest_date": "2026-07-21",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00207-x",
+      "title": "用六个电离层梯度系数加速中长基线 RTK",
+      "url": "https://doi.org/10.1186/s43020-026-00207-x",
+      "published": "2026-07-15",
+      "digest_date": "2026-07-21",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
-    "tracking": 3,
-    "receiver-engineering": 4,
-    "low-cost-mobile": 3,
-    "positioning": 7
+    "tracking": 4,
+    "receiver-engineering": 5,
+    "low-cost-mobile": 4,
+    "positioning": 8
   },
   "learning_level_counts": {
-    "foundation": 7,
-    "intermediate": 7,
-    "advanced": 7
+    "foundation": 8,
+    "intermediate": 8,
+    "advanced": 8
   },
   "positioning_rotation": {
     "spp": 2,
-    "rtk": 1,
+    "rtk": 2,
     "ppp-ppp-rtk": 1,
     "dual-antenna-heading": 1,
     "smartphone-low-cost": 1,
