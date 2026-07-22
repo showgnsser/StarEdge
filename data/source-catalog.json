@@ -600,19 +600,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33003/fjs-2026-1011-5371",
+      "title": "随机森林同时权衡低仰角噪声与卫星几何",
+      "url": "https://doi.org/10.33003/fjs-2026-1011-5371",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-22",
+      "section": "brief",
+      "category": "adaptive-elevation-mask-random-forest-static-gnss"
+    },
+    {
+      "source_id": "doi:10.3390/electronics15143117",
+      "title": "ANFIS 用载体坐标系误差补偿 60 s GNSS 中断",
+      "url": "https://doi.org/10.3390/electronics15143117",
+      "published": "2026-07-15",
+      "digest_date": "2026-07-22",
+      "section": "brief",
+      "category": "anfis-body-frame-mins-gnss-outage-prediction"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae8c6e",
+      "title": "列车定位把磁场序列从时间域重采样到空间域",
+      "url": "https://doi.org/10.1088/1361-6501/ae8c6e",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-22",
+      "section": "brief",
+      "category": "train-gnss-ins-magnetic-spatial-sequence-matching"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae6a0e",
+      "title": "多中心精密产品评估开始把相位偏差纳入同一质量链",
+      "url": "https://doi.org/10.1088/1361-6501/ae6a0e",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-22",
+      "section": "brief",
+      "category": "multi-gnss-precise-products-phase-bias-consistency"
+    },
+    {
+      "source_id": "doi:10.1785/0220260049",
+      "title": "多任务网络联合高率 GNSS 与强震记录估计震源",
+      "url": "https://doi.org/10.1785/0220260049",
+      "published": "2026-07-16",
+      "digest_date": "2026-07-22",
+      "section": "brief",
+      "category": "high-rate-gnss-strong-motion-multitask-earthquake-source"
+    },
+    {
+      "source_id": "navipedia:raim-fundamentals",
+      "title": "RAIM 保护级为什么不是残差阈值乘一个常数",
+      "url": "https://gssc.esa.int/navipedia/index.php/RAIM_Fundamentals",
+      "published": "2011",
+      "digest_date": "2026-07-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "stanford:closas-gusi-blanch-2017-dpe-integrity",
+      "title": "直接定位没有伪距残差，怎样做解分离完整性监测",
+      "url": "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/closas_et_al_integrity-measures-direct_IONGNSS2017.pdf",
+      "published": "2017-09",
+      "digest_date": "2026-07-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "wg-c:araim-reference-add-v3.0",
+      "title": "ARAIM 怎样把多星与整星座故障装进同一个风险预算",
+      "url": "https://web.stanford.edu/group/scpnt/gpslab/website_files/maast/ARAIM_TSG_Reference_ADD_v3.0.pdf",
+      "published": "2017-11-15",
+      "digest_date": "2026-07-22",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 4,
-    "receiver-engineering": 5,
+    "receiver-engineering": 7,
     "low-cost-mobile": 4,
-    "positioning": 8
+    "positioning": 9
   },
   "learning_level_counts": {
-    "foundation": 8,
-    "intermediate": 8,
-    "advanced": 8
+    "foundation": 9,
+    "intermediate": 9,
+    "advanced": 9
   },
   "positioning_rotation": {
     "spp": 2,
@@ -620,6 +695,6 @@
     "ppp-ppp-rtk": 1,
     "dual-antenna-heading": 1,
     "smartphone-low-cost": 1,
-    "integrity": 1
+    "integrity": 2
   }
 }
