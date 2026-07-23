@@ -675,24 +675,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1038/s41597-026-07876-y",
+      "title": "台湾连续站把 15 年观测、元数据与质量指标封装成固定版本",
+      "url": "https://doi.org/10.1038/s41597-026-07876-y",
+      "published": "2026-07-15",
+      "digest_date": "2026-07-23",
+      "section": "brief",
+      "category": "taiwan-2010-2024-continuous-gnss-dataset"
+    },
+    {
+      "source_id": "doi:10.1007/s42452-026-09108-9",
+      "title": "IRI-Plas 同化 GIM 后，把电离层剖面模型转成更实用的单频改正",
+      "url": "https://doi.org/10.1007/s42452-026-09108-9",
+      "published": "2026-07-16",
+      "digest_date": "2026-07-23",
+      "section": "brief",
+      "category": "iri-plas-2020-gim-assimilation-vtec-spp"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02088-z",
+      "title": "STEPPP 在同一滤波器里联合恢复三维湿折射率与站坐标",
+      "url": "https://doi.org/10.1007/s00190-026-02088-z",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-23",
+      "section": "brief",
+      "category": "steppp-node-refractivity-simultaneous-ppp-tomography"
+    },
+    {
+      "source_id": "doi:10.1029/2026GL123732",
+      "title": "TRACERS 与地面 GPS 共址看到秒级极光闪烁和细尺度电流片",
+      "url": "https://doi.org/10.1029/2026GL123732",
+      "published": "2026-07-18",
+      "digest_date": "2026-07-23",
+      "section": "brief",
+      "category": "tracers-chain-gps-auroral-scintillation-field-aligned-current"
+    },
+    {
+      "source_id": "doi:10.1038/s41467-026-74965-2",
+      "title": "十万幅干涉图与 673 条 GNSS 速度揭示天山沿走向伸展",
+      "url": "https://doi.org/10.1038/s41467-026-74965-2",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-23",
+      "section": "brief",
+      "category": "tian-shan-insar-gnss-nascent-shear-zone"
+    },
+    {
+      "source_id": "navipedia:tropospheric-delay",
+      "title": "为什么对流层延迟不能靠双频消掉，还要从天顶映射到斜路径",
+      "url": "https://gssc.esa.int/navipedia/index.php?title=Tropospheric_Delay",
+      "published": "2011",
+      "digest_date": "2026-07-23",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02075-4",
+      "title": "用 ZWD 物理边界阻止 PPP 收敛初期把站高拖偏",
+      "url": "https://doi.org/10.1007/s00190-026-02075-4",
+      "published": "2026-06-29",
+      "digest_date": "2026-07-23",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02053-5",
+      "title": "把 GFS 湿延迟按纬度定权，怎样缩短多频多 GNSS PPP-AR 收敛",
+      "url": "https://doi.org/10.1007/s10291-026-02053-5",
+      "published": "2026-03-12",
+      "digest_date": "2026-07-23",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 4,
-    "receiver-engineering": 7,
+    "receiver-engineering": 9,
     "low-cost-mobile": 4,
-    "positioning": 9
+    "positioning": 10
   },
   "learning_level_counts": {
-    "foundation": 9,
-    "intermediate": 9,
-    "advanced": 9
+    "foundation": 10,
+    "intermediate": 10,
+    "advanced": 10
   },
   "positioning_rotation": {
     "spp": 2,
     "rtk": 2,
-    "ppp-ppp-rtk": 1,
+    "ppp-ppp-rtk": 2,
     "dual-antenna-heading": 1,
     "smartphone-low-cost": 1,
     "integrity": 2
