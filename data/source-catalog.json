@@ -750,26 +750,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152444",
+      "title": "模拟高率 GNSS 波形训练网络，Ridgecrest 震级在 30—35 s 内稳定",
+      "url": "https://doi.org/10.3390/rs18152444",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-24",
+      "section": "brief",
+      "category": "hr-gnss-deep-learning-rapid-earthquake-magnitude"
+    },
+    {
+      "source_id": "doi:10.3389/fspas.2026.1833885",
+      "title": "五月超级磁暴让南半球中纬顶部电离层密度最高增至静日 17 倍",
+      "url": "https://doi.org/10.3389/fspas.2026.1833885",
+      "published": "2026-07-21",
+      "digest_date": "2026-07-24",
+      "section": "brief",
+      "category": "gannon-storm-midlatitude-ionosphere-dmsp-gitm"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02064-2",
+      "title": "12.8 Gcps 光学相关器在实验室验证亚皮秒时传与亚毫米测距",
+      "url": "https://doi.org/10.1007/s10291-026-02064-2",
+      "published": "2026-03-25",
+      "digest_date": "2026-07-24",
+      "section": "brief",
+      "category": "kepler-optical-inter-satellite-time-transfer-ranging"
+    },
+    {
+      "source_id": "doi:10.3389/fspas.2026.1891160",
+      "title": "实时 GIM 对单频 BDS-3 PPP 的收益会随磁活动强弱改变",
+      "url": "https://doi.org/10.3389/fspas.2026.1891160",
+      "published": "2026-07-03",
+      "digest_date": "2026-07-24",
+      "section": "brief",
+      "category": "rt-gim-bds3-single-frequency-realtime-ppp"
+    },
+    {
+      "source_id": "doi:10.3389/fspas.2026.1821037",
+      "title": "GPT3-e 优化相对延迟，把大高差 RTK 的系统垂向偏差压低",
+      "url": "https://doi.org/10.3389/fspas.2026.1821037",
+      "published": "2026-04-17",
+      "digest_date": "2026-07-24",
+      "section": "brief",
+      "category": "gpt3e-relative-troposphere-large-height-difference-rtk"
+    },
+    {
+      "source_id": "navipedia:tracking-loops",
+      "title": "带宽为什么同时决定 PLL 跟噪声与跟动态的能力",
+      "url": "https://gssc.esa.int/navipedia/index.php/Tracking_Loops",
+      "published": "2011",
+      "digest_date": "2026-07-24",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22218514",
+      "title": "TDCP 怎样消掉整数模糊度，又为什么仍怕周跳",
+      "url": "https://doi.org/10.3390/s22218514",
+      "published": "2022-11-04",
+      "digest_date": "2026-07-24",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs12040744",
+      "title": "把 TDCP 位移作状态传播，双频多星座怎样稳定城市手机轨迹",
+      "url": "https://doi.org/10.3390/rs12040744",
+      "published": "2020-02-24",
+      "digest_date": "2026-07-24",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
-    "tracking": 4,
+    "tracking": 5,
     "receiver-engineering": 9,
-    "low-cost-mobile": 4,
-    "positioning": 10
+    "low-cost-mobile": 5,
+    "positioning": 11
   },
   "learning_level_counts": {
-    "foundation": 10,
-    "intermediate": 10,
-    "advanced": 10
+    "foundation": 11,
+    "intermediate": 11,
+    "advanced": 11
   },
   "positioning_rotation": {
     "spp": 2,
     "rtk": 2,
     "ppp-ppp-rtk": 2,
     "dual-antenna-heading": 1,
-    "smartphone-low-cost": 1,
+    "smartphone-low-cost": 2,
     "integrity": 2
   }
 }
