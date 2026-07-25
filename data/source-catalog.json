@@ -825,25 +825,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b1-2026-83-2026",
+      "title": "RTK-SLAM 基准把轨迹相对准确度与全球坐标绝对准确度分开",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B1-2026-83-2026",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-25",
+      "section": "brief",
+      "category": "rtk-slam-absolute-geodetic-benchmark"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b2-2026-901-2026",
+      "title": "集成相机的 NRTK 接收机量测不可达立面点",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B2-2026-901-2026",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-25",
+      "section": "brief",
+      "category": "gnss-camera-inaccessible-facade-points"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b1-2026-315-2026",
+      "title": "把天线—相机杆臂纳入 RTK 直接定向平差",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B1-2026-315-2026",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-25",
+      "section": "brief",
+      "category": "rtk-close-range-photogrammetry-lever-arm"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b2-2026-261-2026",
+      "title": "林下 RTK 约束改善手持 SLAM 点云一致性",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B2-2026-261-2026",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-25",
+      "section": "brief",
+      "category": "rtk-gnss-handheld-lidar-forest-qsm"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b1-2026-361-2026",
+      "title": "INS 作为持续主状态，GNSS、视觉与地图按可用性更新",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B1-2026-361-2026",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-25",
+      "section": "brief",
+      "category": "ins-centric-gnss-vio-hd-map-pointloc"
+    },
+    {
+      "source_id": "navipedia:antenna-phase-centre",
+      "title": "天线相位中心为什么不是外壳上的一个固定点",
+      "url": "https://gssc.esa.int/navipedia/index.php?title=Antenna_Phase_Centre",
+      "published": "2011",
+      "digest_date": "2026-07-25",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-010-0164-x",
+      "title": "把已知基线长度真正放进整数目标函数",
+      "url": "https://doi.org/10.1007/s10291-010-0164-x",
+      "published": "2010-03-13",
+      "digest_date": "2026-07-25",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1109/tim.2022.3193412",
+      "title": "不先固定整数，直接在包裹相位上搜索姿态",
+      "url": "https://doi.org/10.1109/TIM.2022.3193412",
+      "published": "2022-07-25",
+      "digest_date": "2026-07-25",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 9,
+    "receiver-engineering": 11,
     "low-cost-mobile": 5,
-    "positioning": 11
+    "positioning": 12
   },
   "learning_level_counts": {
-    "foundation": 11,
-    "intermediate": 11,
-    "advanced": 11
+    "foundation": 12,
+    "intermediate": 12,
+    "advanced": 12
   },
   "positioning_rotation": {
     "spp": 2,
     "rtk": 2,
     "ppp-ppp-rtk": 2,
-    "dual-antenna-heading": 1,
+    "dual-antenna-heading": 2,
     "smartphone-low-cost": 2,
     "integrity": 2
   }
