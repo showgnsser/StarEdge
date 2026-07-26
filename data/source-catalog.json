@@ -900,22 +900,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2607.15791",
+      "title": "用 VLBI 台站自身 GNSS 数据建区域电离层模型，准实时 UT1 更接近事后产品",
+      "url": "https://arxiv.org/abs/2607.15791",
+      "published": "2026-07-17",
+      "digest_date": "2026-07-26",
+      "section": "brief",
+      "category": "gnss-regional-ionosphere-vlbi-ut1"
+    },
+    {
+      "source_id": "arxiv:2607.11398",
+      "title": "把同一授时源下多基站的共同漂移相关起来，可在管理面暴露 GNSS 欺骗",
+      "url": "https://arxiv.org/abs/2607.11398",
+      "published": "2026-07-13",
+      "digest_date": "2026-07-26",
+      "section": "brief",
+      "category": "gnss-spoofing-tdd-3gpp-management-correlation"
+    },
+    {
+      "source_id": "arxiv:2607.10241",
+      "title": "两次 LEO 多普勒过境的误差椭圆夹角，可预测稀疏机会信号的互补性",
+      "url": "https://arxiv.org/abs/2607.10241",
+      "published": "2026-07-11",
+      "digest_date": "2026-07-26",
+      "section": "brief",
+      "category": "leo-dual-pass-doppler-geometry-selection"
+    },
+    {
+      "source_id": "arxiv:2607.06212",
+      "title": "月球南极卫星都聚在头顶时，三座近地平线信标比继续堆卫星更有效",
+      "url": "https://arxiv.org/abs/2607.06212",
+      "published": "2026-07-07",
+      "digest_date": "2026-07-26",
+      "section": "brief",
+      "category": "lunar-south-pole-pnt-gdop-surface-beacons"
+    },
+    {
+      "source_id": "arxiv:2607.02190",
+      "title": "LEO 上先压缩时频数据再做延迟—多普勒匹配，1 GB 样本可缩到不足 1 MB",
+      "url": "https://arxiv.org/abs/2607.02190",
+      "published": "2026-07-02",
+      "digest_date": "2026-07-26",
+      "section": "brief",
+      "category": "leo-quasi-direct-geolocation-gnss-jammer"
+    },
+    {
+      "source_id": "navipedia:gnss-basic-observables",
+      "title": "伪距为什么不是几何距离，而是带钟差与传播误差的到达时间",
+      "url": "https://gssc.esa.int/navipedia/index.php/GNSS_Basic_Observables",
+      "published": "2011",
+      "digest_date": "2026-07-26",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s19245402",
+      "title": "M、S、MM 估计怎样限制异常伪距对 SPP 的拉力",
+      "url": "https://doi.org/10.3390/s19245402",
+      "published": "2019-12-07",
+      "digest_date": "2026-07-26",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "arxiv:2603.19640",
+      "title": "用 Logistic 长尾统计给 Huber 定尺度，城市 SPP 能否更稳",
+      "url": "https://arxiv.org/abs/2603.19640",
+      "published": "2026-03-20",
+      "digest_date": "2026-07-26",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 11,
+    "receiver-engineering": 13,
     "low-cost-mobile": 5,
-    "positioning": 12
+    "positioning": 13
   },
   "learning_level_counts": {
-    "foundation": 12,
-    "intermediate": 12,
-    "advanced": 12
+    "foundation": 13,
+    "intermediate": 13,
+    "advanced": 13
   },
   "positioning_rotation": {
-    "spp": 2,
+    "spp": 3,
     "rtk": 2,
     "ppp-ppp-rtk": 2,
     "dual-antenna-heading": 2,
