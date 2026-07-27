@@ -975,23 +975,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02129-2",
+      "title": "PRX 把 RINEX、星历改正和逐星诊断量摊平成可检查的 CSV",
+      "url": "https://doi.org/10.1007/s10291-026-02129-2",
+      "published": "2026-07-24",
+      "digest_date": "2026-07-27",
+      "section": "brief",
+      "category": "rinex-preprocessing-python-prx"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152446",
+      "title": "低成本 NMEA 纬度误差呈偏斜长尾，单一高斯会低估尾部",
+      "url": "https://doi.org/10.3390/rs18152446",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-27",
+      "section": "brief",
+      "category": "low-cost-nmea-heavy-tail-normality"
+    },
+    {
+      "source_id": "doi:10.26552/com.c.2026.043",
+      "title": "四次快速电离层暴揭示相同持续时间并不意味着同一种定位误差方向",
+      "url": "https://doi.org/10.26552/com.C.2026.043",
+      "published": "2026-07-20",
+      "digest_date": "2026-07-27",
+      "section": "brief",
+      "category": "ionospheric-storm-circular-position-error"
+    },
+    {
+      "source_id": "doi:10.21163/gt_2026.213.14",
+      "title": "手机 NMEA、Python HPL 与 WebGIS 串起低成本沿海完整性看板",
+      "url": "https://doi.org/10.21163/GT_2026.213.14",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-27",
+      "section": "brief",
+      "category": "coastal-gnss-integrity-webgis-low-cost"
+    },
+    {
+      "source_id": "doi:10.3390/atmos17080711",
+      "title": "双通道闪烁预报提高召回，但 71 次误报显示它更像预警器而非判决器",
+      "url": "https://doi.org/10.3390/atmos17080711",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-27",
+      "section": "brief",
+      "category": "gnss-scintillation-dual-channel-forecast"
+    },
+    {
+      "source_id": "blewitt:1997-gps-observation-equations",
+      "title": "从非差到双差：两次相减究竟消掉了什么",
+      "url": "https://web.gps.caltech.edu/classes/ge111/Docs/GPSbasics.pdf",
+      "published": "1997",
+      "digest_date": "2026-07-27",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s16070945",
+      "title": "固定失败率比率检验：阈值应随模型强度变化",
+      "url": "https://doi.org/10.3390/s16070945",
+      "published": "2016-06-23",
+      "digest_date": "2026-07-27",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s24092712",
+      "title": "复杂环境纯 GNSS RTK：用多普勒续接与后验双差门控减少误固定",
+      "url": "https://doi.org/10.3390/s24092712",
+      "published": "2024-04-24",
+      "digest_date": "2026-07-27",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 13,
+    "receiver-engineering": 15,
     "low-cost-mobile": 5,
-    "positioning": 13
+    "positioning": 14
   },
   "learning_level_counts": {
-    "foundation": 13,
-    "intermediate": 13,
-    "advanced": 13
+    "foundation": 14,
+    "intermediate": 14,
+    "advanced": 14
   },
   "positioning_rotation": {
     "spp": 3,
-    "rtk": 2,
+    "rtk": 3,
     "ppp-ppp-rtk": 2,
     "dual-antenna-heading": 2,
     "smartphone-low-cost": 2,
