@@ -1050,24 +1050,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "euspa:osnma-one-year-2026",
+      "title": "OSNMA 运行一周年：认证导航电文，不等于认证测距或抵抗压制",
+      "url": "https://www.euspa.europa.eu/newsroom-events/news/celebrating-one-year-galileo-osnma-milestone-trusted-positioning",
+      "published": "2026-07-27",
+      "digest_date": "2026-07-28",
+      "section": "brief",
+      "category": "galileo-osnma-first-year-boundary"
+    },
+    {
+      "source_id": "esa:galileo-sat33-sat34-service",
+      "title": "SAT 33 与 SAT 34 入网，增加冗余但不自动等于用户精度跃升",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service",
+      "published": "2026-07-24",
+      "digest_date": "2026-07-28",
+      "section": "brief",
+      "category": "galileo-sat33-sat34-entry-into-service"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02117-6",
+      "title": "BDS-3 星间链路削弱地心 Z 分量与轨道参数的耦合",
+      "url": "https://doi.org/10.1007/s10291-026-02117-6",
+      "published": "2026-07-20",
+      "digest_date": "2026-07-28",
+      "section": "brief",
+      "category": "bds3-isl-geocenter-multi-gnss"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b1-2026-647-2026",
+      "title": "W/X 双频段雷达与 GNSS 因子图让海上 SLAM 更连续，但真值边界要看清",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B1-2026-647-2026",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-28",
+      "section": "brief",
+      "category": "maritime-multiband-radar-gnss-factor-graph"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae8617",
+      "title": "把 GNSS 有色噪声写进顺序滤波，城市多传感器融合不再假定每历元独立",
+      "url": "https://doi.org/10.1088/1361-6501/ae8617",
+      "published": "2026-07-03",
+      "digest_date": "2026-07-28",
+      "section": "brief",
+      "category": "adaptive-sequential-filter-colored-gnss-noise"
+    },
+    {
+      "source_id": "igs:using-igs-products-v2.1",
+      "title": "IGS 精密轨道与钟差怎样把全球网络压缩成单站 PPP 输入",
+      "url": "https://files.igs.org/pub/resource/pubs/UsingIGSProductsVer21_cor.pdf",
+      "published": "2015-09",
+      "digest_date": "2026-07-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-020-0009-x",
+      "title": "保留原始多频观测：少放大噪声，代价是显式估电离层与偏差",
+      "url": "https://doi.org/10.1186/s43020-020-0009-x",
+      "published": "2020-03-25",
+      "digest_date": "2026-07-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02109-6",
+      "title": "两个独立改正架构互相校验：IASB 怎样发现 PPP-RTK 静默失效",
+      "url": "https://doi.org/10.1007/s10291-026-02109-6",
+      "published": "2026-06-22",
+      "digest_date": "2026-07-28",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 15,
+    "receiver-engineering": 17,
     "low-cost-mobile": 5,
-    "positioning": 14
+    "positioning": 15
   },
   "learning_level_counts": {
-    "foundation": 14,
-    "intermediate": 14,
-    "advanced": 14
+    "foundation": 15,
+    "intermediate": 15,
+    "advanced": 15
   },
   "positioning_rotation": {
     "spp": 3,
     "rtk": 3,
-    "ppp-ppp-rtk": 2,
+    "ppp-ppp-rtk": 3,
     "dual-antenna-heading": 2,
     "smartphone-low-cost": 2,
     "integrity": 2
