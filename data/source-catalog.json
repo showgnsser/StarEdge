@@ -1125,19 +1125,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "easa:sib-2022-02r4",
+      "title": "EASA 再修订干扰与欺骗通告：从飞行报告到管制容量都要闭环",
+      "url": "https://ad.easa.europa.eu/blob/EASA_SIB_2022_02R4.pdf/SIB_2022-02R4_1",
+      "published": "2026-07-03",
+      "digest_date": "2026-07-29",
+      "section": "brief",
+      "category": "easa-gnss-jamming-spoofing-sib-r4"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-annals-xi-1-2026-35-2026",
+      "title": "墨尔本多传感器数据集开放原始观测，也暴露“真值”与同步边界",
+      "url": "https://doi.org/10.5194/isprs-annals-XI-1-2026-35-2026",
+      "published": "2026-07-03",
+      "digest_date": "2026-07-29",
+      "section": "brief",
+      "category": "melbourne-multisensor-urban-positioning-dataset"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-annals-xi-1-2026-143-2026",
+      "title": "GNSS 约束的闭式初始化，在视觉困难段仍会显著退化",
+      "url": "https://doi.org/10.5194/isprs-annals-XI-1-2026-143-2026",
+      "published": "2026-07-03",
+      "digest_date": "2026-07-29",
+      "section": "brief",
+      "category": "gnss-constrained-vio-closed-form-initialization"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-annals-xi-3-2026-625-2026",
+      "title": "GNSS 垂向序列识别干旱有潜力，但 2026—2029 只是情景外推",
+      "url": "https://doi.org/10.5194/isprs-annals-XI-3-2026-625-2026",
+      "published": "2026-07-08",
+      "digest_date": "2026-07-29",
+      "section": "brief",
+      "category": "gnss-vertical-drought-ssa-cnn-transformer"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-annals-xi-1-2026-455-2026",
+      "title": "手机 RTK 测点可到厘米级，内部协方差却明显过度自信",
+      "url": "https://doi.org/10.5194/isprs-annals-XI-1-2026-455-2026",
+      "published": "2026-07-03",
+      "digest_date": "2026-07-29",
+      "section": "brief",
+      "category": "pix4dcatch-mobile-rtk-point-surveying"
+    },
+    {
+      "source_id": "doi:10.59490/tb.96",
+      "title": "整体模型检验：先问“所有观测能否共同成立”",
+      "url": "https://doi.org/10.59490/tb.96",
+      "published": "2024-06-20",
+      "digest_date": "2026-07-29",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-017-1045-7",
+      "title": "DIA 的条件选择让估计误差出现非高斯尾",
+      "url": "https://doi.org/10.1007/s00190-017-1045-7",
+      "published": "2017-07-06",
+      "digest_date": "2026-07-29",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02029-5",
+      "title": "多维模型失配下的 UAV GNSS 定位安全",
+      "url": "https://doi.org/10.1007/s10291-026-02029-5",
+      "published": "2026-03-09",
+      "digest_date": "2026-07-29",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 17,
+    "receiver-engineering": 19,
     "low-cost-mobile": 5,
-    "positioning": 15
+    "positioning": 16
   },
   "learning_level_counts": {
-    "foundation": 15,
-    "intermediate": 15,
-    "advanced": 15
+    "foundation": 16,
+    "intermediate": 16,
+    "advanced": 16
   },
   "positioning_rotation": {
     "spp": 3,
@@ -1145,6 +1220,6 @@
     "ppp-ppp-rtk": 3,
     "dual-antenna-heading": 2,
     "smartphone-low-cost": 2,
-    "integrity": 2
+    "integrity": 3
   }
 }
