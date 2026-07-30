@@ -1200,25 +1200,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "navisp:el2-166-sting-final-presentation",
+      "title": "星间相对 GNSS 原型从 TRL 2 走向 TRL 6，但厘米级仍是项目目标而非公开验收结果",
+      "url": "https://navisp.esa.int/event/details/234/show",
+      "published": "2026-07-28",
+      "digest_date": "2026-07-30",
+      "section": "brief",
+      "category": "navisp-sting-relative-gnss-space"
+    },
+    {
+      "source_id": "doi:10.3390/drones10080559",
+      "title": "LiDAR 辅助固定翼自主起降完成实飞，但没有独立真值就不能声称绝对着陆精度",
+      "url": "https://doi.org/10.3390/drones10080559",
+      "published": "2026-07-23",
+      "digest_date": "2026-07-30",
+      "section": "brief",
+      "category": "lidar-fixed-wing-atol-gnss-degraded"
+    },
+    {
+      "source_id": "doi:10.1029/2025JB032600",
+      "title": "5 分钟 GNSS 与稀疏变点让慢滑移起止更清楚，但高采样率不自动等于高空间分辨率",
+      "url": "https://doi.org/10.1029/2025JB032600",
+      "published": "2026-07-21",
+      "digest_date": "2026-07-30",
+      "section": "brief",
+      "category": "boso-high-rate-gnss-slow-slip-change-point"
+    },
+    {
+      "source_id": "doi:10.1093/gji/ggag294",
+      "title": "北斗 GEO 与多 GNSS 看见 2—8 mHz 同震电离层波，但震前三日异常仍不能当预测器",
+      "url": "https://doi.org/10.1093/gji/ggag294",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-30",
+      "section": "brief",
+      "category": "myanmar-earthquake-bds-geo-multignss-ionosphere"
+    },
+    {
+      "source_id": "doi:10.3390/s26144645",
+      "title": "消费级加速度计在 5 英里样本上胜过 LiDAR，但 F1 优势受车辆与人工真值约束",
+      "url": "https://doi.org/10.3390/s26144645",
+      "published": "2026-07-22",
+      "digest_date": "2026-07-30",
+      "section": "brief",
+      "category": "road-anomaly-multigrade-gnss-ins-sensors"
+    },
+    {
+      "source_id": "doi:10.3390/rs12050747",
+      "title": "从双差载波基线到航向：主基线失效时怎样切换",
+      "url": "https://doi.org/10.3390/rs12050747",
+      "published": "2020-02-25",
+      "digest_date": "2026-07-30",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s17020296",
+      "title": "在测量域联合解姿态与模糊度：为什么部分固定更稳",
+      "url": "https://doi.org/10.3390/s17020296",
+      "published": "2017-02-05",
+      "digest_date": "2026-07-30",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s25216761",
+      "title": "高率多天线 GNSS 姿态跟踪：用上一历元把非线性整数问题线性化",
+      "url": "https://doi.org/10.3390/s25216761",
+      "published": "2025-11-05",
+      "digest_date": "2026-07-30",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 19,
+    "receiver-engineering": 21,
     "low-cost-mobile": 5,
-    "positioning": 16
+    "positioning": 17
   },
   "learning_level_counts": {
-    "foundation": 16,
-    "intermediate": 16,
-    "advanced": 16
+    "foundation": 17,
+    "intermediate": 17,
+    "advanced": 17
   },
   "positioning_rotation": {
     "spp": 3,
     "rtk": 3,
     "ppp-ppp-rtk": 3,
-    "dual-antenna-heading": 2,
+    "dual-antenna-heading": 3,
     "smartphone-low-cost": 2,
     "integrity": 3
   }
