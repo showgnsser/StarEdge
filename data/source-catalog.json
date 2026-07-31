@@ -1275,26 +1275,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.06.096",
+      "title": "MHM 加入格网内空间协方差后，遮挡场景提升不能外推到任意站点",
+      "url": "https://doi.org/10.1016/j.asr.2026.06.096",
+      "published": "2026-07-02",
+      "digest_date": "2026-07-31",
+      "section": "brief",
+      "category": "mhm-lsc-spatial-covariance-multipath"
+    },
+    {
+      "source_id": "doi:10.1016/j.ast.2026.113114",
+      "title": "分布式阵列 DPE 用信号域联合似然换几何增益，但三接收机校园结果仍是场景证据",
+      "url": "https://doi.org/10.1016/j.ast.2026.113114",
+      "published": "2026-07-04",
+      "digest_date": "2026-07-31",
+      "section": "brief",
+      "category": "distributed-array-dpe-blockage-multipath"
+    },
+    {
+      "source_id": "doi:10.1016/j.measurement.2026.122034",
+      "title": "TDCP 给滑坡监测提供逐历元先验，也不能在长失锁后恢复绝对坐标",
+      "url": "https://doi.org/10.1016/j.measurement.2026.122034",
+      "published": "2026-07-14",
+      "digest_date": "2026-07-31",
+      "section": "brief",
+      "category": "tdcp-prior-landslide-bp-iar"
+    },
+    {
+      "source_id": "doi:10.1016/j.oceaneng.2026.126530",
+      "title": "浪高约束与 GRU-R 改善 USV 断星导航，但提升百分比依赖两组海况与比较对象",
+      "url": "https://doi.org/10.1016/j.oceaneng.2026.126530",
+      "published": "2026-07-30",
+      "digest_date": "2026-07-31",
+      "section": "brief",
+      "category": "usv-wave-height-grur-gnss-ins-outage"
+    },
+    {
+      "source_id": "gsc:sngu-2026006",
+      "title": "Galileo EWSS 测试占用 OSNMA 的保留 ADKD，现有接收机应按 ICD 丢弃而非误解析",
+      "url": "https://www.gsc-europa.eu/sites/default/files/sites/all/files/Galileo-service-notice-28-v1.0.pdf",
+      "published": "2026-07-15",
+      "digest_date": "2026-07-31",
+      "section": "brief",
+      "category": "galileo-ewss-osnma-adkd2-test"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-018-0818-7",
+      "title": "先看清观测：手机码噪声、失锁与硬件偏差怎样进入解算",
+      "url": "https://doi.org/10.1007/s10291-018-0818-7",
+      "published": "2018-12-28",
+      "digest_date": "2026-07-31",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3389/feart.2022.1018420",
+      "title": "从 C/N0 到方差：给手机观测建立可估计的随机模型",
+      "url": "https://doi.org/10.3389/feart.2022.1018420",
+      "published": "2022-09-27",
+      "digest_date": "2026-07-31",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-021-00042-2",
+      "title": "真实环境手机 PPP：用观测预测换连续性时要付什么代价",
+      "url": "https://doi.org/10.1186/s43020-021-00042-2",
+      "published": "2021-04-19",
+      "digest_date": "2026-07-31",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
     "receiver-engineering": 21,
-    "low-cost-mobile": 5,
-    "positioning": 17
+    "low-cost-mobile": 7,
+    "positioning": 18
   },
   "learning_level_counts": {
-    "foundation": 17,
-    "intermediate": 17,
-    "advanced": 17
+    "foundation": 18,
+    "intermediate": 18,
+    "advanced": 18
   },
   "positioning_rotation": {
     "spp": 3,
     "rtk": 3,
     "ppp-ppp-rtk": 3,
     "dual-antenna-heading": 3,
-    "smartphone-low-cost": 2,
+    "smartphone-low-cost": 3,
     "integrity": 3
   }
 }
