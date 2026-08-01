@@ -1350,22 +1350,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/mining6030057",
+      "title": "19 年两期 GNSS 看见采空区持续沉降，但年均速率不是连续运动过程",
+      "url": "https://doi.org/10.3390/mining6030057",
+      "published": "2026-07-30",
+      "digest_date": "2026-08-01",
+      "section": "brief",
+      "category": "long-term-post-mining-gnss-subsidence"
+    },
+    {
+      "source_id": "doi:10.1016/j.geomat.2026.100100",
+      "title": "随机森林能给单频 Doppler 周跳判据做可靠性门控，但摘要结果仍不是修复能力",
+      "url": "https://doi.org/10.1016/j.geomat.2026.100100",
+      "published": "2026-07",
+      "digest_date": "2026-08-01",
+      "section": "brief",
+      "category": "single-frequency-doppler-cycle-slip-reliability-rf"
+    },
+    {
+      "source_id": "doi:10.3390/a19070554",
+      "title": "带标签调权的聚类集成改善 LOS/NLOS 分类，但不是真正无监督也未直接验证定位收益",
+      "url": "https://doi.org/10.3390/a19070554",
+      "published": "2026-07-07",
+      "digest_date": "2026-08-01",
+      "section": "brief",
+      "category": "adaptive-weighted-clustering-gnss-los-nlos"
+    },
+    {
+      "source_id": "doi:10.3390/s26134295",
+      "title": "eLoran 给卫星不足时的 RAIM 增加冗余，当前证据仍是仿真而非运行保证",
+      "url": "https://doi.org/10.3390/s26134295",
+      "published": "2026-07-06",
+      "digest_date": "2026-08-01",
+      "section": "brief",
+      "category": "gnss-eloran-hybrid-raim-satellite-deficient"
+    },
+    {
+      "source_id": "doi:10.3390/math14132423",
+      "title": "短时断星学习补偿降低部分尾部漂移，但 30 m 级跨域误差仍只能算近似轨迹",
+      "url": "https://doi.org/10.3390/math14132423",
+      "published": "2026-07-06",
+      "digest_date": "2026-08-01",
+      "section": "brief",
+      "category": "imu-sequence-short-gnss-outage-delayed-switch"
+    },
+    {
+      "source_id": "navipedia:multipath",
+      "title": "从直达与反射叠加开始：多路径怎样污染码和载波",
+      "url": "https://gssc.esa.int/navipedia/index.php?title=Multipath",
+      "published": "2011",
+      "digest_date": "2026-08-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1002/navi.408",
+      "title": "从极化差到伪距改正：把反射特征接回观测方程",
+      "url": "https://doi.org/10.1002/navi.408",
+      "published": "2021-01-12",
+      "digest_date": "2026-08-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s26134166",
+      "title": "手机时序加权 SPP：逐星 LOS 误差能否重建可信坐标改正",
+      "url": "https://doi.org/10.3390/s26134166",
+      "published": "2026-07-02",
+      "digest_date": "2026-08-01",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 21,
+    "receiver-engineering": 23,
     "low-cost-mobile": 7,
-    "positioning": 18
+    "positioning": 19
   },
   "learning_level_counts": {
-    "foundation": 18,
-    "intermediate": 18,
-    "advanced": 18
+    "foundation": 19,
+    "intermediate": 19,
+    "advanced": 19
   },
   "positioning_rotation": {
-    "spp": 3,
+    "spp": 4,
     "rtk": 3,
     "ppp-ppp-rtk": 3,
     "dual-antenna-heading": 3,
