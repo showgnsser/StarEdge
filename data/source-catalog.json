@@ -1425,23 +1425,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.05.021",
+      "title": "重尾分布能让城市 RTK 验收更有韧性，但摘要结果仍不能替代错误固定率",
+      "url": "https://doi.org/10.1016/j.asr.2026.05.021",
+      "published": "2026-08-01",
+      "digest_date": "2026-08-02",
+      "section": "brief",
+      "category": "heavy-tail-resilient-ambiguity-resolution-urban-rtk"
+    },
+    {
+      "source_id": "doi:10.1016/j.rineng.2026.112194",
+      "title": "物理标签与软权能保住手机解可用性，设备编码占主导却提示域迁移风险",
+      "url": "https://doi.org/10.1016/j.rineng.2026.112194",
+      "published": "2026-07-25",
+      "digest_date": "2026-08-02",
+      "section": "brief",
+      "category": "physics-guided-smartphone-multipath-soft-wls"
+    },
+    {
+      "source_id": "doi:10.3390/s26144434",
+      "title": "混合 LEO/MEO 只有先管住轨钟误差，增加可见星才可能转化为定位收益",
+      "url": "https://doi.org/10.3390/s26144434",
+      "published": "2026-07-13",
+      "digest_date": "2026-08-02",
+      "section": "brief",
+      "category": "hybrid-leo-meo-pseudorange-error-budget"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.06.114",
+      "title": "星载自适应序贯滤波能快速给出 LEO 预报轨道，广播星历受限时边界会显著放大",
+      "url": "https://doi.org/10.1016/j.asr.2026.06.114",
+      "published": "2026-07-03",
+      "digest_date": "2026-08-02",
+      "section": "brief",
+      "category": "onboard-ultra-rapid-leo-orbit-gnss-filtering"
+    },
+    {
+      "source_id": "doi:10.1016/j.geog.2026.06.010",
+      "title": "PPP-AR 垂向位移能追踪年际雪载，但单站沉降不是局地雪深的直接传感器",
+      "url": "https://doi.org/10.1016/j.geog.2026.06.010",
+      "published": "2026-07-01",
+      "digest_date": "2026-08-02",
+      "section": "brief",
+      "category": "ppp-ar-vertical-displacement-interannual-snow-loading"
+    },
+    {
+      "source_id": "curtin:teunissen-1995-lambda-method",
+      "title": "LAMBDA：为什么不改变整数问题，也能把搜索从细长椭球变得可算",
+      "url": "https://gnss.curtin.edu.au/wp-content/uploads/sites/21/2016/04/Teunissen1995LAMBDA.pdf",
+      "published": "1995-09",
+      "digest_date": "2026-08-02",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s26072201",
+      "title": "从候选到可拒绝决定：整数孔径怎样把误固定与不固定分开",
+      "url": "https://doi.org/10.3390/s26072201",
+      "published": "2026-04-02",
+      "digest_date": "2026-08-02",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s26072080",
+      "title": "跨系统偏差辅助 RTK：让机器学习检查固定，而不是直接生成坐标",
+      "url": "https://doi.org/10.3390/s26072080",
+      "published": "2026-03-27",
+      "digest_date": "2026-08-02",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 23,
+    "receiver-engineering": 25,
     "low-cost-mobile": 7,
-    "positioning": 19
+    "positioning": 20
   },
   "learning_level_counts": {
-    "foundation": 19,
-    "intermediate": 19,
-    "advanced": 19
+    "foundation": 20,
+    "intermediate": 20,
+    "advanced": 20
   },
   "positioning_rotation": {
     "spp": 4,
-    "rtk": 3,
+    "rtk": 4,
     "ppp-ppp-rtk": 3,
     "dual-antenna-heading": 3,
     "smartphone-low-cost": 3,
