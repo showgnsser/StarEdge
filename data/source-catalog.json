@@ -1500,24 +1500,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1515/jag-2026-0063",
+      "title": "手机纯载波相对定位可到厘米量级，但基线增长暴露设备与星座差异",
+      "url": "https://doi.org/10.1515/jag-2026-0063",
+      "published": "2026-08-03",
+      "digest_date": "2026-08-03",
+      "section": "brief",
+      "category": "smartphone-carrier-phase-only-mafa-relative-positioning"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.05.035",
+      "title": "按权重尾和截断候选可加速 BIE，但最优均方误差仍依赖分布模型",
+      "url": "https://doi.org/10.1016/j.asr.2026.05.035",
+      "published": "2026-08-01",
+      "digest_date": "2026-08-03",
+      "section": "brief",
+      "category": "weight-constrained-bie-ambiguity-resolution"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02078-1",
+      "title": "可变维度序贯更新减少空算，但摘要尚未给出可移植的加速比",
+      "url": "https://doi.org/10.1007/s00190-026-02078-1",
+      "published": "2026-07-14",
+      "digest_date": "2026-08-03",
+      "section": "brief",
+      "category": "variable-dimension-sequential-kalman-gnss"
+    },
+    {
+      "source_id": "doi:10.33012/navi.778",
+      "title": "模糊度已解的显著性检验提升模型失配检出力，但尖峰功效需要显式缓解",
+      "url": "https://doi.org/10.33012/navi.778",
+      "published": "2026-07-01",
+      "digest_date": "2026-08-03",
+      "section": "brief",
+      "category": "ambiguity-resolved-parameter-significance-test-implementation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02118-5",
+      "title": "TurboUNet 改善加密码估计 BER，但论文研究的是攻击能力而非接收机防护",
+      "url": "https://doi.org/10.1007/s10291-026-02118-5",
+      "published": "2026-07-10",
+      "digest_date": "2026-08-03",
+      "section": "brief",
+      "category": "turbounet-noncooperative-encrypted-code-estimation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-023-01488-4",
+      "title": "从码相观测到 PPP 状态：为什么精密产品不等于瞬时精密坐标",
+      "url": "https://doi.org/10.1007/s10291-023-01488-4",
+      "published": "2023-07-19",
+      "digest_date": "2026-08-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00064-4",
+      "title": "从 PPP 到 PPP-RTK：网络广播的不是一个坐标差",
+      "url": "https://doi.org/10.1186/s43020-022-00064-4",
+      "published": "2022-02-14",
+      "digest_date": "2026-08-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/geomatics6030050",
+      "title": "低成本车载 PPP-RTK：固定率、重收敛与环境热点必须一起看",
+      "url": "https://doi.org/10.3390/geomatics6030050",
+      "published": "2026-05-14",
+      "digest_date": "2026-08-03",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 3,
     "tracking": 5,
-    "receiver-engineering": 25,
+    "receiver-engineering": 27,
     "low-cost-mobile": 7,
-    "positioning": 20
+    "positioning": 21
   },
   "learning_level_counts": {
-    "foundation": 20,
-    "intermediate": 20,
-    "advanced": 20
+    "foundation": 21,
+    "intermediate": 21,
+    "advanced": 21
   },
   "positioning_rotation": {
     "spp": 4,
     "rtk": 4,
-    "ppp-ppp-rtk": 3,
+    "ppp-ppp-rtk": 4,
     "dual-antenna-heading": 3,
     "smartphone-low-cost": 3,
     "integrity": 3
