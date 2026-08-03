@@ -1547,23 +1547,23 @@
       "category": "turbounet-noncooperative-encrypted-code-estimation"
     },
     {
-      "source_id": "doi:10.1007/s10291-023-01488-4",
-      "title": "从码相观测到 PPP 状态：为什么精密产品不等于瞬时精密坐标",
-      "url": "https://doi.org/10.1007/s10291-023-01488-4",
-      "published": "2023-07-19",
+      "source_id": "gnss-sdr:pcps-glrt-cfar",
+      "title": "二维搜索不是找最高点就结束：PCPS、GLRT 与 CFAR 门限",
+      "url": "https://gnss-sdr.org/docs/sp-blocks/acquisition/",
+      "published": "2026-03-10",
       "digest_date": "2026-08-03",
       "section": "deep",
-      "category": "receiver-engineering",
+      "category": "acquisition",
       "learning_level": "foundation"
     },
     {
-      "source_id": "doi:10.1186/s43020-022-00064-4",
-      "title": "从 PPP 到 PPP-RTK：网络广播的不是一个坐标差",
-      "url": "https://doi.org/10.1186/s43020-022-00064-4",
-      "published": "2022-02-14",
+      "source_id": "gnss-sdr:dll-early-late-discriminator",
+      "title": "Early-Late 间隔为何不是越窄越好：归一化 DLL 的噪声与多路径折衷",
+      "url": "https://gnss-sdr.org/docs/sp-blocks/tracking/",
+      "published": "2026-03-10",
       "digest_date": "2026-08-03",
       "section": "deep",
-      "category": "receiver-engineering",
+      "category": "tracking",
       "learning_level": "intermediate"
     },
     {
@@ -1578,9 +1578,9 @@
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 3,
-    "tracking": 5,
-    "receiver-engineering": 27,
+    "acquisition": 4,
+    "tracking": 6,
+    "receiver-engineering": 25,
     "low-cost-mobile": 7,
     "positioning": 21
   },
