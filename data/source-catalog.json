@@ -1575,25 +1575,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s12665-026-13067-0",
+      "title": "32 个 GNSS 站反演保加利亚陆地水储量",
+      "url": "https://doi.org/10.1007/s12665-026-13067-0",
+      "published": "2026-08-03",
+      "digest_date": "2026-08-04",
+      "section": "brief",
+      "category": "gnss-vertical-loading-terrestrial-water-storage"
+    },
+    {
+      "source_id": "doi:10.1093/gji/ggag308",
+      "title": "改进 GNSS 速度场揭示大同盆岭分布式形变",
+      "url": "https://doi.org/10.1093/gji/ggag308",
+      "published": "2026-07-31",
+      "digest_date": "2026-08-04",
+      "section": "brief",
+      "category": "gnss-intraplate-deformation-datong"
+    },
+    {
+      "source_id": "doi:10.3390/atoms14080067",
+      "title": "一米定位误差为何要求纳秒级星载原子钟",
+      "url": "https://doi.org/10.3390/atoms14080067",
+      "published": "2026-08-02",
+      "digest_date": "2026-08-04",
+      "section": "brief",
+      "category": "gnss-atomic-clock-survey"
+    },
+    {
+      "source_id": "doi:10.3390/geosciences16080309",
+      "title": "GNSS-PWV 双分支 LSTM 提升 2—3 小时降雨召回",
+      "url": "https://doi.org/10.3390/geosciences16080309",
+      "published": "2026-08-02",
+      "digest_date": "2026-08-04",
+      "section": "brief",
+      "category": "gnss-pwv-short-term-rainfall-forecast"
+    },
+    {
+      "source_id": "doi:10.3390/s26154907",
+      "title": "用 PPS 同步全站仪直接检验无人机 RTK 与 PPK",
+      "url": "https://doi.org/10.3390/s26154907",
+      "published": "2026-08-03",
+      "digest_date": "2026-08-04",
+      "section": "brief",
+      "category": "uav-rtk-ppk-independent-ground-truth"
+    },
+    {
+      "source_id": "doi:10.19818/j.cnki.1671-1637.2010.05.019",
+      "title": "从相干积累到差分相干：10 ms 频差损失与平方损失",
+      "url": "https://transport.chd.edu.cn/en/article/doi/10.19818/j.cnki.1671-1637.2010.05.019",
+      "published": "2010-10-25",
+      "digest_date": "2026-08-04",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s18072114",
+      "title": "低成本超短基线航向：MSR 无伪距整周搜索的成功率—精度矛盾",
+      "url": "https://doi.org/10.3390/s18072114",
+      "published": "2018-07-01",
+      "digest_date": "2026-08-04",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/s21020502",
+      "title": "固定 PLL 带宽为何不能同时讨好弱信号与车载 jerk",
+      "url": "https://doi.org/10.3390/s21020502",
+      "published": "2021-01-12",
+      "digest_date": "2026-08-04",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 4,
-    "tracking": 6,
+    "acquisition": 5,
+    "tracking": 7,
     "receiver-engineering": 25,
     "low-cost-mobile": 7,
-    "positioning": 21
+    "positioning": 22
   },
   "learning_level_counts": {
-    "foundation": 21,
-    "intermediate": 21,
-    "advanced": 21
+    "foundation": 22,
+    "intermediate": 22,
+    "advanced": 22
   },
   "positioning_rotation": {
     "spp": 4,
     "rtk": 4,
     "ppp-ppp-rtk": 4,
-    "dual-antenna-heading": 3,
+    "dual-antenna-heading": 4,
     "smartphone-low-cost": 3,
     "integrity": 3
   }
