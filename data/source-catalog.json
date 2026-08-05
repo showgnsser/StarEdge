@@ -1650,26 +1650,101 @@
       "section": "deep",
       "category": "tracking",
       "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1038/s44459-026-00064-9",
+      "title": "多频相关器几何填补城市多路径检测盲区",
+      "url": "https://doi.org/10.1038/s44459-026-00064-9",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-05",
+      "section": "brief",
+      "category": "multifrequency-correlator-multipath-detection"
+    },
+    {
+      "source_id": "doi:10.3390/s26154925",
+      "title": "模型失配门控抑制 Sage–Husa 过度自适应",
+      "url": "https://doi.org/10.3390/s26154925",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-05",
+      "section": "brief",
+      "category": "dual-adaptive-sage-husa-gnss-ins"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b4-2026-377-2026",
+      "title": "几何感知回归在受控条件下桥接 30 分钟载波相位缺口",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B4-2026-377-2026",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-05",
+      "section": "brief",
+      "category": "geometry-aware-carrier-phase-gap-prediction"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlix-b5-2026-57-2026",
+      "title": "600 欧元高山站能做厘米 RTK，也会产生隐蔽错固定",
+      "url": "https://doi.org/10.5194/isprs-archives-XLIX-B5-2026-57-2026",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-05",
+      "section": "brief",
+      "category": "low-cost-alpine-rtk-ztd-reliability"
+    },
+    {
+      "source_id": "doi:10.1007/s44291-026-00260-5",
+      "title": "尼日利亚 14 天低成本 SPP 中 GPS+北斗降低约 14% 误差",
+      "url": "https://doi.org/10.1007/s44291-026-00260-5",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-05",
+      "section": "brief",
+      "category": "gps-beidou-low-cost-spp-nigeria"
+    },
+    {
+      "source_id": "doi:10.1371/journal.pone.0124696",
+      "title": "手机拿法不是姿势问题：天线方向图、人体遮挡与米级偏差",
+      "url": "https://doi.org/10.1371/journal.pone.0124696",
+      "published": "2015-04-29",
+      "digest_date": "2026-08-05",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22031289",
+      "title": "多频不等于必胜：林下手机的 DRMS、长尾与个体差异",
+      "url": "https://doi.org/10.3390/s22031289",
+      "published": "2022-02-09",
+      "digest_date": "2026-08-05",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s44391-026-00081-9",
+      "title": "受控林地里的手机 SPP：2—6 m 常态与外接天线亚米边界",
+      "url": "https://doi.org/10.1007/s44391-026-00081-9",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-05",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
-    "receiver-engineering": 25,
-    "low-cost-mobile": 7,
-    "positioning": 22
+    "receiver-engineering": 26,
+    "low-cost-mobile": 8,
+    "positioning": 23
   },
   "learning_level_counts": {
-    "foundation": 22,
-    "intermediate": 22,
-    "advanced": 22
+    "foundation": 23,
+    "intermediate": 23,
+    "advanced": 23
   },
   "positioning_rotation": {
     "spp": 4,
     "rtk": 4,
     "ppp-ppp-rtk": 4,
     "dual-antenna-heading": 4,
-    "smartphone-low-cost": 3,
+    "smartphone-low-cost": 4,
     "integrity": 3
   }
 }
