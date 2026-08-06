@@ -1725,19 +1725,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1360/ssi-2025-0375",
+      "title": "DeepONet 把地基 GNSS 与掩星剖面接入全球电离层层析",
+      "url": "https://doi.org/10.1360/ssi-2025-0375",
+      "published": "2026-08-05",
+      "digest_date": "2026-08-06",
+      "section": "brief",
+      "category": "deep-operator-ionospheric-tomography"
+    },
+    {
+      "source_id": "doi:10.1108/aeat-02-2026-0073",
+      "title": "逆 Wishart 先承认噪声协方差会变，再做慢变欺骗检验",
+      "url": "https://doi.org/10.1108/aeat-02-2026-0073",
+      "published": "2026-08-06",
+      "digest_date": "2026-08-06",
+      "section": "brief",
+      "category": "inverse-wishart-mlrt-spoofing-gnss-ins"
+    },
+    {
+      "source_id": "doi:10.1038/s44459-026-00063-w",
+      "title": "图感知扩散让百站 GNSS 网络用邻居消息逼近中心解",
+      "url": "https://doi.org/10.1038/s44459-026-00063-w",
+      "published": "2026-08-05",
+      "digest_date": "2026-08-06",
+      "section": "brief",
+      "category": "graph-aware-decentralized-gnss"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae8d49",
+      "title": "MSSM 门控异常值，分数阶状态承接更长的惯性记忆",
+      "url": "https://doi.org/10.1088/1361-6501/ae8d49",
+      "published": "2026-08-05",
+      "digest_date": "2026-08-06",
+      "section": "brief",
+      "category": "adaptive-mssm-fractional-order-gnss-ins"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152612",
+      "title": "GNSS 标定补上 InSAR 看不见的南北向，也暴露自校验偏乐观",
+      "url": "https://doi.org/10.3390/rs18152612",
+      "published": "2026-08-05",
+      "digest_date": "2026-08-06",
+      "section": "brief",
+      "category": "insar-gnss-leveling-horizontal-subsidence"
+    },
+    {
+      "source_id": "doi:10.3390/s26154938",
+      "title": "先把检测器放回同一残差空间：RAIM 的卡方、奇偶与局部投影",
+      "url": "https://doi.org/10.3390/s26154938",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-06",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.33012/2021.17954",
+      "title": "不急着选哪颗星错：把故障检测与排除合成一个有界解区间",
+      "url": "https://doi.org/10.33012/2021.17954",
+      "published": "2021-09",
+      "digest_date": "2026-08-06",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1109/plans61210.2025.11028291",
+      "title": "共模欺骗让单天线 RAIM 失明：双天线如何把检测量变成保护级",
+      "url": "https://doi.org/10.1109/plans61210.2025.11028291",
+      "published": "2025-04",
+      "digest_date": "2026-08-06",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
-    "receiver-engineering": 26,
+    "receiver-engineering": 28,
     "low-cost-mobile": 8,
-    "positioning": 23
+    "positioning": 24
   },
   "learning_level_counts": {
-    "foundation": 23,
-    "intermediate": 23,
-    "advanced": 23
+    "foundation": 24,
+    "intermediate": 24,
+    "advanced": 24
   },
   "positioning_rotation": {
     "spp": 4,
@@ -1745,6 +1820,6 @@
     "ppp-ppp-rtk": 4,
     "dual-antenna-heading": 4,
     "smartphone-low-cost": 4,
-    "integrity": 3
+    "integrity": 4
   }
 }
