@@ -2100,26 +2100,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/electronics15163559",
+      "title": "分层地形—视觉校正能抑制无人机惯导漂移，但单轨迹仿真不是外场保证",
+      "url": "https://doi.org/10.3390/electronics15163559",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-11",
+      "section": "brief",
+      "category": "layered-terrain-visual-navigation-gnss-denied-uav"
+    },
+    {
+      "source_id": "doi:10.3390/rs18162691",
+      "title": "信息形式更新把百维 GNSS 观测的计算负担与鲁棒性放进同一滤波器",
+      "url": "https://doi.org/10.3390/rs18162691",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-11",
+      "section": "brief",
+      "category": "robust-information-filter-high-dimensional-gnss-sins-uav"
+    },
+    {
+      "source_id": "doi:10.1029/2026JA035373",
+      "title": "反射 GNSS 掠射路径可补高纬电离层层析的海洋与极区几何空白",
+      "url": "https://doi.org/10.1029/2026JA035373",
+      "published": "2026-08-08",
+      "digest_date": "2026-08-11",
+      "section": "brief",
+      "category": "gnss-reflectometry-high-latitude-ionosphere-tomography"
+    },
+    {
+      "source_id": "doi:10.1029/2026JA035367",
+      "title": "低纬闪烁的重尾延伸到“看似噪声”的高频段，单高斯模型会低估尾部",
+      "url": "https://doi.org/10.1029/2026JA035367",
+      "published": "2026-08-08",
+      "digest_date": "2026-08-11",
+      "section": "brief",
+      "category": "multiscale-heavy-tail-low-latitude-gnss-scintillation"
+    },
+    {
+      "source_id": "doi:10.1007/s11069-026-08352-x",
+      "title": "货船上的测地级 GNSS 可补所罗门群岛外海海啸观测空白",
+      "url": "https://doi.org/10.1007/s11069-026-08352-x",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-11",
+      "section": "brief",
+      "category": "cargo-ship-gnss-tsunami-detection-network"
+    },
+    {
+      "source_id": "doi:10.3390/electronics12234781",
+      "title": "同芯片不等于同观测：用开放 Android 数据集建立设备准入基线",
+      "url": "https://doi.org/10.3390/electronics12234781",
+      "published": "2023-11-25",
+      "digest_date": "2026-08-11",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2026_390",
+      "title": "用 Doppler 合成短时载波相位：补数据可改善浮点解，也会伤害错误固定",
+      "url": "https://doi.org/10.1007/1345_2026_390",
+      "published": "2026-06-19",
+      "digest_date": "2026-08-11",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/app15137169",
+      "title": "手机实时 PPP-B2b：混频观测与 C/N₀—仰角混合权如何共同改善可用性",
+      "url": "https://doi.org/10.3390/app15137169",
+      "published": "2025-06-25",
+      "digest_date": "2026-08-11",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
     "receiver-engineering": 34,
-    "low-cost-mobile": 10,
-    "positioning": 28
+    "low-cost-mobile": 12,
+    "positioning": 29
   },
   "learning_level_counts": {
-    "foundation": 28,
-    "intermediate": 28,
-    "advanced": 28
+    "foundation": 29,
+    "intermediate": 29,
+    "advanced": 29
   },
   "positioning_rotation": {
     "spp": 4,
     "rtk": 5,
     "ppp-ppp-rtk": 5,
     "dual-antenna-heading": 5,
-    "smartphone-low-cost": 4,
+    "smartphone-low-cost": 5,
     "integrity": 5
   }
 }
