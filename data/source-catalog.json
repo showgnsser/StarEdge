@@ -2025,25 +2025,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00200-4",
+      "title": "异步地基测距加入 PPP，先解决时间同步成本再谈精度增益",
+      "url": "https://doi.org/10.1186/s43020-026-00200-4",
+      "published": "2026-06-12",
+      "digest_date": "2026-08-10",
+      "section": "brief",
+      "category": "asynchronous-ground-based-augmentation-ppp"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2026_353",
+      "title": "LEO-PNT 硬件在环测试把“星座设想”推进到接收机与 PPP 联调",
+      "url": "https://doi.org/10.1007/1345_2026_353",
+      "published": "2026-05-12",
+      "digest_date": "2026-08-10",
+      "section": "brief",
+      "category": "leo-pnt-hardware-in-loop-dynamic-ppp"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02083-z",
+      "title": "分块相干积分结合神经鉴相器，提高弱 GPS 载波跟踪灵敏度",
+      "url": "https://doi.org/10.1007/s10291-026-02083-z",
+      "published": "2026-05-04",
+      "digest_date": "2026-08-10",
+      "section": "brief",
+      "category": "blocked-coherent-integration-neural-pll-weak-gps"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae554c",
+      "title": "LEO 定轨观测中断时，保护级可能比位置误差更早失去可用性",
+      "url": "https://doi.org/10.1088/1361-6501/ae554c",
+      "published": "2026-04-01",
+      "digest_date": "2026-08-10",
+      "section": "brief",
+      "category": "leo-pod-integrity-observation-gaps"
+    },
+    {
+      "source_id": "doi:10.5194/egusphere-egu26-15669",
+      "title": "接收机类型相关信号畸变偏差会传入钟差、偏差产品和 PPP-AR",
+      "url": "https://doi.org/10.5194/egusphere-egu26-15669",
+      "published": "2026-03-14",
+      "digest_date": "2026-08-10",
+      "section": "brief",
+      "category": "receiver-type-signal-distortion-bias-ppp-ar"
+    },
+    {
+      "source_id": "doi:10.1007/s11707-016-0559-2",
+      "title": "同步多天线为何能用天线间单差同时消除卫星钟与接收机钟",
+      "url": "https://doi.org/10.1007/s11707-016-0559-2",
+      "published": "2016-02-03",
+      "digest_date": "2026-08-10",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s44465-026-00004-5",
+      "title": "两台标准精度接收机何时能改善航向，何时反而放大噪声",
+      "url": "https://doi.org/10.1007/s44465-026-00004-5",
+      "published": "2026-02-04",
+      "digest_date": "2026-08-10",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs16214026",
+      "title": "C-Dynamics 与约束 LAMBDA：用时间预测和基线几何稳住复杂环境双天线定姿",
+      "url": "https://doi.org/10.3390/rs16214026",
+      "published": "2024-10-30",
+      "digest_date": "2026-08-10",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
-    "receiver-engineering": 33,
-    "low-cost-mobile": 9,
-    "positioning": 27
+    "receiver-engineering": 34,
+    "low-cost-mobile": 10,
+    "positioning": 28
   },
   "learning_level_counts": {
-    "foundation": 27,
-    "intermediate": 27,
-    "advanced": 27
+    "foundation": 28,
+    "intermediate": 28,
+    "advanced": 28
   },
   "positioning_rotation": {
     "spp": 4,
     "rtk": 5,
     "ppp-ppp-rtk": 5,
-    "dual-antenna-heading": 4,
+    "dual-antenna-heading": 5,
     "smartphone-low-cost": 4,
     "integrity": 5
   }
