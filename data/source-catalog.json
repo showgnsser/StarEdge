@@ -1875,24 +1875,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.5194/amt-19-5135-2026",
+      "title": "GNSS 掩星折射率模型把成分变化和水凝物纳入可追溯误差预算",
+      "url": "https://doi.org/10.5194/amt-19-5135-2026",
+      "published": "2026-08-07",
+      "digest_date": "2026-08-08",
+      "section": "brief",
+      "category": "gnss-radio-occultation-refractivity-update"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02132-7",
+      "title": "Projected BIE 在混合整数模型中追求无偏且最小方差的连续参数估计",
+      "url": "https://doi.org/10.1007/s10291-026-02132-7",
+      "published": "2026-08-07",
+      "digest_date": "2026-08-08",
+      "section": "brief",
+      "category": "projected-bie-mixed-integer-gnss"
+    },
+    {
+      "source_id": "doi:10.1080/10106049.2026.2714639",
+      "title": "稳健自适应 InSAR–GNSS 融合把三维形变与观测质量同时纳入",
+      "url": "https://doi.org/10.1080/10106049.2026.2714639",
+      "published": "2026-08-07",
+      "digest_date": "2026-08-08",
+      "section": "brief",
+      "category": "robust-adaptive-insar-gnss-3d-deformation"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae96cb",
+      "title": "GGM 加白噪声尝试用统一参数描述 GNSS 坐标时间序列的彩色噪声",
+      "url": "https://doi.org/10.1088/1361-6501/ae96cb",
+      "published": "2026-08-07",
+      "digest_date": "2026-08-08",
+      "section": "brief",
+      "category": "ggm-white-noise-gnss-coordinate-series"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152574",
+      "title": "震前 GNSS-TEC 与 b 值空间对应是案例关联，不是地震预测器",
+      "url": "https://doi.org/10.3390/rs18152574",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-08",
+      "section": "brief",
+      "category": "gnss-tec-seismic-b-value-spatial-correspondence"
+    },
+    {
+      "source_id": "doi:10.1002/navi.444",
+      "title": "接收机钟不是每历元都应自由漂：从钟噪声到 PPP 状态约束",
+      "url": "https://doi.org/10.1002/navi.444",
+      "published": "2021-12-03",
+      "digest_date": "2026-08-08",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-023-01556-9",
+      "title": "多系统 PPP 的共同钟与 ISB：随机游走约束必须成套设计",
+      "url": "https://doi.org/10.1007/s10291-023-01556-9",
+      "published": "2023-10-27",
+      "digest_date": "2026-08-08",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02048-2",
+      "title": "实时 PPP 稳定性：把接收机钟模型跨 HAS、IGS、CNES 与 CODE 做外部检验",
+      "url": "https://doi.org/10.1007/s10291-026-02048-2",
+      "published": "2026-03-05",
+      "digest_date": "2026-08-08",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
-    "receiver-engineering": 29,
+    "receiver-engineering": 31,
     "low-cost-mobile": 9,
-    "positioning": 25
+    "positioning": 26
   },
   "learning_level_counts": {
-    "foundation": 25,
-    "intermediate": 25,
-    "advanced": 25
+    "foundation": 26,
+    "intermediate": 26,
+    "advanced": 26
   },
   "positioning_rotation": {
     "spp": 4,
     "rtk": 5,
-    "ppp-ppp-rtk": 4,
+    "ppp-ppp-rtk": 5,
     "dual-antenna-heading": 4,
     "smartphone-low-cost": 4,
     "integrity": 4
