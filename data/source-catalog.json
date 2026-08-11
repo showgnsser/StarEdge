@@ -1950,19 +1950,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/s26165049",
+      "title": "车辆 SLAM 让 GNSS 拒止区的无线电地图从人工测绘转向随行采集",
+      "url": "https://doi.org/10.3390/s26165049",
+      "published": "2026-08-09",
+      "digest_date": "2026-08-09",
+      "section": "brief",
+      "category": "vehicle-slam-radio-map-gnss-denied"
+    },
+    {
+      "source_id": "doi:10.3390/drones10080611",
+      "title": "复杂工业区多模态 UAV 数据集把 GNSS 拒止、遮挡和结构重复放进同一基准",
+      "url": "https://doi.org/10.3390/drones10080611",
+      "published": "2026-08-09",
+      "digest_date": "2026-08-09",
+      "section": "brief",
+      "category": "multimodal-uav-dataset-gnss-denied-industrial"
+    },
+    {
+      "source_id": "doi:10.3390/s26165057",
+      "title": "地下采煤区 GNSS 站址选择加入多源遥感，不再只看天空开阔度",
+      "url": "https://doi.org/10.3390/s26165057",
+      "published": "2026-08-09",
+      "digest_date": "2026-08-09",
+      "section": "brief",
+      "category": "multisource-gnss-site-selection-mining-subsidence"
+    },
+    {
+      "source_id": "doi:10.1142/s2301385028500549",
+      "title": "Wiener 伪量测在短时 GNSS 中断中约束低成本 INS，但不会创造新真值",
+      "url": "https://doi.org/10.1142/s2301385028500549",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-09",
+      "section": "brief",
+      "category": "wiener-pseudomeasurement-low-cost-ins-gnss-outage"
+    },
+    {
+      "source_id": "doi:10.3390/geographies6030073",
+      "title": "RTK-GNSS 给南爪哇海岸阶地形貌定量，但地貌解释仍需要独立地质证据",
+      "url": "https://doi.org/10.3390/geographies6030073",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-09",
+      "section": "brief",
+      "category": "rtk-gnss-coastal-terrace-morphology-java"
+    },
+    {
+      "source_id": "doi:10.3390/s23052735",
+      "title": "先看接收机钟差：低成本 PVT 输出能发现哪类欺骗，又会漏掉哪类",
+      "url": "https://doi.org/10.3390/s23052735",
+      "published": "2023-03-02",
+      "digest_date": "2026-08-09",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01938-1",
+      "title": "从手工 SQM 到轻量特征与 CGAN：未知欺骗场景仍要看时间定位",
+      "url": "https://doi.org/10.1007/s10291-025-01938-1",
+      "published": "2025-07-24",
+      "digest_date": "2026-08-09",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s19102411",
+      "title": "多天线空间一致性：用到达方向分离真实卫星与同源欺骗",
+      "url": "https://doi.org/10.3390/s19102411",
+      "published": "2019-05-27",
+      "digest_date": "2026-08-09",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
-    "receiver-engineering": 31,
+    "receiver-engineering": 33,
     "low-cost-mobile": 9,
-    "positioning": 26
+    "positioning": 27
   },
   "learning_level_counts": {
-    "foundation": 26,
-    "intermediate": 26,
-    "advanced": 26
+    "foundation": 27,
+    "intermediate": 27,
+    "advanced": 27
   },
   "positioning_rotation": {
     "spp": 4,
@@ -1970,6 +2045,6 @@
     "ppp-ppp-rtk": 5,
     "dual-antenna-heading": 4,
     "smartphone-low-cost": 4,
-    "integrity": 4
+    "integrity": 5
   }
 }
