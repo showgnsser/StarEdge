@@ -1800,23 +1800,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02059-4",
+      "title": "八颗 LEO 组成星载双差网，把浮点定轨的 1D RMS 压到约 2—2.5 cm",
+      "url": "https://doi.org/10.1007/s00190-026-02059-4",
+      "published": "2026-08-07",
+      "digest_date": "2026-08-07",
+      "section": "brief",
+      "category": "leo-spaceborne-gnss-double-difference-network"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152637",
+      "title": "LightGBM 把中国区域 GNSS 水汽 RMSE 相对传统模型再降约三成",
+      "url": "https://doi.org/10.3390/rs18152637",
+      "published": "2026-08-06",
+      "digest_date": "2026-08-07",
+      "section": "brief",
+      "category": "lightgbm-near-real-time-gnss-pwv-china"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152633",
+      "title": "GNSS 垂向形变与 GRACE 联合反演识别七次中部中国干旱",
+      "url": "https://doi.org/10.3390/rs18152633",
+      "published": "2026-08-06",
+      "digest_date": "2026-08-07",
+      "section": "brief",
+      "category": "gnss-grace-joint-terrestrial-water-storage-drought"
+    },
+    {
+      "source_id": "doi:10.3390/s26155006",
+      "title": "速度辅助导航避开加速度二次积分，但十分钟后仍会漂移",
+      "url": "https://doi.org/10.3390/s26155006",
+      "published": "2026-08-06",
+      "digest_date": "2026-08-07",
+      "section": "brief",
+      "category": "velocity-aided-navigation-gnss-denied"
+    },
+    {
+      "source_id": "doi:10.3390/rs18152572",
+      "title": "天目一号掩星在 8—30 km 偏差很小，三角帽也暴露低层与热带误差",
+      "url": "https://doi.org/10.3390/rs18152572",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-07",
+      "section": "brief",
+      "category": "tianmu-1-gnss-radio-occultation-three-cornered-hat"
+    },
+    {
+      "source_id": "doi:10.3390/s21113882",
+      "title": "RTK 与 PPK 不是‘实时或离线’这么简单：同一载波链上的固定率与基线效应",
+      "url": "https://doi.org/10.3390/s21113882",
+      "published": "2021-06-04",
+      "digest_date": "2026-08-07",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22103825",
+      "title": "让 RTKLIB 适配手机：先承认周跳、时钟断裂和长尾不是测地接收机噪声",
+      "url": "https://doi.org/10.3390/s22103825",
+      "published": "2022-05-18",
+      "digest_date": "2026-08-07",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s23042092",
+      "title": "厘米级宣传怎样落到动态真值：用全站仪审计无人机 RTK 航迹",
+      "url": "https://doi.org/10.3390/s23042092",
+      "published": "2023-02-13",
+      "digest_date": "2026-08-07",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 5,
     "tracking": 7,
-    "receiver-engineering": 28,
-    "low-cost-mobile": 8,
-    "positioning": 24
+    "receiver-engineering": 29,
+    "low-cost-mobile": 9,
+    "positioning": 25
   },
   "learning_level_counts": {
-    "foundation": 24,
-    "intermediate": 24,
-    "advanced": 24
+    "foundation": 25,
+    "intermediate": 25,
+    "advanced": 25
   },
   "positioning_rotation": {
     "spp": 4,
-    "rtk": 4,
+    "rtk": 5,
     "ppp-ppp-rtk": 4,
     "dual-antenna-heading": 4,
     "smartphone-low-cost": 4,
