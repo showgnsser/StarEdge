@@ -2175,22 +2175,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1016/j.geomat.2026.100098",
+      "title": "Android 的 Galileo 伪距会跳整整一个 4 ms 码周期，状态位通过仍不够",
+      "url": "https://doi.org/10.1016/j.geomat.2026.100098",
+      "published": "2026-07-31",
+      "digest_date": "2026-08-12",
+      "section": "brief",
+      "category": "android-galileo-four-millisecond-pseudorange-jumps"
+    },
+    {
+      "source_id": "doi:10.34467/jssoilphysics.163.0_29",
+      "title": "约一万日元的单频 GNSS-IR 能测田块表层水分，但方位遮挡会改写相关性",
+      "url": "https://doi.org/10.34467/jssoilphysics.163.0_29",
+      "published": "2026-07-20",
+      "digest_date": "2026-08-12",
+      "section": "brief",
+      "category": "low-cost-l1-gnss-ir-field-soil-moisture"
+    },
+    {
+      "source_id": "doi:10.1109/access.2026.3693081",
+      "title": "欺骗检测在同域随机切分中很好看，换到另一套 I/Q 数据便显著退化",
+      "url": "https://doi.org/10.1109/access.2026.3693081",
+      "published": "2026-07-07",
+      "digest_date": "2026-08-12",
+      "section": "brief",
+      "category": "gnss-spoofing-cross-domain-open-iq-generalization"
+    },
+    {
+      "source_id": "doi:10.1016/j.dcan.2026.03.015",
+      "title": "复用蜂窝分布式天线可把 GNSS 信号引入地下车库，但它已是带锚点的室内系统",
+      "url": "https://doi.org/10.1016/j.dcan.2026.03.015",
+      "published": "2026-03-27",
+      "digest_date": "2026-08-12",
+      "section": "brief",
+      "category": "gnss-over-cellular-distributed-antenna-indoor-localization"
+    },
+    {
+      "source_id": "doi:10.1016/j.compag.2026.111612",
+      "title": "拖拉机引导不存在一个通用“免费增强精度”，基线长度与重访时间决定量级",
+      "url": "https://doi.org/10.1016/j.compag.2026.111612",
+      "published": "2026-03-24",
+      "digest_date": "2026-08-12",
+      "section": "brief",
+      "category": "no-fee-gnss-augmentation-tractor-guidance-baseline-revisit"
+    },
+    {
+      "source_id": "doi:10.1109/iccnit.2011.6020917",
+      "title": "从二维搜索格到唯一相关峰：捕获为什么同时估码延迟与多普勒",
+      "url": "https://doi.org/10.1109/ICCNIT.2011.6020917",
+      "published": "2011-07-11",
+      "digest_date": "2026-08-12",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.33012/navi.609",
+      "title": "多相关器加 EKF：显式估计信道冲激响应，何时能压住多路径、何时仍会追错反射",
+      "url": "https://doi.org/10.33012/navi.609",
+      "published": "2023-08-04",
+      "digest_date": "2026-08-12",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s22030786",
+      "title": "手机 SPP 的 RAIM-FDE：残差能剔除粗差，也会用可用率换可信历元",
+      "url": "https://doi.org/10.3390/s22030786",
+      "published": "2022-01-20",
+      "digest_date": "2026-08-12",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 5,
-    "tracking": 7,
+    "acquisition": 6,
+    "tracking": 8,
     "receiver-engineering": 34,
     "low-cost-mobile": 12,
-    "positioning": 29
+    "positioning": 30
   },
   "learning_level_counts": {
-    "foundation": 29,
-    "intermediate": 29,
-    "advanced": 29
+    "foundation": 30,
+    "intermediate": 30,
+    "advanced": 30
   },
   "positioning_rotation": {
-    "spp": 4,
+    "spp": 5,
     "rtk": 5,
     "ppp-ppp-rtk": 5,
     "dual-antenna-heading": 5,
