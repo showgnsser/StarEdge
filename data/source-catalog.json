@@ -2250,23 +2250,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/s26165104",
+      "title": "残差网络不是总该出手：验证集决定是否修正一小时 TEC 预测",
+      "url": "https://doi.org/10.3390/s26165104",
+      "published": "2026-08-12",
+      "digest_date": "2026-08-13",
+      "section": "brief",
+      "category": "validation-gated-residual-fusion-low-latitude-tec"
+    },
+    {
+      "source_id": "doi:10.3390/app16168017",
+      "title": "海上实时改正没有单一冠军：NRTK 横向更小，PPP-RTK 垂向更小",
+      "url": "https://doi.org/10.3390/app16168017",
+      "published": "2026-08-12",
+      "digest_date": "2026-08-13",
+      "section": "brief",
+      "category": "marine-real-time-gnss-correction-strategy-comparison"
+    },
+    {
+      "source_id": "doi:10.3390/jmse14161490",
+      "title": "无 GNSS 船队的鲁棒 EKF 有硬边界：瞬时离群可压，持续漂移仍被吸收",
+      "url": "https://doi.org/10.3390/jmse14161490",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-13",
+      "section": "brief",
+      "category": "gnss-denied-usv-relative-localization-ekf-envelope"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae8e98",
+      "title": "地下磁序列用两级匹配解别名，但它仍是 GNSS 失效后的替代链",
+      "url": "https://doi.org/10.1088/1361-6501/ae8e98",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-13",
+      "section": "brief",
+      "category": "deep-geomagnetic-sequence-matching-underground-positioning"
+    },
+    {
+      "source_id": "doi:10.1016/j.ast.2026.112036",
+      "title": "旋转载体先把自转 Doppler 喂回 NCO，跟踪环才不用独扛动态",
+      "url": "https://doi.org/10.1016/j.ast.2026.112036",
+      "published": "2026-08",
+      "digest_date": "2026-08-13",
+      "section": "brief",
+      "category": "ins-aided-gnss-tracking-spinning-vehicle"
+    },
+    {
+      "source_id": "doi:10.1007/978-981-96-9116-6_2",
+      "title": "从未差分观测到双差：RTK 能消掉什么、还留下什么",
+      "url": "https://doi.org/10.1007/978-981-96-9116-6_2",
+      "published": "2025-08-10",
+      "digest_date": "2026-08-13",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-018-0711-4",
+      "title": "几何无关组合之后仍有常数偏置：如何把电离层与模糊度—硬件项拆开",
+      "url": "https://doi.org/10.1007/s10291-018-0711-4",
+      "published": "2018-02-16",
+      "digest_date": "2026-08-13",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-025-00179-4",
+      "title": "把 ROTI 变成状态与权重：扰动期 NRTK 如何保住固定率",
+      "url": "https://doi.org/10.1186/s43020-025-00179-4",
+      "published": "2025-10-06",
+      "digest_date": "2026-08-13",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 6,
     "tracking": 8,
-    "receiver-engineering": 34,
+    "receiver-engineering": 36,
     "low-cost-mobile": 12,
-    "positioning": 30
+    "positioning": 31
   },
   "learning_level_counts": {
-    "foundation": 30,
-    "intermediate": 30,
-    "advanced": 30
+    "foundation": 31,
+    "intermediate": 31,
+    "advanced": 31
   },
   "positioning_rotation": {
     "spp": 5,
-    "rtk": 5,
+    "rtk": 6,
     "ppp-ppp-rtk": 5,
     "dual-antenna-heading": 5,
     "smartphone-low-cost": 5,
