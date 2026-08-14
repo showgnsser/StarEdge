@@ -2325,24 +2325,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1515/jag-2026-0050",
+      "title": "跨十年比较 PPP，板块运动和参考框架可能比算法噪声更显眼",
+      "url": "https://doi.org/10.1515/jag-2026-0050",
+      "published": "2026-08-13",
+      "digest_date": "2026-08-14",
+      "section": "brief",
+      "category": "africa-multiepoch-static-multignss-ppp-frame-alignment"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae9175",
+      "title": "伪卫星/GPS PPP 的随机模型不只看仰角和 C/N₀，还把几何与残差送入 LSTM",
+      "url": "https://doi.org/10.1088/1361-6501/ae9175",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-14",
+      "section": "brief",
+      "category": "lstm-stochastic-model-pseudolite-gps-ppp"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00208-w",
+      "title": "跨场景融合先估“传感器够不够”，再决定滤波、图优化和信息互信",
+      "url": "https://doi.org/10.1186/s43020-026-00208-w",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-14",
+      "section": "brief",
+      "category": "goal-directed-synergistic-fusion-spatial-uncertainty"
+    },
+    {
+      "source_id": "doi:10.3390/aerospace13080717",
+      "title": "BDSBAS 进近程序把定位解、保护级和障碍物评估面放进同一验收链",
+      "url": "https://doi.org/10.3390/aerospace13080717",
+      "published": "2026-08-10",
+      "digest_date": "2026-08-14",
+      "section": "brief",
+      "category": "bdsbas-oas-constrained-approach-procedure"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00212-0",
+      "title": "实测 LEO 同时增强 BDS-3 定轨与 PPP，但两条收益链不能混成一个数字",
+      "url": "https://doi.org/10.1186/s43020-026-00212-0",
+      "published": "2026-08-10",
+      "digest_date": "2026-08-14",
+      "section": "brief",
+      "category": "centispace-leo-bds3-integrated-pod-ppp"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2020.04.015",
+      "title": "从全局轨道钟到单站状态：GipsyX/RTGx 如何把 PPP 变成可运行业务链",
+      "url": "https://doi.org/10.1016/j.asr.2020.04.015",
+      "published": "2020-08",
+      "digest_date": "2026-08-14",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-021-01140-z",
+      "title": "浮点模糊度为何不是整数：PPP-AR 产品必须与钟和偏差定义成套",
+      "url": "https://doi.org/10.1007/s10291-021-01140-z",
+      "published": "2021-05-13",
+      "digest_date": "2026-08-14",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s40623-019-1055-1",
+      "title": "Galileo-only PPP-AR：毫米级重复性来自什么，证据边界在哪里",
+      "url": "https://doi.org/10.1186/s40623-019-1055-1",
+      "published": "2019-07-12",
+      "digest_date": "2026-08-14",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 6,
     "tracking": 8,
-    "receiver-engineering": 36,
+    "receiver-engineering": 38,
     "low-cost-mobile": 12,
-    "positioning": 31
+    "positioning": 32
   },
   "learning_level_counts": {
-    "foundation": 31,
-    "intermediate": 31,
-    "advanced": 31
+    "foundation": 32,
+    "intermediate": 32,
+    "advanced": 32
   },
   "positioning_rotation": {
     "spp": 5,
     "rtk": 6,
-    "ppp-ppp-rtk": 5,
+    "ppp-ppp-rtk": 6,
     "dual-antenna-heading": 5,
     "smartphone-low-cost": 5,
     "integrity": 5
