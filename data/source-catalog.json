@@ -2400,25 +2400,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/s26165164",
+      "title": "GNSS 拒止无人机群先选“谁发起测距”，不能只按节点数量省资源",
+      "url": "https://doi.org/10.3390/s26165164",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-15",
+      "section": "brief",
+      "category": "uwb-gdop-resource-aware-node-preselection"
+    },
+    {
+      "source_id": "doi:10.1364/oe.599387",
+      "title": "多天线光载 GNSS 用软件估链路时延，让单差不再依赖专用延迟监测硬件",
+      "url": "https://doi.org/10.1364/OE.599387",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-15",
+      "section": "brief",
+      "category": "software-delay-estimation-single-difference-gnss-over-fiber"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae9435",
+      "title": "Galileo HAS 断数后不要立即放飞接收机钟，恢复时也不要一步撤掉先验",
+      "url": "https://doi.org/10.1088/1361-6501/ae9435",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-15",
+      "section": "brief",
+      "category": "adaptive-clock-galileo-has-ppp-time-transfer"
+    },
+    {
+      "source_id": "doi:10.1007/s40328-026-00515-3",
+      "title": "超快速钟差预报把“钟频率里哪些项值得留下”交给稀疏建模",
+      "url": "https://doi.org/10.1007/s40328-026-00515-3",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-15",
+      "section": "brief",
+      "category": "sparse-modeling-ultrarapid-clock-frequency-prediction"
+    },
+    {
+      "source_id": "doi:10.1515/jag-2026-0018",
+      "title": "在线 GNSS 服务统计上“均值相近”，不等于参考框架和工程偏差可互换",
+      "url": "https://doi.org/10.1515/jag-2026-0018",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-15",
+      "section": "brief",
+      "category": "ethiopia-online-gnss-service-geodetic-control-comparison"
+    },
+    {
+      "source_id": "doi:10.1109/jlt.2019.2921865",
+      "title": "单差少一层噪声，却多一个链路偏差：光载多天线的观测账怎样闭合",
+      "url": "https://doi.org/10.1109/JLT.2019.2921865",
+      "published": "2019-06-10",
+      "digest_date": "2026-08-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1109/jlt.2021.3108566",
+      "title": "长光纤不能每历元重测：慢速绝对校准与快速相位补偿怎样接力",
+      "url": "https://doi.org/10.1109/JLT.2021.3108566",
+      "published": "2021-08-30",
+      "digest_date": "2026-08-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs12121955",
+      "title": "位置与姿态不是两套滤波器：多天线 GNSS 如何共享双差相关性",
+      "url": "https://doi.org/10.3390/rs12121955",
+      "published": "2020-06-17",
+      "digest_date": "2026-08-15",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 6,
     "tracking": 8,
-    "receiver-engineering": 38,
+    "receiver-engineering": 40,
     "low-cost-mobile": 12,
-    "positioning": 32
+    "positioning": 33
   },
   "learning_level_counts": {
-    "foundation": 32,
-    "intermediate": 32,
-    "advanced": 32
+    "foundation": 33,
+    "intermediate": 33,
+    "advanced": 33
   },
   "positioning_rotation": {
     "spp": 5,
     "rtk": 6,
     "ppp-ppp-rtk": 6,
-    "dual-antenna-heading": 5,
+    "dual-antenna-heading": 6,
     "smartphone-low-cost": 5,
     "integrity": 5
   }
