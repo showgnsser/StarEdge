@@ -2475,26 +2475,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2026_404",
+      "title": "多车协同 RTK 的收益先由 V2V 精度和网络几何决定",
+      "url": "https://doi.org/10.1007/1345_2026_404",
+      "published": "2026-08-15",
+      "digest_date": "2026-08-16",
+      "section": "brief",
+      "category": "collaborative-multi-agent-v2v-rtk-ambiguity"
+    },
+    {
+      "source_id": "doi:10.33012/navi.784",
+      "title": "元强化学习用少量新场景数据适配 GNSS 误差分布",
+      "url": "https://doi.org/10.33012/navi.784",
+      "published": "2026-08-13",
+      "digest_date": "2026-08-16",
+      "section": "brief",
+      "category": "meta-reinforcement-spatiotemporal-gnss-correction"
+    },
+    {
+      "source_id": "doi:10.1049/rsn2.70213",
+      "title": "LEO MCSK 地面测试能否代表在轨，要分域检查而不是只给总分",
+      "url": "https://doi.org/10.1049/rsn2.70213",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-16",
+      "section": "brief",
+      "category": "leo-mcsk-space-ground-signal-consistency"
+    },
+    {
+      "source_id": "doi:10.3390/electronics15163565",
+      "title": "通信星座若要兼做 Doppler 定位，构型优化必须把可测链路放进信息矩阵",
+      "url": "https://doi.org/10.3390/electronics15163565",
+      "published": "2026-08-11",
+      "digest_date": "2026-08-16",
+      "section": "brief",
+      "category": "multilayer-leo-communication-sop-doppler-constellation-optimization"
+    },
+    {
+      "source_id": "doi:10.62305/alcon.v6i4.1216",
+      "title": "城市测量里 RTK 与手持 GPS 的差距会随遮挡条件改变",
+      "url": "https://doi.org/10.62305/alcon.v6i4.1216",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-16",
+      "section": "brief",
+      "category": "urban-control-points-navigation-gps-versus-gnss-rtk"
+    },
+    {
+      "source_id": "doi:10.1109/tsp.2014.2311967",
+      "title": "关掉跟踪环以后，怎样把间歇载波重新缝成连续相位",
+      "url": "https://doi.org/10.1109/TSP.2014.2311967",
+      "published": "2014-05",
+      "digest_date": "2026-08-16",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1109/taes.2022.3149730",
+      "title": "TDCP 只连相邻两点，窗口载波怎样同时约束一段轨迹",
+      "url": "https://doi.org/10.1109/TAES.2022.3149730",
+      "published": "2022-08",
+      "digest_date": "2026-08-16",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00079-x",
+      "title": "车内手机实时 PPP：精密产品到达后为什么仍是米级而非测地级",
+      "url": "https://doi.org/10.1186/s43020-022-00079-x",
+      "published": "2022-08-22",
+      "digest_date": "2026-08-16",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 6,
     "tracking": 8,
     "receiver-engineering": 40,
-    "low-cost-mobile": 12,
-    "positioning": 33
+    "low-cost-mobile": 14,
+    "positioning": 34
   },
   "learning_level_counts": {
-    "foundation": 33,
-    "intermediate": 33,
-    "advanced": 33
+    "foundation": 34,
+    "intermediate": 34,
+    "advanced": 34
   },
   "positioning_rotation": {
     "spp": 5,
     "rtk": 6,
     "ppp-ppp-rtk": 6,
     "dual-antenna-heading": 6,
-    "smartphone-low-cost": 5,
+    "smartphone-low-cost": 6,
     "integrity": 5
   }
 }
