@@ -2550,19 +2550,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00213-z",
+      "title": "电离层聚类不再固定网格，让上一时窗先验与本时窗证据闭环",
+      "url": "https://doi.org/10.1186/s43020-026-00213-z",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-17",
+      "section": "brief",
+      "category": "adaptive-clustering-q4dim-ionosphere"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.05.083",
+      "title": "LEO 导航载荷的钟差之外，还要单独标定接收—发射硬件时延",
+      "url": "https://doi.org/10.1016/j.asr.2026.05.083",
+      "published": "2026-08-15",
+      "digest_date": "2026-08-17",
+      "section": "brief",
+      "category": "leo-navigation-payload-time-synchronization"
+    },
+    {
+      "source_id": "doi:10.1016/j.oceaneng.2026.126813",
+      "title": "船载 PPP/INS 先做运动一致性检查，再决定哪颗 GNSS 星该降权",
+      "url": "https://doi.org/10.1016/j.oceaneng.2026.126813",
+      "published": "2026-08-15",
+      "digest_date": "2026-08-17",
+      "section": "brief",
+      "category": "motion-consistency-marine-ppp-ins"
+    },
+    {
+      "source_id": "doi:10.1016/j.measurement.2026.122262",
+      "title": "GNSS 基线与全站仪三维联合平差前，要把垂线方向从重力场搬到椭球法线",
+      "url": "https://doi.org/10.1016/j.measurement.2026.122262",
+      "published": "2026-08-15",
+      "digest_date": "2026-08-17",
+      "section": "brief",
+      "category": "vertical-deflection-gnss-terrestrial-adjustment"
+    },
+    {
+      "source_id": "doi:10.1016/j.oceaneng.2026.126781",
+      "title": "智能船态势感知以视觉为中心，但 GNSS、AIS 与雷达时间一致性决定融合是否可信",
+      "url": "https://doi.org/10.1016/j.oceaneng.2026.126781",
+      "published": "2026-08-15",
+      "digest_date": "2026-08-17",
+      "section": "brief",
+      "category": "vision-centered-multisensor-marine-awareness"
+    },
+    {
+      "source_id": "doi:10.3390/s17071579",
+      "title": "相关峰看起来不对，为什么仍可能看不见最危险的短时延多路径",
+      "url": "https://doi.org/10.3390/s17071579",
+      "published": "2017-07-05",
+      "digest_date": "2026-08-17",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs14092130",
+      "title": "检测器看不见的多路径，怎样变成既包得住又不过宽的概率模型",
+      "url": "https://doi.org/10.3390/rs14092130",
+      "published": "2022-04-28",
+      "digest_date": "2026-08-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1109/plans46316.2020.9109953",
+      "title": "PPP 记住过去观测以后，局部多路径故障要监控多少层子集",
+      "url": "https://doi.org/10.1109/PLANS46316.2020.9109953",
+      "published": "2020-04",
+      "digest_date": "2026-08-17",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 6,
-    "tracking": 8,
-    "receiver-engineering": 40,
+    "tracking": 9,
+    "receiver-engineering": 41,
     "low-cost-mobile": 14,
-    "positioning": 34
+    "positioning": 35
   },
   "learning_level_counts": {
-    "foundation": 34,
-    "intermediate": 34,
-    "advanced": 34
+    "foundation": 35,
+    "intermediate": 35,
+    "advanced": 35
   },
   "positioning_rotation": {
     "spp": 5,
@@ -2570,6 +2645,6 @@
     "ppp-ppp-rtk": 6,
     "dual-antenna-heading": 6,
     "smartphone-low-cost": 6,
-    "integrity": 5
+    "integrity": 6
   }
 }
