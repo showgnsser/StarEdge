@@ -2625,22 +2625,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/rs18162790",
+      "title": "膨胀土含水量反演要把空间邻接与时间记忆同时放进模型",
+      "url": "https://doi.org/10.3390/rs18162790",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-18",
+      "section": "brief",
+      "category": "gnss-r-expansive-soil-moisture-deformation"
+    },
+    {
+      "source_id": "doi:10.1007/s10509-026-04618-9",
+      "title": "全球电子密度 LSTM 在磁扰期仍要单独做误差预算",
+      "url": "https://doi.org/10.1007/s10509-026-04618-9",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-18",
+      "section": "brief",
+      "category": "multi-gnss-ro-lstm-electron-density"
+    },
+    {
+      "source_id": "doi:10.1007/s44195-026-00140-1",
+      "title": "TRITON 海面风同化补的是雷达看不到的近海低层风",
+      "url": "https://doi.org/10.1007/s44195-026-00140-1",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-18",
+      "section": "brief",
+      "category": "triton-gnss-r-wind-assimilation-rainfall"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae9ab7",
+      "title": "磁强计受扰时，长期标定与短时门控应分两条链处理",
+      "url": "https://doi.org/10.1088/1361-6501/ae9ab7",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-18",
+      "section": "brief",
+      "category": "gnss-vio-mag-adaptive-anti-interference"
+    },
+    {
+      "source_id": "doi:10.1029/2026ea005107",
+      "title": "全球水汽分区在去季节后会从纬向带变成更难辨的异常结构",
+      "url": "https://doi.org/10.1029/2026EA005107",
+      "published": "2026-08-13",
+      "digest_date": "2026-08-18",
+      "section": "brief",
+      "category": "gnss-ro-era5-pwv-regime-clustering"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-018-1141-3",
+      "title": "残差报警以后，为什么还不能断言是哪一颗卫星坏了",
+      "url": "https://doi.org/10.1007/s00190-018-1141-3",
+      "published": "2018-04-09",
+      "digest_date": "2026-08-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-020-00016-w",
+      "title": "不硬剔卫星，怎样让大残差逐次失去话语权",
+      "url": "https://doi.org/10.1186/s43020-020-00016-w",
+      "published": "2020-05-11",
+      "digest_date": "2026-08-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "arxiv:2605.21461",
+      "title": "把分类分数变成伪距权，激活函数为什么决定 SPP 成败",
+      "url": "https://arxiv.org/abs/2605.21461",
+      "published": "2026-05-20",
+      "digest_date": "2026-08-18",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 6,
     "tracking": 9,
-    "receiver-engineering": 41,
+    "receiver-engineering": 43,
     "low-cost-mobile": 14,
-    "positioning": 35
+    "positioning": 36
   },
   "learning_level_counts": {
-    "foundation": 35,
-    "intermediate": 35,
-    "advanced": 35
+    "foundation": 36,
+    "intermediate": 36,
+    "advanced": 36
   },
   "positioning_rotation": {
-    "spp": 5,
+    "spp": 6,
     "rtk": 6,
     "ppp-ppp-rtk": 6,
     "dual-antenna-heading": 6,
