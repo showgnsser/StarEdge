@@ -2700,23 +2700,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/atmos17080793",
+      "title": "暴雨前不只看水汽有多高，还要看它升得多快",
+      "url": "https://doi.org/10.3390/atmos17080793",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-19",
+      "section": "brief",
+      "category": "dynamic-gnss-pwv-heavy-rainfall-cyprus"
+    },
+    {
+      "source_id": "doi:10.22541/essoar.15007596/v1",
+      "title": "没有站点气象传感器时，可让天气基础模型补齐 PWV 反演所需参数",
+      "url": "https://doi.org/10.22541/essoar.15007596/v1",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-19",
+      "section": "brief",
+      "category": "graphcast-forecast-global-gnss-pwv"
+    },
+    {
+      "source_id": "doi:10.33003/fjs-2026-1013-5505",
+      "title": "同一批静态观测交给不同后处理软件，厘米级并不意味着结果等价",
+      "url": "https://doi.org/10.33003/fjs-2026-1013-5505",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-19",
+      "section": "brief",
+      "category": "static-gnss-postprocessing-software-benchmark-abuja"
+    },
+    {
+      "source_id": "doi:10.1175/jcli-d-25-0585.1",
+      "title": "把 GNSS-PWV 与前期降水合成一个指标，试图同时覆盖传统与次季节干旱",
+      "url": "https://doi.org/10.1175/JCLI-D-25-0585.1",
+      "published": "2026-08-15",
+      "digest_date": "2026-08-19",
+      "section": "brief",
+      "category": "sapci-gnss-pwv-meteorological-drought-monitoring"
+    },
+    {
+      "source_id": "doi:10.1177/17479541261475069",
+      "title": "运动背心之间的 GNSS 指标可以很相关，但高速段和加减速仍不能直接互换",
+      "url": "https://doi.org/10.1177/17479541261475069",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-19",
+      "section": "brief",
+      "category": "wearable-gnss-between-system-agreement-australian-football"
+    },
+    {
+      "source_id": "doi:10.3390/s16050624",
+      "title": "一条硬件通道怎样在不同星座、码率与调制之间切换",
+      "url": "https://doi.org/10.3390/s16050624",
+      "published": "2016-05-02",
+      "digest_date": "2026-08-19",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1017/s0373463321000709",
+      "title": "短快照没有导航时间戳，怎样把整码周变成可求的整数",
+      "url": "https://doi.org/10.1017/S0373463321000709",
+      "published": "2021-08-26",
+      "digest_date": "2026-08-19",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s21113688",
+      "title": "只上传一段单频 IF，云端怎样做单历元快照 RTK",
+      "url": "https://doi.org/10.3390/s21113688",
+      "published": "2021-05-26",
+      "digest_date": "2026-08-19",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 6,
+    "acquisition": 7,
     "tracking": 9,
-    "receiver-engineering": 43,
+    "receiver-engineering": 44,
     "low-cost-mobile": 14,
-    "positioning": 36
+    "positioning": 37
   },
   "learning_level_counts": {
-    "foundation": 36,
-    "intermediate": 36,
-    "advanced": 36
+    "foundation": 37,
+    "intermediate": 37,
+    "advanced": 37
   },
   "positioning_rotation": {
     "spp": 6,
-    "rtk": 6,
+    "rtk": 7,
     "ppp-ppp-rtk": 6,
     "dual-antenna-heading": 6,
     "smartphone-low-cost": 6,
