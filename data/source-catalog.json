@@ -2775,22 +2775,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.5194/egusphere-2026-4285",
+      "title": "台风过境时，水平对流层梯度补的是天顶延迟看不见的水汽非对称",
+      "url": "https://doi.org/10.5194/egusphere-2026-4285",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-20",
+      "section": "brief",
+      "category": "gnss-ztd-gradient-typhoon-koinu-assimilation"
+    },
+    {
+      "source_id": "doi:10.5194/egusphere-alpshop2026-23",
+      "title": "把多年 GNSS 速度场与震源机制叠在一起，才能区分刚块平移与带状剪切",
+      "url": "https://doi.org/10.5194/egusphere-alpshop2026-23",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-20",
+      "section": "brief",
+      "category": "slovenia-gnss-transpression-strain-field"
+    },
+    {
+      "source_id": "doi:10.1186/s40623-026-02513-9",
+      "title": "实时震源反演要同时修位置层的共模偏移与模型层的过度自信",
+      "url": "https://doi.org/10.1186/s40623-026-02513-9",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-20",
+      "section": "brief",
+      "category": "regard-mcmc-real-time-ppp-earthquake"
+    },
+    {
+      "source_id": "doi:10.3390/app16168252",
+      "title": "车队 GPS 欺骗的第一起碰撞由时距与攻击持续时间共同决定",
+      "url": "https://doi.org/10.3390/app16168252",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-20",
+      "section": "brief",
+      "category": "gps-v2v-spoofing-cacc-collision-risk"
+    },
+    {
+      "source_id": "doi:10.3390/s26165251",
+      "title": "干扰分类与参数回归共用到第二层，延迟与任务冲突取得较好折衷",
+      "url": "https://doi.org/10.3390/s26165251",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-20",
+      "section": "brief",
+      "category": "bds3-dual-branch-cnn-jamming-classification"
+    },
+    {
+      "source_id": "arxiv:2602.12688",
+      "title": "先看 AGC 还是 C/N₀：干扰进入接收机后留下哪些可观测痕迹",
+      "url": "https://arxiv.org/abs/2602.12688",
+      "published": "2026-02-13",
+      "digest_date": "2026-08-20",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s18072217",
+      "title": "不先猜干扰波形，Huber 非线性怎样限制异常采样的影响",
+      "url": "https://doi.org/10.3390/s18072217",
+      "published": "2018-07-10",
+      "digest_date": "2026-08-20",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1109/taes.2023.3312350",
+      "title": "把稳健 CAF 直接累加到位置域，为什么比逐星修补更完整",
+      "url": "https://doi.org/10.1109/TAES.2023.3312350",
+      "published": "2023-12-01",
+      "digest_date": "2026-08-20",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 7,
     "tracking": 9,
-    "receiver-engineering": 44,
+    "receiver-engineering": 46,
     "low-cost-mobile": 14,
-    "positioning": 37
+    "positioning": 38
   },
   "learning_level_counts": {
-    "foundation": 37,
-    "intermediate": 37,
-    "advanced": 37
+    "foundation": 38,
+    "intermediate": 38,
+    "advanced": 38
   },
   "positioning_rotation": {
-    "spp": 6,
+    "spp": 7,
     "rtk": 7,
     "ppp-ppp-rtk": 6,
     "dual-antenna-heading": 6,
