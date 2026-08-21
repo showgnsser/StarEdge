@@ -2850,24 +2850,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1515/jag-2026-0056",
+      "title": "全球重力模型给出长波基底，本地改正面负责补高频地形遗漏",
+      "url": "https://doi.org/10.1515/jag-2026-0056",
+      "published": "2026-08-20",
+      "digest_date": "2026-08-21",
+      "section": "brief",
+      "category": "ethiopia-gnss-leveling-hybrid-geoid-mlp"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae9c60",
+      "title": "把分类概率换成保形 p 值后，NLOS 卫星可以降权而不必一刀剔除",
+      "url": "https://doi.org/10.1088/1361-6501/ae9c60",
+      "published": "2026-08-20",
+      "digest_date": "2026-08-21",
+      "section": "brief",
+      "category": "conformal-prediction-gnss-nlos-probabilistic-weighting"
+    },
+    {
+      "source_id": "doi:10.3389/fspas.2026.1893946",
+      "title": "先模拟等离子体泡边界上的闪烁，再把失锁概率传到 GBAS 可用性",
+      "url": "https://doi.org/10.3389/fspas.2026.1893946",
+      "published": "2026-08-20",
+      "digest_date": "2026-08-21",
+      "section": "brief",
+      "category": "equatorial-plasma-bubble-dfmc-gbas-availability"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-66794-6",
+      "title": "车载天线不是绕极化轴转动时，短基线双差也未必能消掉相位缠绕",
+      "url": "https://doi.org/10.1038/s41598-026-66794-6",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-21",
+      "section": "brief",
+      "category": "attitude-assisted-ground-phase-windup-rtk"
+    },
+    {
+      "source_id": "doi:10.1080/09205071.2026.2716750",
+      "title": "四阵元 GNSS 阵列要先把互耦压下去，后端抗干扰自由度才可信",
+      "url": "https://doi.org/10.1080/09205071.2026.2716750",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-21",
+      "section": "brief",
+      "category": "compact-four-element-gnss-array-mutual-coupling"
+    },
+    {
+      "source_id": "doi:10.3390/s150614701",
+      "title": "多系统 PPP 的第一步：把钟差、硬件偏差与单差相关性记在同一本账",
+      "url": "https://doi.org/10.3390/s150614701",
+      "published": "2015-06-19",
+      "digest_date": "2026-08-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1179/003962610x12572516251682",
+      "title": "把 UPD 从浮点模糊度里分离，短时段单站 PPP 才能安全定整",
+      "url": "https://doi.org/10.1179/003962610X12572516251682",
+      "published": "2010-04",
+      "digest_date": "2026-08-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-022-01341-0",
+      "title": "不硬押一个整数：BIE 怎样把两历元多星座 PPP-RTK 做到厘米级",
+      "url": "https://doi.org/10.1007/s10291-022-01341-0",
+      "published": "2022-10-27",
+      "digest_date": "2026-08-21",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 7,
     "tracking": 9,
-    "receiver-engineering": 46,
+    "receiver-engineering": 48,
     "low-cost-mobile": 14,
-    "positioning": 38
+    "positioning": 39
   },
   "learning_level_counts": {
-    "foundation": 38,
-    "intermediate": 38,
-    "advanced": 38
+    "foundation": 39,
+    "intermediate": 39,
+    "advanced": 39
   },
   "positioning_rotation": {
     "spp": 7,
     "rtk": 7,
-    "ppp-ppp-rtk": 6,
+    "ppp-ppp-rtk": 7,
     "dual-antenna-heading": 6,
     "smartphone-low-cost": 6,
     "integrity": 6
