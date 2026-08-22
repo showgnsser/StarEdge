@@ -2925,25 +2925,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/navi.786",
+      "title": "把 GNSS 时间序列先搬到频域，强化学习才更容易分开长期规律与短时扰动",
+      "url": "https://doi.org/10.33012/navi.786",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-22",
+      "section": "brief",
+      "category": "frequency-domain-drl-gnss-position-correction"
+    },
+    {
+      "source_id": "doi:10.1029/2025sw004885",
+      "title": "把闪烁指标从 100 秒缩到 1 秒，极光区短促的幅度闪烁才不会被平均掉",
+      "url": "https://doi.org/10.1029/2025SW004885",
+      "published": "2026-08",
+      "digest_date": "2026-08-22",
+      "section": "brief",
+      "category": "auroral-one-second-gnss-amplitude-scintillation"
+    },
+    {
+      "source_id": "doi:10.1029/2026jb034040",
+      "title": "GNSS 与 Sentinel-1 共同约束裂谷几何，板块边界不必被预设成一条直线",
+      "url": "https://doi.org/10.1029/2026JB034040",
+      "published": "2026-08",
+      "digest_date": "2026-08-22",
+      "section": "brief",
+      "category": "krafla-gnss-insar-segmented-backslip"
+    },
+    {
+      "source_id": "doi:10.12913/22998624/219009",
+      "title": "Galileo HAS 能改善无人机实时代码定位，但本次高程仍远弱于平面",
+      "url": "https://doi.org/10.12913/22998624/219009",
+      "published": "2026-07-01",
+      "digest_date": "2026-08-22",
+      "section": "brief",
+      "category": "galileo-has-uav-code-positioning"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00210-2",
+      "title": "对流层格网先分块稀疏化，再编码广播，远海用户不必下载整张全球模型",
+      "url": "https://doi.org/10.1186/s43020-026-00210-2",
+      "published": "2026-08-04",
+      "digest_date": "2026-08-22",
+      "section": "brief",
+      "category": "sparse-tropospheric-grid-broadcast"
+    },
+    {
+      "source_id": "doi:10.3724/sp.j.1246.2013.01016",
+      "title": "先解三条基线还是直接求姿态矩阵：两条 GNSS 定姿路线从哪里分叉",
+      "url": "https://doi.org/10.3724/SP.J.1246.2013.01016",
+      "published": "2013-02-01",
+      "digest_date": "2026-08-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1155/2009/565426",
+      "title": "已知短边怎样帮助未知长边：把多天线姿态约束传给跨平台相对定位",
+      "url": "https://doi.org/10.1155/2009/565426",
+      "published": "2009-11-08",
+      "digest_date": "2026-08-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1016/j.measurement.2024.115492",
+      "title": "1.5 米低成本双天线：基线长度约束怎样把错误整数挡在航向解之外",
+      "url": "https://doi.org/10.1016/j.measurement.2024.115492",
+      "published": "2024-08-12",
+      "digest_date": "2026-08-22",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 7,
     "tracking": 9,
-    "receiver-engineering": 48,
+    "receiver-engineering": 50,
     "low-cost-mobile": 14,
-    "positioning": 39
+    "positioning": 40
   },
   "learning_level_counts": {
-    "foundation": 39,
-    "intermediate": 39,
-    "advanced": 39
+    "foundation": 40,
+    "intermediate": 40,
+    "advanced": 40
   },
   "positioning_rotation": {
     "spp": 7,
     "rtk": 7,
     "ppp-ppp-rtk": 7,
-    "dual-antenna-heading": 6,
+    "dual-antenna-heading": 7,
     "smartphone-low-cost": 6,
     "integrity": 6
   }
