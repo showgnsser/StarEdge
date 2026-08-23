@@ -3000,26 +3000,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae9cd3",
+      "title": "VRS 没把完整协方差交给用户时，把多站观测集中估计可避免次优定权",
+      "url": "https://doi.org/10.1088/1361-6501/ae9cd3",
+      "published": "2026-08-21",
+      "digest_date": "2026-08-23",
+      "section": "brief",
+      "category": "centralized-uduc-network-rtk-covariance"
+    },
+    {
+      "source_id": "doi:10.3390/app16168336",
+      "title": "先离线寻找噪声尺度，再用 Student-t 权重压住重尾伪距创新",
+      "url": "https://doi.org/10.3390/app16168336",
+      "published": "2026-08-21",
+      "digest_date": "2026-08-23",
+      "section": "brief",
+      "category": "student-t-qpso-ekf-heavy-tail-gps"
+    },
+    {
+      "source_id": "doi:10.21203/rs.3.rs-10556619/v1",
+      "title": "GNSS-RTK 可穿戴能复现累计跑动量，高速小样本指标仍最不稳定",
+      "url": "https://doi.org/10.21203/rs.3.rs-10556619/v1",
+      "published": "2026-08-14",
+      "digest_date": "2026-08-23",
+      "section": "brief",
+      "category": "gnss-rtk-dual-imu-wearable-agreement"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae92a2",
+      "title": "把 PPP-B2b 与 Galileo HAS 的互补星座放进同一 OSB 估计，用户端才有条件实时定整",
+      "url": "https://doi.org/10.1088/1361-6501/ae92a2",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-23",
+      "section": "brief",
+      "category": "ppp-b2b-has-integrated-phase-osb-ppp-ar"
+    },
+    {
+      "source_id": "doi:10.21203/rs.3.rs-10729693/v1",
+      "title": "太阳能 GPS 耳标的瓶颈同时在收星、回传和充电，三者不能用一条“续航”概括",
+      "url": "https://doi.org/10.21203/rs.3.rs-10729693/v1",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-23",
+      "section": "brief",
+      "category": "solar-gps-lorawan-ear-tag-field-performance"
+    },
+    {
+      "source_id": "doi:10.3390/electronics8010091",
+      "title": "E5a 抗多路径不是万能药：先看清手机观测、天线与环境的误差账",
+      "url": "https://doi.org/10.3390/electronics8010091",
+      "published": "2019-01-15",
+      "digest_date": "2026-08-23",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s19112593",
+      "title": "精密产品不是魔法：手机双频 PPP 为什么仍慢于测地接收机",
+      "url": "https://doi.org/10.3390/s19112593",
+      "published": "2019-06-06",
+      "digest_date": "2026-08-23",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s21113879",
+      "title": "双频不够连续时：区域 CORS 电离层怎样把手机单频 PPP 拉到米级",
+      "url": "https://doi.org/10.3390/s21113879",
+      "published": "2021-06-04",
+      "digest_date": "2026-08-23",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 7,
     "tracking": 9,
     "receiver-engineering": 50,
-    "low-cost-mobile": 14,
-    "positioning": 40
+    "low-cost-mobile": 16,
+    "positioning": 41
   },
   "learning_level_counts": {
-    "foundation": 40,
-    "intermediate": 40,
-    "advanced": 40
+    "foundation": 41,
+    "intermediate": 41,
+    "advanced": 41
   },
   "positioning_rotation": {
     "spp": 7,
     "rtk": 7,
     "ppp-ppp-rtk": 7,
     "dual-antenna-heading": 7,
-    "smartphone-low-cost": 6,
+    "smartphone-low-cost": 7,
     "integrity": 6
   }
 }
