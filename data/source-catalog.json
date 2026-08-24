@@ -3075,19 +3075,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2608.19927",
+      "title": "延长积分与缩窄相关器间隔都能降噪，但切换瞬间可能先丢锁",
+      "url": "https://arxiv.org/abs/2608.19927",
+      "published": "2026-08-20",
+      "digest_date": "2026-08-24",
+      "section": "brief",
+      "category": "tracking-loop-integration-spacing-transients"
+    },
+    {
+      "source_id": "arxiv:2608.18737",
+      "title": "南北极海冰漂移的频谱形状相似，能量幅度却不能直接类比",
+      "url": "https://arxiv.org/abs/2608.18737",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-24",
+      "section": "brief",
+      "category": "polar-gnss-sea-ice-drift-spectra"
+    },
+    {
+      "source_id": "arxiv:2608.18636",
+      "title": "让 LEO 充当空间参考站，可用稀疏地面网补足 GNSS 轨道与钟的几何可观测性",
+      "url": "https://arxiv.org/abs/2608.18636",
+      "published": "2026-08-19",
+      "digest_date": "2026-08-24",
+      "section": "brief",
+      "category": "decentralized-ground-leo-gnss-reference-network"
+    },
+    {
+      "source_id": "arxiv:2608.17092",
+      "title": "把 GNSS 与独立运动状态写成结构化叙述，小模型也能识别多类渐进欺骗",
+      "url": "https://arxiv.org/abs/2608.17092",
+      "published": "2026-08-17",
+      "digest_date": "2026-08-24",
+      "section": "brief",
+      "category": "slm-structured-state-gnss-spoofing-detection"
+    },
+    {
+      "source_id": "arxiv:2608.15819",
+      "title": "同场地近 99% 干扰分类准确率，换场地后可跌到个位数",
+      "url": "https://arxiv.org/abs/2608.15819",
+      "published": "2026-08-16",
+      "digest_date": "2026-08-24",
+      "section": "brief",
+      "category": "jammertest-multisource-domain-shift"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-018-0812-0",
+      "title": "剔除观测以后，为什么不能继续用剔除前的无条件正态分布算风险",
+      "url": "https://doi.org/10.1007/s10291-018-0812-0",
+      "published": "2019-01-09",
+      "digest_date": "2026-08-24",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-020-01017-7",
+      "title": "误差不是高斯时：用极值与长期气象场构造仍保守但更紧的对流层包络",
+      "url": "https://doi.org/10.1007/s10291-020-01017-7",
+      "published": "2020-08-07",
+      "digest_date": "2026-08-24",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00194-z",
+      "title": "海面多路径不是同一把尺：分仰角包络怎样压紧 RT-PPP 水平保护级",
+      "url": "https://doi.org/10.1186/s43020-026-00194-z",
+      "published": "2026-03-11",
+      "digest_date": "2026-08-24",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 7,
     "tracking": 9,
-    "receiver-engineering": 50,
+    "receiver-engineering": 52,
     "low-cost-mobile": 16,
-    "positioning": 41
+    "positioning": 42
   },
   "learning_level_counts": {
-    "foundation": 41,
-    "intermediate": 41,
-    "advanced": 41
+    "foundation": 42,
+    "intermediate": 42,
+    "advanced": 42
   },
   "positioning_rotation": {
     "spp": 7,
@@ -3095,6 +3170,6 @@
     "ppp-ppp-rtk": 7,
     "dual-antenna-heading": 7,
     "smartphone-low-cost": 7,
-    "integrity": 6
+    "integrity": 7
   }
 }
