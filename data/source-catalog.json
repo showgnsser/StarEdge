@@ -3150,22 +3150,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae9da7",
+      "title": "信号中断时，不只预测钟差，还要把预测方差作为伪观测送回 PPP",
+      "url": "https://doi.org/10.1088/1361-6501/ae9da7",
+      "published": "2026-08-24",
+      "digest_date": "2026-08-25",
+      "section": "brief",
+      "category": "cnn-lstm-bds-rtppp-time-transfer-outage"
+    },
+    {
+      "source_id": "doi:10.3390/geomatics6050094",
+      "title": "EXIF 里的速度跳变能像欺骗，却无法仅凭照片元数据判定攻击来源",
+      "url": "https://doi.org/10.3390/geomatics6050094",
+      "published": "2026-08-23",
+      "digest_date": "2026-08-25",
+      "section": "brief",
+      "category": "smartphone-exif-gnss-integrity-flight"
+    },
+    {
+      "source_id": "doi:10.3390/s26175340",
+      "title": "相机给交通流量，增强 GPS 给轨迹；融合前必须承认 1 Hz 与米级定位的分辨率",
+      "url": "https://doi.org/10.3390/s26175340",
+      "published": "2026-08-24",
+      "digest_date": "2026-08-25",
+      "section": "brief",
+      "category": "camera-waas-gps-traffic-calming-kinematics"
+    },
+    {
+      "source_id": "doi:10.21203/rs.3.rs-10109480/v1",
+      "title": "多频 PPP-AR 的偏差产品若分开估计，时间分辨率与基准一致性会一起受损",
+      "url": "https://doi.org/10.21203/rs.3.rs-10109480/v1",
+      "published": "2026-08-24",
+      "digest_date": "2026-08-25",
+      "section": "brief",
+      "category": "high-rate-unified-osb-ppp-ar-bias"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-68155-9",
+      "title": "GPS 绩效数字既能支持自我调节，也会在公开比较中变成心理压力源",
+      "url": "https://doi.org/10.1038/s41598-026-68155-9",
+      "published": "2026-08-23",
+      "digest_date": "2026-08-25",
+      "section": "brief",
+      "category": "gps-wearable-feedback-adolescent-football"
+    },
+    {
+      "source_id": "doi:10.3390/s23031566",
+      "title": "先把 CAF 看成统计检验：神经网络为什么能利用相关峰周围的形状",
+      "url": "https://doi.org/10.3390/s23031566",
+      "published": "2023-02-01",
+      "digest_date": "2026-08-25",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-023-00101-w",
+      "title": "不要只按 C/N₀ 一刀切：把 NLOS 概率同时用于选星与定权",
+      "url": "https://doi.org/10.1186/s43020-023-00101-w",
+      "published": "2023-05-10",
+      "digest_date": "2026-08-25",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01627-5",
+      "title": "不回到 IF 采样：用伪距相关图把 DPE 的联合峰思想带进城市 SPP",
+      "url": "https://doi.org/10.1007/s10291-024-01627-5",
+      "published": "2024-03-11",
+      "digest_date": "2026-08-25",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 7,
+    "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 52,
+    "receiver-engineering": 53,
     "low-cost-mobile": 16,
-    "positioning": 42
+    "positioning": 43
   },
   "learning_level_counts": {
-    "foundation": 42,
-    "intermediate": 42,
-    "advanced": 42
+    "foundation": 43,
+    "intermediate": 43,
+    "advanced": 43
   },
   "positioning_rotation": {
-    "spp": 7,
+    "spp": 8,
     "rtk": 7,
     "ppp-ppp-rtk": 7,
     "dual-antenna-heading": 7,
