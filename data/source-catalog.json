@@ -3225,23 +3225,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/atmos17090821",
+      "title": "没有无误差真值时，用三套仪器互相闭合也要检查‘误差独立’是否成立",
+      "url": "https://doi.org/10.3390/atmos17090821",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-26",
+      "section": "brief",
+      "category": "gnss-mwr-radiosonde-iwv-triple-collocation"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-67304-4",
+      "title": "CORS 网设计的毫米级标准误差是部署前传播结果，不是新站已实测的定位精度",
+      "url": "https://doi.org/10.1038/s41598-026-67304-4",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-26",
+      "section": "brief",
+      "category": "egypt-cors-network-extension-adjustment"
+    },
+    {
+      "source_id": "doi:10.3389/fspas.2026.1915192",
+      "title": "星载时钟校正若只给更小预测误差，还不足以证明时间保持链可用",
+      "url": "https://doi.org/10.3389/fspas.2026.1915192",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-26",
+      "section": "brief",
+      "category": "bds3-onboard-clock-patchtst-tcn-attention-gru"
+    },
+    {
+      "source_id": "arxiv:2608.22289",
+      "title": "低空斜视图里，先判‘几何上能否共视’再匹配，比只追显著特征更稳",
+      "url": "https://arxiv.org/abs/2608.22289",
+      "published": "2026-08-23",
+      "digest_date": "2026-08-26",
+      "section": "brief",
+      "category": "depth-guided-uav-cross-view-visual-localization"
+    },
+    {
+      "source_id": "esa:2026-no-signal-left-behind",
+      "title": "干扰地图可以复用通信塔与参考站，但‘项目已启动’不能写成‘检测性能已证实’",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/No_signal_left_behind_new_ways_to_detect_jamming_and_spoofing",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-26",
+      "section": "brief",
+      "category": "esa-navisp-distributed-gnss-interference-monitoring"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01749-w",
+      "title": "整数模糊度不只是‘取最近整数’：不同距离决定不同正确固定概率",
+      "url": "https://doi.org/10.1007/s10291-024-01749-w",
+      "published": "2024-11-07",
+      "digest_date": "2026-08-26",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00211-1",
+      "title": "重尾不必重写 LAMBDA：对随机尺度条件化，再把成功率界平均回来",
+      "url": "https://doi.org/10.1186/s43020-026-00211-1",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-26",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-022-01367-4",
+      "title": "让模糊度成功率调节观测噪声：动基线 RTK 的自适应滤波闭环",
+      "url": "https://doi.org/10.1007/s10291-022-01367-4",
+      "published": "2022-12-05",
+      "digest_date": "2026-08-26",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 53,
+    "receiver-engineering": 55,
     "low-cost-mobile": 16,
-    "positioning": 43
+    "positioning": 44
   },
   "learning_level_counts": {
-    "foundation": 43,
-    "intermediate": 43,
-    "advanced": 43
+    "foundation": 44,
+    "intermediate": 44,
+    "advanced": 44
   },
   "positioning_rotation": {
     "spp": 8,
-    "rtk": 7,
+    "rtk": 8,
     "ppp-ppp-rtk": 7,
     "dual-antenna-heading": 7,
     "smartphone-low-cost": 7,
