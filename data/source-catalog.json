@@ -3300,24 +3300,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/s26175397",
+      "title": "BDS 失锁时引入 eLoran，先保证‘仍有外部时间约束’，再谈保持精度",
+      "url": "https://doi.org/10.3390/s26175397",
+      "published": "2026-08-26",
+      "digest_date": "2026-08-27",
+      "section": "brief",
+      "category": "bds-eloran-tcxo-three-layer-time-fusion"
+    },
+    {
+      "source_id": "doi:10.3390/s26175370",
+      "title": "用 IMU 时序修 GNSS/INS 跳变，特定试验域改善不能替代跨城泛化验证",
+      "url": "https://doi.org/10.3390/s26175370",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-27",
+      "section": "brief",
+      "category": "cnn-gru-gnss-ins-position-jump-correction"
+    },
+    {
+      "source_id": "gsc:2026-gsat0233-gsat0234-metadata",
+      "title": "两颗新 Galileo 星的质量、质心、ARP 与多频 PCO 已进入官方元数据",
+      "url": "https://www.gsc-europa.eu/news/updated-metadata-information-for-galileo-satellites-gsat0233-and-gsat0234",
+      "published": "2026-07-24",
+      "digest_date": "2026-08-27",
+      "section": "brief",
+      "category": "galileo-gsat0233-gsat0234-precise-metadata"
+    },
+    {
+      "source_id": "github:pridelab-pride-pppar-v3.2.10",
+      "title": "PRIDE PPP-AR 3.2.10 把全频定整、50 Hz 高动态和多日处理放进同一开源链",
+      "url": "https://github.com/PrideLab/PRIDE-PPPAR",
+      "published": "2026-07-12",
+      "digest_date": "2026-08-27",
+      "section": "brief",
+      "category": "pride-pppar-3-2-10-multignss-all-frequency"
+    },
+    {
+      "source_id": "gsc:2026-q1-performance-reports",
+      "title": "Galileo 季报把 OS、HAS、OSNMA 与 SAR 分开验收，不能用一个‘系统可用率’概括",
+      "url": "https://www.gsc-europa.eu/news/galileo-performance-reports-for-q1-2026-are-now-available",
+      "published": "2026-06-04",
+      "digest_date": "2026-08-27",
+      "section": "brief",
+      "category": "galileo-q1-2026-service-performance-reports"
+    },
+    {
+      "source_id": "doi:10.3390/rs12111853",
+      "title": "未组合 PPP 为什么还能定整：先把系统间偏差与分数周偏差分开估",
+      "url": "https://doi.org/10.3390/rs12111853",
+      "published": "2020-06-10",
+      "digest_date": "2026-08-27",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs13163077",
+      "title": "多一个频点不等于多一份信息：PPP-RTK 收敛更看频率间隔",
+      "url": "https://doi.org/10.3390/rs13163077",
+      "published": "2021-08-05",
+      "digest_date": "2026-08-27",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-022-01602-3",
+      "title": "把相位偏差发到每个观测量：一套钟怎样支持全频 PPP-AR",
+      "url": "https://doi.org/10.1007/s00190-022-01602-3",
+      "published": "2022-02-04",
+      "digest_date": "2026-08-27",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 55,
+    "receiver-engineering": 57,
     "low-cost-mobile": 16,
-    "positioning": 44
+    "positioning": 45
   },
   "learning_level_counts": {
-    "foundation": 44,
-    "intermediate": 44,
-    "advanced": 44
+    "foundation": 45,
+    "intermediate": 45,
+    "advanced": 45
   },
   "positioning_rotation": {
     "spp": 8,
     "rtk": 8,
-    "ppp-ppp-rtk": 7,
+    "ppp-ppp-rtk": 8,
     "dual-antenna-heading": 7,
     "smartphone-low-cost": 7,
     "integrity": 7
