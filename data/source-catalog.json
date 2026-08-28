@@ -3375,25 +3375,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.5614/itbj.ict.res.appl.2026.20.2.4",
+      "title": "低成本 RTK 能把油棕种植点放进 10 cm 容差，但通信距离与正射底图仍是同一条误差链",
+      "url": "https://doi.org/10.5614/itbj.ict.res.appl.2026.20.2.4",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-28",
+      "section": "brief",
+      "category": "low-cost-oil-palm-rtk-lora-orthophoto"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-67980-2",
+      "title": "多传感器姿态分支共享同一运动信息，直接相乘协方差会把置信度算得过高",
+      "url": "https://doi.org/10.1038/s41598-026-67980-2",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-28",
+      "section": "brief",
+      "category": "correlation-aware-split-cif-multiantenna-gnss-ins-attitude"
+    },
+    {
+      "source_id": "doi:10.3390/s26175421",
+      "title": "GPS 拒止飞行里，光流尺度要看相机实际看到的表面，而不是只查机下一个地面高程点",
+      "url": "https://doi.org/10.3390/s26175421",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-28",
+      "section": "brief",
+      "category": "gps-denied-uav-dsm-optical-flow-dead-reckoning"
+    },
+    {
+      "source_id": "doi:10.31763/iota.v6i3.1210",
+      "title": "海上 GPS 浮标先压缩遥测载荷能省卫星信用点，但‘零丢包’只属于本次天气与航段",
+      "url": "https://doi.org/10.31763/iota.v6i3.1210",
+      "published": "2026-08-26",
+      "digest_date": "2026-08-28",
+      "section": "brief",
+      "category": "iridium-smart-buoy-float32-gps-telemetry"
+    },
+    {
+      "source_id": "doi:10.7527/s1000-6893.2026.33643",
+      "title": "BDSBAS、ARAIM 与 RAIM 应按飞行阶段逐级回退，而不是把单一算法硬撑到所有服务状态",
+      "url": "https://doi.org/10.7527/S1000-6893.2026.33643",
+      "published": "2026-08-18",
+      "digest_date": "2026-08-28",
+      "section": "brief",
+      "category": "bdsbas-araim-raim-multilevel-airborne-integrity"
+    },
+    {
+      "source_id": "doi:10.3390/rs13193977",
+      "title": "共用一个钟以后，天线间单差为何更安静、又为什么仍不能直接把模糊度当整数",
+      "url": "https://doi.org/10.3390/rs13193977",
+      "published": "2021-10-05",
+      "digest_date": "2026-08-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs13142746",
+      "title": "一条基线先固定后，车体只剩一个角度自由度可搜：低成本单历元定姿怎样借刚体几何补强",
+      "url": "https://doi.org/10.3390/rs13142746",
+      "published": "2021-07-13",
+      "digest_date": "2026-08-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/mi13010064",
+      "title": "RTK 浮点天线不能直接拿来定姿：多条已知边怎样在坐标域压掉模糊函数伪峰",
+      "url": "https://doi.org/10.3390/mi13010064",
+      "published": "2021-12-30",
+      "digest_date": "2026-08-28",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 57,
+    "receiver-engineering": 59,
     "low-cost-mobile": 16,
-    "positioning": 45
+    "positioning": 46
   },
   "learning_level_counts": {
-    "foundation": 45,
-    "intermediate": 45,
-    "advanced": 45
+    "foundation": 46,
+    "intermediate": 46,
+    "advanced": 46
   },
   "positioning_rotation": {
     "spp": 8,
     "rtk": 8,
     "ppp-ppp-rtk": 8,
-    "dual-antenna-heading": 7,
+    "dual-antenna-heading": 8,
     "smartphone-low-cost": 7,
     "integrity": 7
   }
