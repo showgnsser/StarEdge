@@ -3450,26 +3450,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/navi.789",
+      "title": "给速度增量加‘车辆运动形状’，隐蔽欺骗更容易从低成本 IMU 噪声里分离",
+      "url": "https://doi.org/10.33012/navi.789",
+      "published": "2026-08-28",
+      "digest_date": "2026-08-29",
+      "section": "brief",
+      "category": "motion-model-vidc-gnss-imu-spoofing"
+    },
+    {
+      "source_id": "doi:10.18469/ikt.2026.24.1.08",
+      "title": "积分时间、环路阶次和 Early-Late 间距必须联动切换，不能各自单独调优",
+      "url": "https://doi.org/10.18469/ikt.2026.24.1.08",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-29",
+      "section": "brief",
+      "category": "fpga-gnss-tracking-loop-integration-spacing"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02103-3",
+      "title": "NLOS 概率和双差残差各管一种异常，联合重定权比单一路径更完整",
+      "url": "https://doi.org/10.1007/s00190-026-02103-3",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-29",
+      "section": "brief",
+      "category": "random-forest-nlos-igg3-rtk-robust-weighting"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02135-4",
+      "title": "NeQuick 顶侧尺度高度分段时，800 km 边界必须连续",
+      "url": "https://doi.org/10.1007/s10291-026-02135-4",
+      "published": "2026-08-28",
+      "digest_date": "2026-08-29",
+      "section": "brief",
+      "category": "nequick-topside-continuity-height-segmented-isis2"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02136-3",
+      "title": "分布式 LEO 定轨若忽略星间链路相关性，会把‘多了一条量测’误当成独立信息",
+      "url": "https://doi.org/10.1007/s10291-026-02136-3",
+      "published": "2026-08-28",
+      "digest_date": "2026-08-29",
+      "section": "brief",
+      "category": "correlation-consistent-distributed-leo-orbit-ephemeris"
+    },
+    {
+      "source_id": "doi:10.3390/s20205917",
+      "title": "双频观测凑不齐时：用外部电离层约束把单频手机 PPP 先做稳",
+      "url": "https://doi.org/10.3390/s20205917",
+      "published": "2020-10-20",
+      "digest_date": "2026-08-29",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs15061476",
+      "title": "跨系统差分之前先量偏差：稳定 DISB 才能把 Galileo 真正并入手机 RTK",
+      "url": "https://doi.org/10.3390/rs15061476",
+      "published": "2023-03-07",
+      "digest_date": "2026-08-29",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs14246388",
+      "title": "手机纯 GNSS RTK 怎样不断线：四分位降粗差，再按运动突变放松预测",
+      "url": "https://doi.org/10.3390/rs14246388",
+      "published": "2022-12-17",
+      "digest_date": "2026-08-29",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
     "receiver-engineering": 59,
-    "low-cost-mobile": 16,
-    "positioning": 46
+    "low-cost-mobile": 18,
+    "positioning": 47
   },
   "learning_level_counts": {
-    "foundation": 46,
-    "intermediate": 46,
-    "advanced": 46
+    "foundation": 47,
+    "intermediate": 47,
+    "advanced": 47
   },
   "positioning_rotation": {
     "spp": 8,
     "rtk": 8,
     "ppp-ppp-rtk": 8,
     "dual-antenna-heading": 8,
-    "smartphone-low-cost": 7,
+    "smartphone-low-cost": 8,
     "integrity": 7
   }
 }
