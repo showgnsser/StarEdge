@@ -3525,19 +3525,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2608.25674",
+      "title": "自监督预训练不直接学坐标，而是先学卫星间空间关系，再把改正与不确定度送回 WLS",
+      "url": "https://arxiv.org/abs/2608.25674",
+      "published": "2026-08-26",
+      "digest_date": "2026-08-30",
+      "section": "brief",
+      "category": "self-supervised-gnss-multipath-dle-pvt"
+    },
+    {
+      "source_id": "arxiv:2608.25563",
+      "title": "量子重力地图匹配能约束海上惯导漂移，但当前是海里级导航，不是 GNSS 精度替代品",
+      "url": "https://arxiv.org/abs/2608.25563",
+      "published": "2026-08-26",
+      "digest_date": "2026-08-30",
+      "section": "brief",
+      "category": "quantum-gravity-map-matching-gnss-free-maritime-navigation"
+    },
+    {
+      "source_id": "arxiv:2608.23290",
+      "title": "城市视觉定位把 GPS 降级成候选区提示，最终位姿由立面几何决定",
+      "url": "https://arxiv.org/abs/2608.23290",
+      "published": "2026-08-24",
+      "digest_date": "2026-08-30",
+      "section": "brief",
+      "category": "spotter-facade-visual-localization-gps-degraded"
+    },
+    {
+      "source_id": "doi:10.3390/agriculture16171868",
+      "title": "果园 GNSS 拒止导航用时空体素稳住几何地图，再把语义风险只放进局部规划代价",
+      "url": "https://doi.org/10.3390/agriculture16171868",
+      "published": "2026-08-28",
+      "digest_date": "2026-08-30",
+      "section": "brief",
+      "category": "citranav-gnss-denied-orchard-spatiotemporal-voxel-mppi"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2026_409",
+      "title": "GNSS、SLR 与 LEO 观测同层联合时，采样率和权重不一致可能抵消‘多一种观测’的收益",
+      "url": "https://doi.org/10.1007/1345_2026_409",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-30",
+      "section": "brief",
+      "category": "esa-cool-observation-level-gnss-slr-leo-combination"
+    },
+    {
+      "source_id": "doi:10.33012/navi.729",
+      "title": "时间相关误差不能只报一个标准差：先在频域包住输入，滤波协方差才有保守含义",
+      "url": "https://doi.org/10.33012/navi.729",
+      "published": "2026-01",
+      "digest_date": "2026-08-30",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/app15073531",
+      "title": "载波模型检验也要尊重整周结构：浮点残差会把最有价值的相位信息稀释掉",
+      "url": "https://doi.org/10.3390/app15073531",
+      "published": "2025-03-24",
+      "digest_date": "2026-08-30",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2026_412",
+      "title": "完整性决策不只问‘哪颗星坏了’：应直接问‘选这个模型后，位置会不会落出安全区’",
+      "url": "https://doi.org/10.1007/1345_2026_412",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-30",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 59,
+    "receiver-engineering": 61,
     "low-cost-mobile": 18,
-    "positioning": 47
+    "positioning": 48
   },
   "learning_level_counts": {
-    "foundation": 47,
-    "intermediate": 47,
-    "advanced": 47
+    "foundation": 48,
+    "intermediate": 48,
+    "advanced": 48
   },
   "positioning_rotation": {
     "spp": 8,
@@ -3545,6 +3620,6 @@
     "ppp-ppp-rtk": 8,
     "dual-antenna-heading": 8,
     "smartphone-low-cost": 8,
-    "integrity": 7
+    "integrity": 8
   }
 }
