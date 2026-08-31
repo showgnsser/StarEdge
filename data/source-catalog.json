@@ -3600,22 +3600,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae8c66",
+      "title": "基线长度不只用于验算姿态，还可以在分组模糊度搜索后约束整组候选",
+      "url": "https://doi.org/10.1088/1361-6501/ae8c66",
+      "published": "2026-08-28",
+      "digest_date": "2026-08-31",
+      "section": "brief",
+      "category": "baseline-constrained-vib-bie-gnss-attitude"
+    },
+    {
+      "source_id": "doi:10.1029/2026sw005159",
+      "title": "高纬电离层现报把经验背景与物理背景都送进同一个 3DVar 框架，而不是先假定谁永远更好",
+      "url": "https://doi.org/10.1029/2026SW005159",
+      "published": "2026-08-27",
+      "digest_date": "2026-08-31",
+      "section": "brief",
+      "category": "hawki-arctic-ionosphere-3dvar-nowcast"
+    },
+    {
+      "source_id": "doi:10.1029/2025ea004409",
+      "title": "没有站点气象传感器时，可让 GraphCast 先给 ZHD 与加权平均温度，再由 GNSS 延迟反演水汽",
+      "url": "https://doi.org/10.1029/2025EA004409",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-31",
+      "section": "brief",
+      "category": "graphcast-forecast-gnss-pwv-retrieval"
+    },
+    {
+      "source_id": "doi:10.1029/2025ja034953",
+      "title": "地球同步卫星的固定视线让三台接收机直接追踪闪烁图样从 180 m/s 慢到 40 m/s",
+      "url": "https://doi.org/10.1029/2025JA034953",
+      "published": "2026-08-24",
+      "digest_date": "2026-08-31",
+      "section": "brief",
+      "category": "geostationary-l1-spaced-receiver-equatorial-scintillation"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/ae8dee",
+      "title": "惯导位置误差模型必须和位置参数化成对选择，不能把经纬度误差式直接搬到任意坐标状态",
+      "url": "https://doi.org/10.1088/1361-6501/ae8dee",
+      "published": "2026-08-25",
+      "digest_date": "2026-08-31",
+      "section": "brief",
+      "category": "sins-position-error-parameterization-consistency"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01793-6",
+      "title": "SISRE 降了三成，SPP 为什么只改善一点：先把广播误差、用户误差和几何分开记账",
+      "url": "https://doi.org/10.1007/s10291-024-01793-6",
+      "published": "2024-12-05",
+      "digest_date": "2026-08-31",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22072804",
+      "title": "仰角给稳定底座，C/N₀ 只补瞬时变化：手机 PPP 联合定权怎样避免权值跟着信号强度乱跳",
+      "url": "https://doi.org/10.3390/s22072804",
+      "published": "2022-04-06",
+      "digest_date": "2026-08-31",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs10071157",
+      "title": "城市 SPP 不把弱星一刀切：用名义 C/N₀ 偏离量只增加‘场地特有’方差",
+      "url": "https://doi.org/10.3390/rs10071157",
+      "published": "2018-07-22",
+      "digest_date": "2026-08-31",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 61,
-    "low-cost-mobile": 18,
-    "positioning": 48
+    "receiver-engineering": 62,
+    "low-cost-mobile": 19,
+    "positioning": 49
   },
   "learning_level_counts": {
-    "foundation": 48,
-    "intermediate": 48,
-    "advanced": 48
+    "foundation": 49,
+    "intermediate": 49,
+    "advanced": 49
   },
   "positioning_rotation": {
-    "spp": 8,
+    "spp": 9,
     "rtk": 8,
     "ppp-ppp-rtk": 8,
     "dual-antenna-heading": 8,
