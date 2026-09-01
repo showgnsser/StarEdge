@@ -3675,26 +3675,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2608.28217",
+      "title": "LEO 通信波束兼做 PNT，真正的瓶颈是‘忙小区还能看见几颗独立卫星’",
+      "url": "https://arxiv.org/abs/2608.28217",
+      "published": "2026-08-28",
+      "digest_date": "2026-09-01",
+      "section": "brief",
+      "category": "leo-com-pnt-beam-scheduling-availability"
+    },
+    {
+      "source_id": "arxiv:2608.27628",
+      "title": "一年林地试验显示，算法更复杂不等于跨季节更可靠",
+      "url": "https://arxiv.org/abs/2608.27628",
+      "published": "2026-08-27",
+      "digest_date": "2026-09-01",
+      "section": "brief",
+      "category": "subarctic-multiseason-gnss-denied-navigation-field-report"
+    },
+    {
+      "source_id": "arxiv:2608.27152",
+      "title": "38 mg 档案式标签用旋转 BLE 波束重建蜜蜂路径，代价是必须回收标签",
+      "url": "https://arxiv.org/abs/2608.27152",
+      "published": "2026-08-27",
+      "digest_date": "2026-09-01",
+      "section": "brief",
+      "category": "ultralow-power-ble-rss-probabilistic-path-reconstruction"
+    },
+    {
+      "source_id": "arxiv:2608.26868",
+      "title": "协作式 Gaussian Splatting SLAM 把深度估计放到服务器，终端只传关键帧编码",
+      "url": "https://arxiv.org/abs/2608.26868",
+      "published": "2026-08-27",
+      "digest_date": "2026-09-01",
+      "section": "brief",
+      "category": "collaborative-rgb-imu-gaussian-splatting-slam"
+    },
+    {
+      "source_id": "arxiv:2608.25764",
+      "title": "地磁平静不代表 GNSS 传播平静，弱 STEVE 也能产生可测幅相闪烁",
+      "url": "https://arxiv.org/abs/2608.25764",
+      "published": "2026-08-26",
+      "digest_date": "2026-09-01",
+      "section": "brief",
+      "category": "antarctic-quiet-steve-gnss-scintillation"
+    },
+    {
+      "source_id": "doi:10.3390/s25196162",
+      "title": "单频周跳不靠第二频点：先用码减相位找候选，再用二阶载波差分复核",
+      "url": "https://doi.org/10.3390/s25196162",
+      "published": "2025-10-04",
+      "digest_date": "2026-09-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s19225034",
+      "title": "高维模糊度不要全有或全无：模型、数据和基线精度连续过三道门",
+      "url": "https://doi.org/10.3390/s19225034",
+      "published": "2019-11-18",
+      "digest_date": "2026-09-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s23115292",
+      "title": "手机 RTK 的整数不够‘整数’：用搜索—收缩、多数表决和十历元残差把偏置挡在固定解外",
+      "url": "https://doi.org/10.3390/s23115292",
+      "published": "2023-06-02",
+      "digest_date": "2026-09-01",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 62,
+    "receiver-engineering": 64,
     "low-cost-mobile": 19,
-    "positioning": 49
+    "positioning": 50
   },
   "learning_level_counts": {
-    "foundation": 49,
-    "intermediate": 49,
-    "advanced": 49
+    "foundation": 50,
+    "intermediate": 50,
+    "advanced": 50
   },
   "positioning_rotation": {
     "spp": 9,
     "rtk": 8,
     "ppp-ppp-rtk": 8,
     "dual-antenna-heading": 8,
-    "smartphone-low-cost": 8,
+    "smartphone-low-cost": 9,
     "integrity": 8
   }
 }
