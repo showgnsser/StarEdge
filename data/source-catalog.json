@@ -3750,24 +3750,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2608.31006",
+      "title": "LLM 两小时生成主动 GNSS L1 天线制造包，但所有射频指标仍只是仿真值",
+      "url": "https://arxiv.org/abs/2608.31006",
+      "published": "2026-08-31",
+      "digest_date": "2026-09-02",
+      "section": "brief",
+      "category": "agentic-rf-gnss-l1-active-antenna"
+    },
+    {
+      "source_id": "arxiv:2608.25319",
+      "title": "超声不碰 GNSS，也能经‘陀螺—估计器—控制器’把悬停点推偏约 1 m",
+      "url": "https://arxiv.org/abs/2608.25319",
+      "published": "2026-08-28",
+      "digest_date": "2026-09-02",
+      "section": "brief",
+      "category": "ultrasonic-gyro-estimator-controller-uav-displacement"
+    },
+    {
+      "source_id": "arxiv:2608.25274",
+      "title": "61 万对开放跨视角图像扩大了 GNSS 拒止定位训练域，也把‘几米仍不够用’暴露出来",
+      "url": "https://arxiv.org/abs/2608.25274",
+      "published": "2026-08-25",
+      "digest_date": "2026-09-02",
+      "section": "brief",
+      "category": "open-cross-view-localization-dataset"
+    },
+    {
+      "source_id": "arxiv:2608.21433",
+      "title": "Allan 方差不能直接塞进离散滤波器，先换成连续 PSD 再随采样周期传播",
+      "url": "https://arxiv.org/abs/2608.21433",
+      "published": "2026-08-25",
+      "digest_date": "2026-09-02",
+      "section": "brief",
+      "category": "imu-allan-variance-kalman-tuning"
+    },
+    {
+      "source_id": "arxiv:2608.19004",
+      "title": "农机 EKF 在仿真中跨过 20 s GNSS 中断，但 2.46 m 漂移和检测缺陷离下田还很远",
+      "url": "https://arxiv.org/abs/2608.19004",
+      "published": "2026-08-19",
+      "digest_date": "2026-09-02",
+      "section": "brief",
+      "category": "paddy-tractor-gnss-outage-lidar-ekf"
+    },
+    {
+      "source_id": "doi:10.3390/s20051534",
+      "title": "超宽巷很长也会定错：用第二候选和后验方差给单历元整数再过一关",
+      "url": "https://doi.org/10.3390/s20051534",
+      "published": "2020-03-10",
+      "digest_date": "2026-09-02",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs13234746",
+      "title": "频点越多不一定越快：先选低噪声频差，再给第三频点单独记偏差账",
+      "url": "https://doi.org/10.3390/rs13234746",
+      "published": "2021-11-23",
+      "digest_date": "2026-09-02",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1016/j.asr.2026.05.054",
+      "title": "单历元 PPP-RTK 不等上一历元：用区域大气约束把每个历元独立推到厘米—分米级",
+      "url": "https://doi.org/10.1016/j.asr.2026.05.054",
+      "published": "2026-07-15",
+      "digest_date": "2026-09-02",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 64,
+    "receiver-engineering": 66,
     "low-cost-mobile": 19,
-    "positioning": 50
+    "positioning": 51
   },
   "learning_level_counts": {
-    "foundation": 50,
-    "intermediate": 50,
-    "advanced": 50
+    "foundation": 51,
+    "intermediate": 51,
+    "advanced": 51
   },
   "positioning_rotation": {
     "spp": 9,
     "rtk": 8,
-    "ppp-ppp-rtk": 8,
+    "ppp-ppp-rtk": 9,
     "dual-antenna-heading": 8,
     "smartphone-low-cost": 9,
     "integrity": 8
