@@ -3825,19 +3825,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2609.01384",
+      "title": "双天线 RTK 不只给坐标，还给低速覆盖机器人的可观航向",
+      "url": "https://arxiv.org/abs/2609.01384",
+      "published": "2026-09-01",
+      "digest_date": "2026-09-03",
+      "section": "brief",
+      "category": "dual-antenna-rtk-outdoor-coverage-robot"
+    },
+    {
+      "source_id": "arxiv:2608.26669",
+      "title": "公路 ADAS 测试里 RTK 只覆盖 2.3%，真值可用率本身就是结论",
+      "url": "https://arxiv.org/abs/2608.26669",
+      "published": "2026-08-27",
+      "digest_date": "2026-09-03",
+      "section": "brief",
+      "category": "public-road-adas-lidar-rtk-reference-availability"
+    },
+    {
+      "source_id": "arxiv:2608.26932",
+      "title": "水下吸附动作也能当定位因子，把‘碰到同一目标’变成隐式回环",
+      "url": "https://arxiv.org/abs/2608.26932",
+      "published": "2026-08-27",
+      "digest_date": "2026-09-03",
+      "section": "brief",
+      "category": "underwater-contact-aided-factor-graph-localization"
+    },
+    {
+      "source_id": "arxiv:2608.26525",
+      "title": "磁导航前先把平台磁场剥干净，多传感器卡尔曼融合把 359.2 nT 压到 12.3 nT",
+      "url": "https://arxiv.org/abs/2608.26525",
+      "published": "2026-08-27",
+      "digest_date": "2026-09-03",
+      "section": "brief",
+      "category": "mapless-multisensor-aeromagnetic-compensation"
+    },
+    {
+      "source_id": "arxiv:2608.18632",
+      "title": "高空俯视单目 SLAM 能不断轨，却可能在公里尺度持续变形",
+      "url": "https://arxiv.org/abs/2608.18632",
+      "published": "2026-08-24",
+      "digest_date": "2026-09-03",
+      "section": "brief",
+      "category": "high-altitude-nadir-monocular-slam-benchmark"
+    },
+    {
+      "source_id": "doi:10.3390/rs12121992",
+      "title": "非高斯误差不能假装成普通高斯：先在位置域给尾部画一条可信外包络",
+      "url": "https://doi.org/10.3390/rs12121992",
+      "published": "2020-06-21",
+      "digest_date": "2026-09-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2507.03987",
+      "title": "不必为每颗可疑星重算三维分离分布：一个删一残差已包含同样检测信息",
+      "url": "https://arxiv.org/abs/2507.03987",
+      "published": "2025-12-30",
+      "digest_date": "2026-09-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s42401-026-00457-2",
+      "title": "多故障 ARAIM 不必把每个假设都做成高维分离：单故障标量、多故障三轴混合监测",
+      "url": "https://doi.org/10.1007/s42401-026-00457-2",
+      "published": "2026-05-12",
+      "digest_date": "2026-09-03",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 66,
+    "receiver-engineering": 68,
     "low-cost-mobile": 19,
-    "positioning": 51
+    "positioning": 52
   },
   "learning_level_counts": {
-    "foundation": 51,
-    "intermediate": 51,
-    "advanced": 51
+    "foundation": 52,
+    "intermediate": 52,
+    "advanced": 52
   },
   "positioning_rotation": {
     "spp": 9,
@@ -3845,6 +3920,6 @@
     "ppp-ppp-rtk": 9,
     "dual-antenna-heading": 8,
     "smartphone-low-cost": 9,
-    "integrity": 8
+    "integrity": 9
   }
 }
