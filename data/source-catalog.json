@@ -3900,23 +3900,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2609.02587",
+      "title": "隐蔽 GNSS/LiDAR 攻击不露残差，就用受限机动主动拉开可达集合",
+      "url": "https://arxiv.org/abs/2609.02587",
+      "published": "2026-09-02",
+      "digest_date": "2026-09-04",
+      "section": "brief",
+      "category": "zonotope-active-exposure-gnss-lidar-deception"
+    },
+    {
+      "source_id": "arxiv:2609.02319",
+      "title": "四鱼眼拼全景不能只追求无缝，机载版本还要守住 20 Hz 与功耗预算",
+      "url": "https://arxiv.org/abs/2609.02319",
+      "published": "2026-09-02",
+      "digest_date": "2026-09-04",
+      "section": "brief",
+      "category": "uav-multifisheye-parallax-aware-onboard-panorama"
+    },
+    {
+      "source_id": "arxiv:2609.02657",
+      "title": "RF 与超声同场同步后，联合定位的第一项成果是把缺测和时钟边界写进数据集",
+      "url": "https://arxiv.org/abs/2609.02657",
+      "published": "2026-09-02",
+      "digest_date": "2026-09-04",
+      "section": "brief",
+      "category": "synchronized-rf-acoustic-indoor-positioning-dataset"
+    },
+    {
+      "source_id": "arxiv:2609.01420",
+      "title": "GPS 失效后的双机编队靠视觉相对位姿续航，但证据仍停留在 Gazebo",
+      "url": "https://arxiv.org/abs/2609.01420",
+      "published": "2026-09-01",
+      "digest_date": "2026-09-04",
+      "section": "brief",
+      "category": "vision-leader-follower-uav-gps-degraded-fallback"
+    },
+    {
+      "source_id": "arxiv:2609.02332",
+      "title": "Kalman 滤波不必先假设高斯，先把预测与观测写成一个广义最小二乘",
+      "url": "https://arxiv.org/abs/2609.02332",
+      "published": "2026-09-02",
+      "digest_date": "2026-09-04",
+      "section": "brief",
+      "category": "kalman-filter-generalized-least-squares-derivation"
+    },
+    {
+      "source_id": "doi:10.1561/2300000043",
+      "title": "因子图不是画图工具：每条局部约束都对应稀疏最小二乘的一块",
+      "url": "https://doi.org/10.1561/2300000043",
+      "published": "2017-08-15",
+      "digest_date": "2026-09-04",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2106.01594",
+      "title": "把码、Doppler 与双差载波分别成因子，历史信息能抗粗差但不能替代周跳检测",
+      "url": "https://arxiv.org/abs/2106.01594",
+      "published": "2021-06-03",
+      "digest_date": "2026-09-04",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "arxiv:2208.12923",
+      "title": "双差模糊度既然跨历元不变，就别在每个时刻复制一份：全局 RTK 状态图",
+      "url": "https://arxiv.org/abs/2208.12923",
+      "published": "2022-11-09",
+      "digest_date": "2026-09-04",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 68,
+    "receiver-engineering": 70,
     "low-cost-mobile": 19,
-    "positioning": 52
+    "positioning": 53
   },
   "learning_level_counts": {
-    "foundation": 52,
-    "intermediate": 52,
-    "advanced": 52
+    "foundation": 53,
+    "intermediate": 53,
+    "advanced": 53
   },
   "positioning_rotation": {
     "spp": 9,
-    "rtk": 8,
+    "rtk": 9,
     "ppp-ppp-rtk": 9,
     "dual-antenna-heading": 8,
     "smartphone-low-cost": 9,
