@@ -3975,25 +3975,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2609.03483",
+      "title": "空中俯视图只有变成地面车可执行的共享地图，异构协作才真正产生增益",
+      "url": "https://arxiv.org/abs/2609.03483",
+      "published": "2026-09-03",
+      "digest_date": "2026-09-05",
+      "section": "brief",
+      "category": "air-ground-shared-bird-eye-vln"
+    },
+    {
+      "source_id": "arxiv:2609.01979",
+      "title": "稀疏互质阵列扩大虚拟孔径，也必须用更多快拍偿还空间—时间账",
+      "url": "https://arxiv.org/abs/2609.01979",
+      "published": "2026-09-02",
+      "digest_date": "2026-09-05",
+      "section": "brief",
+      "category": "uav-isac-coprime-virtual-aperture"
+    },
+    {
+      "source_id": "arxiv:2609.00659",
+      "title": "无人机群共享特征前，先用一个小型上下文平面决定谁在何时发什么",
+      "url": "https://arxiv.org/abs/2609.00659",
+      "published": "2026-09-01",
+      "digest_date": "2026-09-05",
+      "section": "brief",
+      "category": "drone-cooperative-perception-context-plane"
+    },
+    {
+      "source_id": "arxiv:2609.01404",
+      "title": "小型多模态模型可能飞得到，却因为不会正确宣布“到达”而被判失败",
+      "url": "https://arxiv.org/abs/2609.01404",
+      "published": "2026-09-01",
+      "digest_date": "2026-09-05",
+      "section": "brief",
+      "category": "drone-mllm-action-protocol-termination"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00214-y",
+      "title": "长基线 URTK 把 B2b/HAS 精密星历同时放在平台端和用户端，改正中断后仍可延续固定解",
+      "url": "https://doi.org/10.1186/s43020-026-00214-y",
+      "published": "2026-09-01",
+      "digest_date": "2026-09-05",
+      "section": "brief",
+      "category": "b2b-has-enhanced-long-baseline-urtk"
+    },
+    {
+      "source_id": "doi:10.3390/s17020408",
+      "title": "共钟不只是少估一个钟差：它改变单差相对双差的垂向信息量",
+      "url": "https://doi.org/10.3390/s17020408",
+      "published": "2017-02-20",
+      "digest_date": "2026-09-05",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "arxiv:2112.14813",
+      "title": "先在球面上解包裹相位：不显式先固定整数，也能把基线几何塞进搜索",
+      "url": "https://arxiv.org/abs/2112.14813",
+      "published": "2021-12-29",
+      "digest_date": "2026-09-05",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "arxiv:2205.10141",
+      "title": "把旋转矩阵留在 Stiefel 流形上：先修正浮点中心，再缩小瞬时定向的整数搜索",
+      "url": "https://arxiv.org/abs/2205.10141",
+      "published": "2022-05-20",
+      "digest_date": "2026-09-05",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 70,
+    "receiver-engineering": 72,
     "low-cost-mobile": 19,
-    "positioning": 53
+    "positioning": 54
   },
   "learning_level_counts": {
-    "foundation": 53,
-    "intermediate": 53,
-    "advanced": 53
+    "foundation": 54,
+    "intermediate": 54,
+    "advanced": 54
   },
   "positioning_rotation": {
     "spp": 9,
     "rtk": 9,
     "ppp-ppp-rtk": 9,
-    "dual-antenna-heading": 8,
+    "dual-antenna-heading": 9,
     "smartphone-low-cost": 9,
     "integrity": 9
   }
