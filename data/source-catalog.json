@@ -4050,22 +4050,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/aerospace13090805",
+      "title": "Galileo E6-C 抗窄带干扰测距先在仿真中收敛到分米内，离接收机实证仍有一整段路",
+      "url": "https://doi.org/10.3390/aerospace13090805",
+      "published": "2026-09-03",
+      "digest_date": "2026-09-06",
+      "section": "brief",
+      "category": "galileo-e6c-narrowband-ranging-simulation"
+    },
+    {
+      "source_id": "doi:10.1142/s2301385028500689",
+      "title": "前向紧耦合把 IGG-III 定权放在 GNSS/INS 图优化前端，滑窗只保存真正有用的历史",
+      "url": "https://doi.org/10.1142/S2301385028500689",
+      "published": "2026-09-03",
+      "digest_date": "2026-09-06",
+      "section": "brief",
+      "category": "forward-tight-coupled-gnss-ins-factor-graph"
+    },
+    {
+      "source_id": "doi:10.3390/s26175609",
+      "title": "稀疏半年一次的 campaign GNSS 也能约束震后衰减，但最快的早期过程可能早已漏采",
+      "url": "https://doi.org/10.3390/s26175609",
+      "published": "2026-09-03",
+      "digest_date": "2026-09-06",
+      "section": "brief",
+      "category": "samos-postseismic-campaign-continuous-gnss"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/aea2b6",
+      "title": "稀疏高差网络的 PPP-RTK 对流层改正，可让天气模型补空间结构、让 GNSS 校准技术间偏差",
+      "url": "https://doi.org/10.1088/1361-6501/aea2b6",
+      "published": "2026-09-04",
+      "digest_date": "2026-09-06",
+      "section": "brief",
+      "category": "pangu-weather-gnss-troposphere-ppp-rtk"
+    },
+    {
+      "source_id": "doi:10.3390/jmse14171650",
+      "title": "单个 CYGNSS DDM 不能代表条件分布，条件流一次生成 16 个成员来补齐海面散射不确定性",
+      "url": "https://doi.org/10.3390/jmse14171650",
+      "published": "2026-09-04",
+      "digest_date": "2026-09-06",
+      "section": "brief",
+      "category": "cygnss-brcs-ddm-conditional-flow"
+    },
+    {
+      "source_id": "doi:10.3390/s25154678",
+      "title": "别把低 SNR 一刀切：十历元波动可以把弱但直达与强却反射分开定权",
+      "url": "https://doi.org/10.3390/s25154678",
+      "published": "2025-07-29",
+      "digest_date": "2026-09-06",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.13203/j.whugis20220598",
+      "title": "同样的 C/N0 在树荫和玻璃幕墙下不是同一种误差：给每类场景拟合自己的方差曲线",
+      "url": "https://doi.org/10.13203/j.whugis20220598",
+      "published": "2025-03",
+      "digest_date": "2026-09-06",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s26175622",
+      "title": "先改伪距、再学权重：残差引导两阶段网络改善轻街谷 SPP，却在重街谷输给传统 goGPS",
+      "url": "https://doi.org/10.3390/s26175622",
+      "published": "2026-09-04",
+      "digest_date": "2026-09-06",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 72,
+    "receiver-engineering": 74,
     "low-cost-mobile": 19,
-    "positioning": 54
+    "positioning": 55
   },
   "learning_level_counts": {
-    "foundation": 54,
-    "intermediate": 54,
-    "advanced": 54
+    "foundation": 55,
+    "intermediate": 55,
+    "advanced": 55
   },
   "positioning_rotation": {
-    "spp": 9,
+    "spp": 10,
     "rtk": 9,
     "ppp-ppp-rtk": 9,
     "dual-antenna-heading": 9,
