@@ -4125,23 +4125,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s00024-026-04085-x",
+      "title": "GNSS 先扣地表形变，微重力才有资格讨论圣托里尼地下质量迁移",
+      "url": "https://doi.org/10.1007/s00024-026-04085-x",
+      "published": "2026-09-06",
+      "digest_date": "2026-09-07",
+      "section": "brief",
+      "category": "santorini-gravity-gnss-volcano-unrest"
+    },
+    {
+      "source_id": "doi:10.1038/s44172-026-00768-4",
+      "title": "船载重力遇到 GNSS 中断和干扰时，先切观测模式再切鲁棒滤波器",
+      "url": "https://doi.org/10.1038/s44172-026-00768-4",
+      "published": "2026-09-05",
+      "digest_date": "2026-09-07",
+      "section": "brief",
+      "category": "shipborne-gravimetry-gnss-anomaly-adaptive-filtering"
+    },
+    {
+      "source_id": "doi:10.1016/j.geog.2025.10.005",
+      "title": "永久站的载波相位残差会把天线周边地表与遮挡变化画成五类形状",
+      "url": "https://doi.org/10.1016/j.geog.2025.10.005",
+      "published": "2026-09",
+      "digest_date": "2026-09-07",
+      "section": "brief",
+      "category": "antenna-environment-phase-residual-pattern-index"
+    },
+    {
+      "source_id": "doi:10.1016/j.geog.2025.12.004",
+      "title": "高原 ZTD 不宜只套全球高程项，GNSS 与 ERA5 要共同校准空间和垂向结构",
+      "url": "https://doi.org/10.1016/j.geog.2025.12.004",
+      "published": "2026-09",
+      "digest_date": "2026-09-07",
+      "section": "brief",
+      "category": "xizang-gnss-era5-high-resolution-ztd-model"
+    },
+    {
+      "source_id": "doi:10.1016/j.geog.2026.07.011",
+      "title": "滑坡监测 RTK 的多路径半球图中，单差建模在两组实景数据上优于双差建模",
+      "url": "https://doi.org/10.1016/j.geog.2026.07.011",
+      "published": "2026-08-21",
+      "digest_date": "2026-09-07",
+      "section": "brief",
+      "category": "landslide-rtk-single-double-difference-mhm"
+    },
+    {
+      "source_id": "doi:10.3390/ijgi7060228",
+      "title": "恒星日不是一个固定平移量：逐星回归地面轨迹，才能把异常重复周期隔离开",
+      "url": "https://doi.org/10.3390/ijgi7060228",
+      "published": "2018-06-20",
+      "digest_date": "2026-09-07",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs17050767",
+      "title": "半球图不是把残差求平均：先用物理上限剔大错，再让统计检验处理小错",
+      "url": "https://doi.org/10.3390/rs17050767",
+      "published": "2025-02-23",
+      "digest_date": "2026-09-07",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs16244679",
+      "title": "多系统共频样本填补半球空洞：k-d tree 让最近邻改正进入单频紧组合 RTK",
+      "url": "https://doi.org/10.3390/rs16244679",
+      "published": "2024-12-15",
+      "digest_date": "2026-09-07",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 74,
+    "receiver-engineering": 76,
     "low-cost-mobile": 19,
-    "positioning": 55
+    "positioning": 56
   },
   "learning_level_counts": {
-    "foundation": 55,
-    "intermediate": 55,
-    "advanced": 55
+    "foundation": 56,
+    "intermediate": 56,
+    "advanced": 56
   },
   "positioning_rotation": {
     "spp": 10,
-    "rtk": 9,
+    "rtk": 10,
     "ppp-ppp-rtk": 9,
     "dual-antenna-heading": 9,
     "smartphone-low-cost": 9,
