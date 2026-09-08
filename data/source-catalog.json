@@ -4200,24 +4200,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00215-x",
+      "title": "LEO 钟差预测不只要差分平稳，还要阻止积分重构把小偏差一路累加",
+      "url": "https://doi.org/10.1186/s43020-026-00215-x",
+      "published": "2026-09-07",
+      "digest_date": "2026-09-08",
+      "section": "brief",
+      "category": "leo-clock-bias-reconstruction-finetuning"
+    },
+    {
+      "source_id": "doi:10.1007/s12518-026-00785-0",
+      "title": "手机地籍 App 的最好结果仍是米级，适合参与式农村制图不等于能定权属边界",
+      "url": "https://doi.org/10.1007/s12518-026-00785-0",
+      "published": "2026-09-07",
+      "digest_date": "2026-09-08",
+      "section": "brief",
+      "category": "smartphone-app-ffp-cadastral"
+    },
+    {
+      "source_id": "doi:10.3390/geosciences16090356",
+      "title": "静态 GNSS 的轻量前馈网络在 10 m 以上合成误差才稳定获益",
+      "url": "https://doi.org/10.3390/geosciences16090356",
+      "published": "2026-09-05",
+      "digest_date": "2026-09-08",
+      "section": "brief",
+      "category": "static-gnss-fnn-error-compensation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02143-4",
+      "title": "电离层梯度既要看标量强度，也要保留扰动前沿的传播方向",
+      "url": "https://doi.org/10.1007/s10291-026-02143-4",
+      "published": "2026-09-03",
+      "digest_date": "2026-09-08",
+      "section": "brief",
+      "category": "gradient-ionosphere-index-magnitude-vector"
+    },
+    {
+      "source_id": "doi:10.3389/fspas.2026.1973781",
+      "title": "改正产品缺什么就降一级运行，优于把 PPP-RTK 固定标志硬撑到失效",
+      "url": "https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2026.1973781/abstract",
+      "published": "2026-08-31",
+      "digest_date": "2026-09-08",
+      "section": "brief",
+      "category": "multi-tier-ppp-rtk-product-availability"
+    },
+    {
+      "source_id": "doi:10.3390/s20133791",
+      "title": "SSR 不是直接加到坐标上：先把轨道坐标系改正投回卫星，再验证用户域误差",
+      "url": "https://doi.org/10.3390/s20133791",
+      "published": "2020-07-06",
+      "digest_date": "2026-09-08",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00089-9",
+      "title": "服务端估误差、用户端估坐标：PPP-RTK 快收敛靠的是参数角色闭合",
+      "url": "https://doi.org/10.1186/s43020-022-00089-9",
+      "published": "2022-12-06",
+      "digest_date": "2026-09-08",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s24020646",
+      "title": "低成本 PPP-RTK 的关键不是峰值厘米，而是固定、浮点、降级三种状态各占多久",
+      "url": "https://doi.org/10.3390/s24020646",
+      "published": "2024-01-19",
+      "digest_date": "2026-09-08",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 76,
+    "receiver-engineering": 78,
     "low-cost-mobile": 19,
-    "positioning": 56
+    "positioning": 57
   },
   "learning_level_counts": {
-    "foundation": 56,
-    "intermediate": 56,
-    "advanced": 56
+    "foundation": 57,
+    "intermediate": 57,
+    "advanced": 57
   },
   "positioning_rotation": {
     "spp": 10,
     "rtk": 10,
-    "ppp-ppp-rtk": 9,
+    "ppp-ppp-rtk": 10,
     "dual-antenna-heading": 9,
     "smartphone-low-cost": 9,
     "integrity": 9
