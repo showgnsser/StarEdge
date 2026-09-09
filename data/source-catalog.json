@@ -4275,25 +4275,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-70887-7",
+      "title": "遮挡环境定权不能只追位置 RMS，也要同时惩罚卫星几何退化",
+      "url": "https://doi.org/10.1038/s41598-026-70887-7",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-09",
+      "section": "brief",
+      "category": "blocking-gwo-weighting-constellation-selection"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02141-6",
+      "title": "Android 原始观测转 RINEX 时漏写载波，比后端少用几颗卫星更致命",
+      "url": "https://doi.org/10.1007/s10291-026-02141-6",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-09",
+      "section": "brief",
+      "category": "smartphone-raw-rinex-converter-completeness"
+    },
+    {
+      "source_id": "doi:10.3390/atmos17090880",
+      "title": "北京湿季里北斗与 GPS 的 PWV 差别小，真正的大误差来自高湿系统性低估",
+      "url": "https://doi.org/10.3390/atmos17090880",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-09",
+      "section": "brief",
+      "category": "beijing-constellation-pwv-humid-bias"
+    },
+    {
+      "source_id": "doi:10.3390/rs18183074",
+      "title": "同一 POD 天线同时跟踪的多颗星，能帮助区分电离层闪烁与共模射频干扰",
+      "url": "https://doi.org/10.3390/rs18183074",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-09",
+      "section": "brief",
+      "category": "cosmic2-multi-prn-scintillation-rfi-classification"
+    },
+    {
+      "source_id": "doi:10.3390/rs18183070",
+      "title": "伪射线只能补矩阵几何，不能凭空创造新的水汽信息",
+      "url": "https://doi.org/10.3390/rs18183070",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-09",
+      "section": "brief",
+      "category": "gnss-tomography-gradient-mapped-pseudo-rays"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-011-0538-z",
+      "title": "把旋转硬约束拆成线性仿射约束：先让整数搜索重新回到椭球里",
+      "url": "https://doi.org/10.1007/s00190-011-0538-z",
+      "published": "2011-12-28",
+      "digest_date": "2026-09-09",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s40328-024-00441-2",
+      "title": "接收机不同步时别硬配最近历元：用平移与转动共同补观测时差",
+      "url": "https://doi.org/10.1007/s40328-024-00441-2",
+      "published": "2024-04-18",
+      "digest_date": "2026-09-09",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-024-00130-z",
+      "title": "姿态一做差噪声就爆：用积分方程和正则化把 50 Hz GNSS 变成“陀螺”",
+      "url": "https://doi.org/10.1186/s43020-024-00130-z",
+      "published": "2024-03-19",
+      "digest_date": "2026-09-09",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 78,
-    "low-cost-mobile": 19,
-    "positioning": 57
+    "receiver-engineering": 79,
+    "low-cost-mobile": 20,
+    "positioning": 58
   },
   "learning_level_counts": {
-    "foundation": 57,
-    "intermediate": 57,
-    "advanced": 57
+    "foundation": 58,
+    "intermediate": 58,
+    "advanced": 58
   },
   "positioning_rotation": {
     "spp": 10,
     "rtk": 10,
     "ppp-ppp-rtk": 10,
-    "dual-antenna-heading": 9,
+    "dual-antenna-heading": 10,
     "smartphone-low-cost": 9,
     "integrity": 9
   }
