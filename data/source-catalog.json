@@ -4350,26 +4350,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/aea4d6",
+      "title": "中长基线 RTK 不一定非要做双差，先把接收机偏差放进独立钟参数",
+      "url": "https://doi.org/10.1088/1361-6501/aea4d6",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-10",
+      "section": "brief",
+      "category": "decoupled-clock-single-difference-rtk"
+    },
+    {
+      "source_id": "doi:10.3390/s26185718",
+      "title": "北斗 PPP-B2b 能远程看守氢钟，但稳定度不能冒充绝对校准不确定度",
+      "url": "https://doi.org/10.3390/s26185718",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-10",
+      "section": "brief",
+      "category": "bds-rtppp-remote-timekeeping-evaluation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02139-0",
+      "title": "GNSS 失锁预测必须显式知道“已经断了多久”，但百秒 MEMS 漂移仍会越界",
+      "url": "https://doi.org/10.1007/s10291-026-02139-0",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-10",
+      "section": "brief",
+      "category": "outage-timer-cnn-bilstm-ins-gps-bridging"
+    },
+    {
+      "source_id": "doi:10.1029/2026jb034224",
+      "title": "把全球 GNSS 垂向速度压缩到二阶带谐项，可以独立看地球形状怎么变",
+      "url": "https://doi.org/10.1029/2026JB034224",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-10",
+      "section": "brief",
+      "category": "global-gnss-vertical-velocity-earth-figure-change"
+    },
+    {
+      "source_id": "doi:10.3390/rs18183095",
+      "title": "GNSS 对流层信息能给风电预测增量，但它测到的是传播延迟梯度，不是风向",
+      "url": "https://doi.org/10.3390/rs18183095",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-10",
+      "section": "brief",
+      "category": "gnss-ztd-gradient-wind-power-forecasting"
+    },
+    {
+      "source_id": "doi:10.1109/apwimob59963.2023.10365597",
+      "title": "先别急着上深度网络：把手机伪距、钟漂与时序状态写进同一个估计问题",
+      "url": "https://doi.org/10.1109/APWiMob59963.2023.10365597",
+      "published": "2023-10-10",
+      "digest_date": "2026-09-10",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22155790",
+      "title": "码减相位再做时间差：让手机 RTK 对每颗星自适应降权",
+      "url": "https://doi.org/10.3390/s22155790",
+      "published": "2022-08-03",
+      "digest_date": "2026-09-10",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-025-02002-z",
+      "title": "相位缺几秒不等于周跳：四重检验后再保留手机 PPP 模糊度",
+      "url": "https://doi.org/10.1007/s00190-025-02002-z",
+      "published": "2025-09-21",
+      "digest_date": "2026-09-10",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 79,
-    "low-cost-mobile": 20,
-    "positioning": 58
+    "receiver-engineering": 80,
+    "low-cost-mobile": 21,
+    "positioning": 59
   },
   "learning_level_counts": {
-    "foundation": 58,
-    "intermediate": 58,
-    "advanced": 58
+    "foundation": 59,
+    "intermediate": 59,
+    "advanced": 59
   },
   "positioning_rotation": {
     "spp": 10,
     "rtk": 10,
     "ppp-ppp-rtk": 10,
     "dual-antenna-heading": 10,
-    "smartphone-low-cost": 9,
+    "smartphone-low-cost": 10,
     "integrity": 9
   }
 }
