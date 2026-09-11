@@ -4425,19 +4425,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s12665-026-13135-5",
+      "title": "GNSS 持续看到毫米级慢变，也不能单独决定边坡会不会失稳",
+      "url": "https://doi.org/10.1007/s12665-026-13135-5",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-11",
+      "section": "brief",
+      "category": "gnss-reservoir-landslide-monitoring-stability"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02109-x",
+      "title": "GNSS-R 土壤湿度不是一张黑箱回归表：SHAP 先解释再跨系统加权",
+      "url": "https://doi.org/10.1007/s00190-026-02109-x",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-11",
+      "section": "brief",
+      "category": "tianmu1-gnss-r-explainable-soil-moisture"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02142-5",
+      "title": "树模型补中国区域 TEC，站网稀疏和磁暴要作为单独工况",
+      "url": "https://doi.org/10.1007/s10291-026-02142-5",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-11",
+      "section": "brief",
+      "category": "ensemble-tree-regional-tec-uppp-constraint"
+    },
+    {
+      "source_id": "doi:10.1371/journal.pone.0357116",
+      "title": "背心口袋下移 10 cm，10 Hz GPS 总距离就不再可互换",
+      "url": "https://doi.org/10.1371/journal.pone.0357116",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-11",
+      "section": "brief",
+      "category": "wearable-gps-vertical-placement-interchangeability"
+    },
+    {
+      "source_id": "doi:10.5194/tc-20-5099-2026",
+      "title": "用基岩 GPS 反验南极积雪模型，看到的是空间积分载荷而非点降雪",
+      "url": "https://doi.org/10.5194/tc-20-5099-2026",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-11",
+      "section": "brief",
+      "category": "antarctic-smb-gps-bedrock-loading-validation"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-012-0588-x",
+      "title": "先在单星单通道设防：用最小可探测偏差量化周跳和码粗差",
+      "url": "https://doi.org/10.1007/s00190-012-0588-x",
+      "published": "2012-09-01",
+      "digest_date": "2026-09-11",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s24113283",
+      "title": "保护级不是可用性的唯一真相：把最坏故障风险折成特征斜率阈值",
+      "url": "https://doi.org/10.3390/s24113283",
+      "published": "2024-05-21",
+      "digest_date": "2026-09-11",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs14010044",
+      "title": "把服务端改正协方差带到用户端：让 PPP-RTK 保护级真正包住位置误差",
+      "url": "https://doi.org/10.3390/rs14010044",
+      "published": "2021-12-23",
+      "digest_date": "2026-09-11",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 8,
     "tracking": 9,
-    "receiver-engineering": 80,
+    "receiver-engineering": 82,
     "low-cost-mobile": 21,
-    "positioning": 59
+    "positioning": 60
   },
   "learning_level_counts": {
-    "foundation": 59,
-    "intermediate": 59,
-    "advanced": 59
+    "foundation": 60,
+    "intermediate": 60,
+    "advanced": 60
   },
   "positioning_rotation": {
     "spp": 10,
@@ -4445,6 +4520,6 @@
     "ppp-ppp-rtk": 10,
     "dual-antenna-heading": 10,
     "smartphone-low-cost": 10,
-    "integrity": 9
+    "integrity": 10
   }
 }
