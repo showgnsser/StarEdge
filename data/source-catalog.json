@@ -4500,22 +4500,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1134/s0016793226600165",
+      "title": "日食让三地 TEC 同时下降，但 40—65 min 波动仍只是重力波耦合的有条件解释",
+      "url": "https://doi.org/10.1134/s0016793226600165",
+      "published": "2026-09-11",
+      "digest_date": "2026-09-12",
+      "section": "brief",
+      "category": "eclipse-multilatitude-gnss-tec-wavelet"
+    },
+    {
+      "source_id": "doi:10.1134/s0016793226600189",
+      "title": "磁暴期 S4 要逐星看：同一低纬站也会在时段和 PRN 之间分化",
+      "url": "https://doi.org/10.1134/s0016793226600189",
+      "published": "2026-09-11",
+      "digest_date": "2026-09-12",
+      "section": "brief",
+      "category": "storm-prn-wise-gnss-s4-agra"
+    },
+    {
+      "source_id": "doi:10.1134/s0016793226600293",
+      "title": "同一站的 NavIC/GPS VTEC 预测里，FFNN 胜出不等于跨季节、跨站都胜出",
+      "url": "https://doi.org/10.1134/s0016793226600293",
+      "published": "2026-09-11",
+      "digest_date": "2026-09-12",
+      "section": "brief",
+      "category": "navic-gps-vtec-deepar-dlinear-ffnn"
+    },
+    {
+      "source_id": "doi:10.4271/2026-99-1415",
+      "title": "双星座航空改装可以并行做鲁棒 SPP 与交叉校验，但仿真可用性不是适航批准",
+      "url": "https://doi.org/10.4271/2026-99-1415",
+      "published": "2026-09-11",
+      "digest_date": "2026-09-12",
+      "section": "brief",
+      "category": "bds-gps-airworthiness-fdi-proxy-architecture"
+    },
+    {
+      "source_id": "doi:10.1371/journal.pone.0357176",
+      "title": "运动员 GPS 负荷与心率高度相关，但 266 条记录仍只来自 11 个人",
+      "url": "https://doi.org/10.1371/journal.pone.0357176",
+      "published": "2026-09-11",
+      "digest_date": "2026-09-12",
+      "section": "brief",
+      "category": "wearable-gps-heart-rate-within-player-load"
+    },
+    {
+      "source_id": "doi:10.3390/electronics12061343",
+      "title": "先弄清积分的信息账：相邻相关量为什么既能抗数据位翻转又会损失一次样本",
+      "url": "https://doi.org/10.3390/electronics12061343",
+      "published": "2023-03-12",
+      "digest_date": "2026-09-12",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s21165629",
+      "title": "把各通道接到同一导航状态：硬件矢量环如何间接改码相位、直接救弱星",
+      "url": "https://doi.org/10.3390/s21165629",
+      "published": "2021-08-20",
+      "digest_date": "2026-09-12",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/app10124335",
+      "title": "先稳健重加权再学残差：SPP 精度跃升为何仍可能是静态站点记忆",
+      "url": "https://doi.org/10.3390/app10124335",
+      "published": "2020-06-24",
+      "digest_date": "2026-09-12",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 8,
-    "tracking": 9,
+    "acquisition": 9,
+    "tracking": 10,
     "receiver-engineering": 82,
     "low-cost-mobile": 21,
-    "positioning": 60
+    "positioning": 61
   },
   "learning_level_counts": {
-    "foundation": 60,
-    "intermediate": 60,
-    "advanced": 60
+    "foundation": 61,
+    "intermediate": 61,
+    "advanced": 61
   },
   "positioning_rotation": {
-    "spp": 10,
+    "spp": 11,
     "rtk": 10,
     "ppp-ppp-rtk": 10,
     "dual-antenna-heading": 10,
