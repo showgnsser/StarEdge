@@ -4575,23 +4575,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1093/gji/ggag369",
+      "title": "高密度 GNSS 速度场刻画川滇应变带，但高应变与地震邻近不等于短期预测",
+      "url": "https://doi.org/10.1093/gji/ggag369",
+      "published": "2026-09-12",
+      "digest_date": "2026-09-13",
+      "section": "brief",
+      "category": "setp-high-resolution-gnss-strain-euler-clustering"
+    },
+    {
+      "source_id": "doi:10.1515/jag-2026-0044",
+      "title": "低成本 GNSS 模块的频点优势需要分场景看，不能把综述结论当成开机即得",
+      "url": "https://doi.org/10.1515/jag-2026-0044",
+      "published": "2026-09-11",
+      "digest_date": "2026-09-13",
+      "section": "brief",
+      "category": "low-cost-gnss-module-frequency-environment-review"
+    },
+    {
+      "source_id": "doi:10.3390/app16188972",
+      "title": "已知跑步路线可帮助修复廉价 GPS 轨迹，路线先验本身也是性能来源",
+      "url": "https://doi.org/10.3390/app16188972",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-13",
+      "section": "brief",
+      "category": "wearable-gps-route-constrained-trajectory-reconstruction"
+    },
+    {
+      "source_id": "doi:10.5194/egusphere-2026-3520",
+      "title": "双站 GNSS 水汽序列能定位设备更换台阶，ERA5 作差不总是更稳",
+      "url": "https://doi.org/10.5194/egusphere-2026-3520",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-13",
+      "section": "brief",
+      "category": "twin-gnss-iwv-step-homogenization"
+    },
+    {
+      "source_id": "doi:10.1007/s12145-026-02236-1",
+      "title": "GNSS 对 InSAR 对流层改正有补充价值，但局地修正并非越强越好",
+      "url": "https://doi.org/10.1007/s12145-026-02236-1",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-13",
+      "section": "brief",
+      "category": "gnss-gacos-insar-troposphere-comparison"
+    },
+    {
+      "source_id": "doi:10.3390/rs15225312",
+      "title": "码相位减子载波相位：单机如何监测反射造成的测距偏差",
+      "url": "https://doi.org/10.3390/rs15225312",
+      "published": "2023-11-10",
+      "digest_date": "2026-09-13",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s25196061",
+      "title": "不依赖连续载波相位：卫星间伪距差与小波怎样提取城市多路径",
+      "url": "https://doi.org/10.3390/s25196061",
+      "published": "2025-10-02",
+      "digest_date": "2026-09-13",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-024-00134-9",
+      "title": "城市 RTK 的重尾模糊度：拉普拉斯 BIE 怎样在多个整数候选间分配信任",
+      "url": "https://doi.org/10.1186/s43020-024-00134-9",
+      "published": "2024-05-20",
+      "digest_date": "2026-09-13",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 82,
-    "low-cost-mobile": 21,
-    "positioning": 61
+    "receiver-engineering": 83,
+    "low-cost-mobile": 22,
+    "positioning": 62
   },
   "learning_level_counts": {
-    "foundation": 61,
-    "intermediate": 61,
-    "advanced": 61
+    "foundation": 62,
+    "intermediate": 62,
+    "advanced": 62
   },
   "positioning_rotation": {
     "spp": 11,
-    "rtk": 10,
+    "rtk": 11,
     "ppp-ppp-rtk": 10,
     "dual-antenna-heading": 10,
     "smartphone-low-cost": 10,
