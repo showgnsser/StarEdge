@@ -4650,24 +4650,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s10791-026-10537-8",
+      "title": "北斗通信监测自适应阈值改善异常识别，主要检验仍依赖合成故障",
+      "url": "https://doi.org/10.1007/s10791-026-10537-8",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-14",
+      "section": "brief",
+      "category": "beidou-communication-adaptive-anomaly-threshold"
+    },
+    {
+      "source_id": "doi:10.1175/mwr-d-25-0281.1",
+      "title": "无线电掩星资料越多越有益，但 2035 观测系统仿真呈边际收益递减",
+      "url": "https://doi.org/10.1175/MWR-D-25-0281.1",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-14",
+      "section": "brief",
+      "category": "gnss-ro-profile-volume-nwp-osse"
+    },
+    {
+      "source_id": "doi:10.5194/egusphere-2026-5057",
+      "title": "南极冰架 GNSS 反射试验暴露信噪比与硬件差异两重边界",
+      "url": "https://doi.org/10.5194/egusphere-2026-5057",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-14",
+      "section": "brief",
+      "category": "mcmurdo-ice-shelf-gnss-reflectometry"
+    },
+    {
+      "source_id": "doi:10.3390/s26185699",
+      "title": "单星时间基准将双钟稳定性与噪声自适应控制合成闭环",
+      "url": "https://doi.org/10.3390/s26185699",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-14",
+      "section": "brief",
+      "category": "single-satellite-dual-clock-adaptive-steering"
+    },
+    {
+      "source_id": "doi:10.3390/biomimetics11090651",
+      "title": "水下重力图匹配能在无 GNSS 时续航，但湖泊试验精度仍是百米级",
+      "url": "https://doi.org/10.3390/biomimetics11090651",
+      "published": "2026-09-09",
+      "digest_date": "2026-09-14",
+      "section": "brief",
+      "category": "gnss-denied-gravity-matching-particle-filter"
+    },
+    {
+      "source_id": "doi:10.3390/rs12050796",
+      "title": "码偏差随时间漂移时，为何会拖累 PPP 模糊度固定",
+      "url": "https://doi.org/10.3390/rs12050796",
+      "published": "2020-03-02",
+      "digest_date": "2026-09-14",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs16162999",
+      "title": "解耦码钟与相位钟，怎样把多星座相位偏差变成可用 PPP-AR 产品",
+      "url": "https://doi.org/10.3390/rs16162999",
+      "published": "2024-08-15",
+      "digest_date": "2026-09-14",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs15010070",
+      "title": "站网外 PPP-RTK：为何最近参考站改正常比插值外推更稳",
+      "url": "https://doi.org/10.3390/rs15010070",
+      "published": "2022-12-23",
+      "digest_date": "2026-09-14",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 83,
+    "receiver-engineering": 85,
     "low-cost-mobile": 22,
-    "positioning": 62
+    "positioning": 63
   },
   "learning_level_counts": {
-    "foundation": 62,
-    "intermediate": 62,
-    "advanced": 62
+    "foundation": 63,
+    "intermediate": 63,
+    "advanced": 63
   },
   "positioning_rotation": {
     "spp": 11,
     "rtk": 11,
-    "ppp-ppp-rtk": 10,
+    "ppp-ppp-rtk": 11,
     "dual-antenna-heading": 10,
     "smartphone-low-cost": 10,
     "integrity": 10
