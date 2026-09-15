@@ -4725,25 +4725,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.24215/18527744e011",
+      "title": "旅行接收机把 GNSS 时间传递链路延迟带到现场标定",
+      "url": "https://doi.org/10.24215/18527744e011",
+      "published": "2026-09-14",
+      "digest_date": "2026-09-15",
+      "section": "brief",
+      "category": "argentina-gnss-time-transfer-receiver-calibration"
+    },
+    {
+      "source_id": "doi:10.3390/app16189088",
+      "title": "空间图网络只修正本地预测残差，GNSS 位移预报收益小但可复现",
+      "url": "https://doi.org/10.3390/app16189088",
+      "published": "2026-09-13",
+      "digest_date": "2026-09-15",
+      "section": "brief",
+      "category": "bounded-spatial-gnss-residual-adaptation"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2026_420",
+      "title": "双频手机能跟随 TEC 日变化，偏差标定与连续相位弧仍是门槛",
+      "url": "https://doi.org/10.1007/1345_2026_420",
+      "published": "2026-09-13",
+      "digest_date": "2026-09-15",
+      "section": "brief",
+      "category": "smartphone-gnss-ionospheric-tec-quality-control"
+    },
+    {
+      "source_id": "doi:10.1016/j.jhydrol.2026.135807",
+      "title": "多系统 GNSS-IR 的卫星数量存在收益饱和点",
+      "url": "https://doi.org/10.1016/j.jhydrol.2026.135807",
+      "published": "2026-09",
+      "digest_date": "2026-09-15",
+      "section": "brief",
+      "category": "multi-system-gnss-ir-marginal-satellite-selection"
+    },
+    {
+      "source_id": "report:code-slr-gnss-2026-254",
+      "title": "SLR 快报给微波 GNSS 轨道提供毫米级独立残差检查",
+      "url": "https://edc.dgfi.tum.de/en/mailing_lists/slr_report/no29552/",
+      "published": "2026-09-12",
+      "digest_date": "2026-09-15",
+      "section": "brief",
+      "category": "code-slr-gnss-quick-look-day-254-2026"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01645-3",
+      "title": "低成本天线的多路径与相位中心误差怎样进入精密坐标",
+      "url": "https://doi.org/10.1007/s10291-024-01645-3",
+      "published": "2024-04-12",
+      "digest_date": "2026-09-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s19163586",
+      "title": "双天线矢量约束怎样把一副天线看到的信息传给另一副",
+      "url": "https://doi.org/10.3390/s19163586",
+      "published": "2019-08-16",
+      "digest_date": "2026-09-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.34133/adi.0155",
+      "title": "现代多星座瞬时定向：怎样建立独立真值并拆开慢变误差",
+      "url": "https://doi.org/10.34133/adi.0155",
+      "published": "2026-05-04",
+      "digest_date": "2026-09-15",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 85,
+    "receiver-engineering": 87,
     "low-cost-mobile": 22,
-    "positioning": 63
+    "positioning": 64
   },
   "learning_level_counts": {
-    "foundation": 63,
-    "intermediate": 63,
-    "advanced": 63
+    "foundation": 64,
+    "intermediate": 64,
+    "advanced": 64
   },
   "positioning_rotation": {
     "spp": 11,
     "rtk": 11,
     "ppp-ppp-rtk": 11,
-    "dual-antenna-heading": 10,
+    "dual-antenna-heading": 11,
     "smartphone-low-cost": 10,
     "integrity": 10
   }
