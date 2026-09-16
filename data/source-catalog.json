@@ -4800,26 +4800,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1029/2026sw005211",
+      "title": "物理驱动的轻量注意力网络降低全球 TEC 多步预报误差",
+      "url": "https://doi.org/10.1029/2026SW005211",
+      "published": "2026-09-13",
+      "digest_date": "2026-09-16",
+      "section": "brief",
+      "category": "physics-guided-lightweight-global-tec-forecast"
+    },
+    {
+      "source_id": "doi:10.1029/2025sw004905",
+      "title": "COSMIC-2 与地面 GNSS 融合电子密度的地方时偏差",
+      "url": "https://doi.org/10.1029/2025SW004905",
+      "published": "2026-09-03",
+      "digest_date": "2026-09-16",
+      "section": "brief",
+      "category": "cosmic2-gis-electron-density-validation"
+    },
+    {
+      "source_id": "doi:10.1029/2026sw005233",
+      "title": "风暴恢复期等离子体泡残迹可持续约 20 小时",
+      "url": "https://doi.org/10.1029/2026SW005233",
+      "published": "2026-09-08",
+      "digest_date": "2026-09-16",
+      "section": "brief",
+      "category": "storm-recovery-long-lived-equatorial-plasma-bubble"
+    },
+    {
+      "source_id": "doi:10.1029/2025jb032097",
+      "title": "能登震后 GNSS 需要黏弹松弛与余滑共同解释",
+      "url": "https://doi.org/10.1029/2025JB032097",
+      "published": "2026-09-12",
+      "digest_date": "2026-09-16",
+      "section": "brief",
+      "category": "noto-postseismic-gnss-viscoelastic-afterslip"
+    },
+    {
+      "source_id": "doi:10.1029/2026sw005105",
+      "title": "学习经验模型残差改善热层密度与短期轨道预报",
+      "url": "https://doi.org/10.1029/2026SW005105",
+      "published": "2026-09-10",
+      "digest_date": "2026-09-16",
+      "section": "brief",
+      "category": "thermospheric-density-residual-itransformer-orbit-forecast"
+    },
+    {
+      "source_id": "doi:10.5194/isprs-archives-xlviii-4-w17-2025-21-2026",
+      "title": "先把运动手表当 SPP 接收机：多星座何时改善、何时反而不改善",
+      "url": "https://doi.org/10.5194/isprs-archives-XLVIII-4-W17-2025-21-2026",
+      "published": "2026-01-15",
+      "digest_date": "2026-09-16",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s12518-026-00807-x",
+      "title": "同一根杆、两种环境：怎样把手表品牌差异与城市峡谷效应分开",
+      "url": "https://doi.org/10.1007/s12518-026-00807-x",
+      "published": "2026-09-15",
+      "digest_date": "2026-09-16",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01965-y",
+      "title": "单频运动手表 RTK：厘米级来自多系统整数冗余，还是只来自短基线与好环境",
+      "url": "https://doi.org/10.1007/s10291-025-01965-y",
+      "published": "2025-10-10",
+      "digest_date": "2026-09-16",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
     "receiver-engineering": 87,
-    "low-cost-mobile": 22,
-    "positioning": 64
+    "low-cost-mobile": 24,
+    "positioning": 65
   },
   "learning_level_counts": {
-    "foundation": 64,
-    "intermediate": 64,
-    "advanced": 64
+    "foundation": 65,
+    "intermediate": 65,
+    "advanced": 65
   },
   "positioning_rotation": {
     "spp": 11,
     "rtk": 11,
     "ppp-ppp-rtk": 11,
     "dual-antenna-heading": 11,
-    "smartphone-low-cost": 10,
+    "smartphone-low-cost": 11,
     "integrity": 10
   }
 }
