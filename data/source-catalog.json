@@ -4875,19 +4875,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.14393/rbcv78n0a-81258",
+      "title": "三频无电离层组合不自动优于双频，观测完整性先决定 PPP 收益",
+      "url": "https://doi.org/10.14393/rbcv78n0a-81258",
+      "published": "2026-09-15",
+      "digest_date": "2026-09-17",
+      "section": "brief",
+      "category": "brazil-multignss-ppp-if2-if3-graphic"
+    },
+    {
+      "source_id": "doi:10.3390/s26185864",
+      "title": "GPS/GLONASS 不只降低 PDOP，也让路线规划模型更贴近实测遮挡",
+      "url": "https://doi.org/10.3390/s26185864",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-17",
+      "section": "brief",
+      "category": "kinematic-gnss-campaign-planning-validation"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/aea179",
+      "title": "CNN 提局部特征、LSTM 吃时间相关，手机伪距改正仍受单一数据集约束",
+      "url": "https://doi.org/10.1088/1361-6501/aea179",
+      "published": "2026-09-15",
+      "digest_date": "2026-09-17",
+      "section": "brief",
+      "category": "smartphone-pseudorange-cnn-lstm-bias-correction"
+    },
+    {
+      "source_id": "doi:10.3390/electronics15184209",
+      "title": "跨站标定能让周跳门限迁移，但 5 秒采样暴露直接修复边界",
+      "url": "https://doi.org/10.3390/electronics15184209",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-17",
+      "section": "brief",
+      "category": "multignss-causal-cycle-slip-cross-station-calibration"
+    },
+    {
+      "source_id": "doi:10.1029/2026gl122833",
+      "title": "卡斯卡迪亚慢滑分段可由法向应力与耦合分别解释",
+      "url": "https://doi.org/10.1029/2026GL122833",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-17",
+      "section": "brief",
+      "category": "cascadia-slow-slip-gnss-reduced-order-friction"
+    },
+    {
+      "source_id": "doi:10.1049/iet-its.2019.0248",
+      "title": "从检测到保护级：道路 GNSS 为什么要在轨迹坐标系里算完整性",
+      "url": "https://doi.org/10.1049/iet-its.2019.0248",
+      "published": "2020-01-28",
+      "digest_date": "2026-09-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.11003/jpnt.2025.14.4.331",
+      "title": "测量域监测怎样越过整周模糊度，把短基线 CDGNSS 故障投影到保护级",
+      "url": "https://doi.org/10.11003/JPNT.2025.14.4.331",
+      "published": "2025-12-15",
+      "digest_date": "2026-09-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs17172924",
+      "title": "从 325 个子集到 1 个上界：PPP-RTK 如何把 ARAIM 压到实时",
+      "url": "https://doi.org/10.3390/rs17172924",
+      "published": "2025-08-22",
+      "digest_date": "2026-09-17",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 87,
+    "receiver-engineering": 89,
     "low-cost-mobile": 24,
-    "positioning": 65
+    "positioning": 66
   },
   "learning_level_counts": {
-    "foundation": 65,
-    "intermediate": 65,
-    "advanced": 65
+    "foundation": 66,
+    "intermediate": 66,
+    "advanced": 66
   },
   "positioning_rotation": {
     "spp": 11,
@@ -4895,6 +4970,6 @@
     "ppp-ppp-rtk": 11,
     "dual-antenna-heading": 11,
     "smartphone-low-cost": 11,
-    "integrity": 10
+    "integrity": 11
   }
 }

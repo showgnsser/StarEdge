@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500">
+  <rect width="1400" height="500" fill="#ffffff"/>
+  <text x="50" y="58" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111827">Table 2. Small artificial errors detected around test boundaries</text>
+  <rect x="50" y="105" width="1300" height="260" fill="#f8fafc" stroke="#111827" stroke-width="3"/>
+  <line x1="50" y1="235" x2="1350" y2="235" stroke="#111827" stroke-width="3"/>
+  <line x1="310" y1="105" x2="310" y2="365" stroke="#111827" stroke-width="3"/>
+  <line x1="518" y1="105" x2="518" y2="365" stroke="#111827" stroke-width="2"/>
+  <line x1="726" y1="105" x2="726" y2="365" stroke="#111827" stroke-width="2"/>
+  <line x1="934" y1="105" x2="934" y2="365" stroke="#111827" stroke-width="2"/>
+  <line x1="1142" y1="105" x2="1142" y2="365" stroke="#111827" stroke-width="2"/>
+  <g font-family="Arial, sans-serif" font-size="27" fill="#111827" text-anchor="middle">
+    <text x="180" y="180" font-weight="700">Test</text>
+    <text x="414" y="164" font-weight="700">Chi-square</text>
+    <text x="622" y="180" font-weight="700">E, N</text>
+    <text x="830" y="180" font-weight="700">AT, CT</text>
+    <text x="1038" y="164" font-weight="700">Joint</text>
+    <text x="1038" y="198" font-weight="700">AT, CT</text>
+    <text x="1246" y="164" font-weight="700">Joint</text>
+    <text x="1246" y="198" font-weight="700">max, min</text>
+    <text x="180" y="286" font-weight="700">percentage of</text>
+    <text x="180" y="323" font-weight="700">detection, %</text>
+    <text x="414" y="310">98</text>
+    <text x="622" y="310">88</text>
+    <text x="830" y="310">93</text>
+    <text x="1038" y="310">99</text>
+    <text x="1246" y="310">100</text>
+  </g>
+  <text x="50" y="425" font-family="Arial, sans-serif" font-size="23" fill="#4b5563">Values and labels reproduced exactly from El-Mowafy (2020), Table 2; layout re-rendered for legibility.</text>
+</svg>
