@@ -4950,24 +4950,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/aea923",
+      "title": "把步态误差按运动状态分开补偿，GNSS 失锁后的三维轨迹仍受单路线训练边界约束",
+      "url": "https://doi.org/10.1088/1361-6501/aea923",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-18",
+      "section": "brief",
+      "category": "gnss-denied-motion-pattern-state-aware-pdr"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02144-3",
+      "title": "信号路径与等离子体泡平行会放大闪烁，但 EIA 中心并不服从单一几何规则",
+      "url": "https://doi.org/10.1007/s10291-026-02144-3",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-18",
+      "section": "brief",
+      "category": "low-latitude-scintillation-epb-alignment-multisite"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00217-9",
+      "title": "月球冻结轨道能给北斗星间链路一个绝对方向参照，但目前仍是实测地球链路加仿真月球链路",
+      "url": "https://doi.org/10.1186/s43020-026-00217-9",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-18",
+      "section": "brief",
+      "category": "bds3-lunar-elfo-joint-autonomous-orbit-determination"
+    },
+    {
+      "source_id": "ion:gnss2026-17075",
+      "title": "iSAM2 让 PPP/RTK 因子图只重线性化必要部分，单段城市 PPP 收益不能代替全数据结论",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17075",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-18",
+      "section": "brief",
+      "category": "ion-gnss2026-incremental-fgo-ppp-rtk"
+    },
+    {
+      "source_id": "ion:gnss2026-17144",
+      "title": "超相关延长相干积分并形成方向选择性，深城市场景的厘米级主张仍需看到完整数值与独立对照",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17144",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-18",
+      "section": "brief",
+      "category": "ion-gnss2026-supercorrelation-preciseplus-urban"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-025-00182-9",
+      "title": "从一张薄壳到多层积分：STEC/VTEC 映射为什么先决定偏差账能否闭合",
+      "url": "https://doi.org/10.1186/s43020-025-00182-9",
+      "published": "2025-12-15",
+      "digest_date": "2026-09-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00193-0",
+      "title": "从 TEC 一致性到坐标收敛：怎样证明多层映射不是滤波器里的‘看起来更好’",
+      "url": "https://doi.org/10.1186/s43020-026-00193-0",
+      "published": "2026-04-01",
+      "digest_date": "2026-09-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01983-w",
+      "title": "映射函数对了还不够：卫星 PCO 怎样藏进 DCB，再拖慢单频 PPP",
+      "url": "https://doi.org/10.1007/s10291-025-01983-w",
+      "published": "2025-11-12",
+      "digest_date": "2026-09-18",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 89,
+    "receiver-engineering": 91,
     "low-cost-mobile": 24,
-    "positioning": 66
+    "positioning": 67
   },
   "learning_level_counts": {
-    "foundation": 66,
-    "intermediate": 66,
-    "advanced": 66
+    "foundation": 67,
+    "intermediate": 67,
+    "advanced": 67
   },
   "positioning_rotation": {
     "spp": 11,
     "rtk": 11,
-    "ppp-ppp-rtk": 11,
+    "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 11,
     "smartphone-low-cost": 11,
     "integrity": 11
