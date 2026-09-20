@@ -5025,22 +5025,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "gsc:has-full-service-testing-2026-09-18",
+      "title": "Galileo HAS 全服务进入外部测试征集，分米级目标不等于每台终端已完成验收",
+      "url": "https://www.gsc-europa.eu/news/open-for-submission-call-for-expression-of-interest-for-galileo-has-full-service-testing",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-20",
+      "section": "brief",
+      "category": "galileo-has-full-service-external-testing-call"
+    },
+    {
+      "source_id": "gsc:galileo-q2-2026-performance-reports",
+      "title": "Galileo Q2 报告把轨道钟差、可用性和测距精度分开验收，平均达标不能掩盖局部例外",
+      "url": "https://www.gsc-europa.eu/news/galileo-performance-reports-for-q2-2026-are-now-available",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-20",
+      "section": "brief",
+      "category": "galileo-q2-2026-service-performance-mpl"
+    },
+    {
+      "source_id": "euspa:sas-first-authenticated-position-2026-09-17",
+      "title": "Galileo 首次把导航数据认证与测距认证合到民用位置解，但一次受控演示不是完备反欺骗保证",
+      "url": "https://www.euspa.europa.eu/newsroom-events/news/galileo-achieves-first-ever-civil-authenticated-gnss-position-using-signal",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-20",
+      "section": "brief",
+      "category": "galileo-sas-first-civil-authenticated-position-fix"
+    },
+    {
+      "source_id": "ion:gnss2026-16875",
+      "title": "贝叶斯 DPE 用粒子直接闭环 PVT，但初步对照未做同等仰角与 C/N0 门控",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16875",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-20",
+      "section": "brief",
+      "category": "ion-gnss2026-bayesian-direct-position-estimation-urban"
+    },
+    {
+      "source_id": "ion:gnss2026-16812",
+      "title": "滑动窗口先寻找局部平稳段再做 PSD 包络，机场多路径完整性仍缺公开数值尾界",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16812",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-20",
+      "section": "brief",
+      "category": "ion-gnss2026-nonstationary-code-minus-carrier-psd-overbound"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01690-y",
+      "title": "从仰角经验权到 C/N0 方差：手机码噪声为什么要先重新标尺",
+      "url": "https://doi.org/10.1007/s10291-024-01690-y",
+      "published": "2024-06-25",
+      "digest_date": "2026-09-20",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s24082598",
+      "title": "从先验信号强度到后验双差残差：怎样让坏伪距自己暴露",
+      "url": "https://doi.org/10.3390/s24082598",
+      "published": "2024-04-18",
+      "digest_date": "2026-09-20",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1109/ITSC60802.2025.11423536",
+      "title": "宁可少用也不误用：一致投票怎样在城市纯 GPS SPP 中换取更高包含率",
+      "url": "https://doi.org/10.1109/ITSC60802.2025.11423536",
+      "published": "2025-11-18",
+      "digest_date": "2026-09-20",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
     "receiver-engineering": 91,
-    "low-cost-mobile": 24,
-    "positioning": 67
+    "low-cost-mobile": 26,
+    "positioning": 68
   },
   "learning_level_counts": {
-    "foundation": 67,
-    "intermediate": 67,
-    "advanced": 67
+    "foundation": 68,
+    "intermediate": 68,
+    "advanced": 68
   },
   "positioning_rotation": {
-    "spp": 11,
+    "spp": 12,
     "rtk": 11,
     "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 11,
