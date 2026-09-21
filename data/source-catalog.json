@@ -5100,23 +5100,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17097",
+      "title": "人体近场不是楼宇 NLOS，手机动态定权试验目前仍是待验证方案",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17097",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-21",
+      "section": "brief",
+      "category": "smartphone-human-body-proximity-transformer-weighting"
+    },
+    {
+      "source_id": "ion:gnss2026-17043",
+      "title": "把城市 SNR 指纹做成道路格网，横街判别提升仍依赖一次静态采样区",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17043",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-21",
+      "section": "brief",
+      "category": "smartphone-nmea-snr-grid-map-matching"
+    },
+    {
+      "source_id": "ion:gnss2026-17138",
+      "title": "有限时段多观测故障要同时猜起点，创新监测的紧致性来自明确暴露窗口",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17138",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-21",
+      "section": "brief",
+      "category": "finite-duration-multimeasurement-kf-innovation-integrity"
+    },
+    {
+      "source_id": "ion:gnss2026-16908",
+      "title": "HASIC 把 HAS 可靠改正与生命安全载波定位分成两条完整性链，原型不等于认证服务",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16908",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-21",
+      "section": "brief",
+      "category": "galileo-egnos-hasic-carrier-phase-integrity-platform"
+    },
+    {
+      "source_id": "ion:gnss2026-17189",
+      "title": "三星手机 VRS 伪距已到约 1 m，载波 PPP-RTK 车道级仍是正在扩展的目标",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17189",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-21",
+      "section": "brief",
+      "category": "samsung-smartphone-osr-ssr-ppprtk-carrier-phase"
+    },
+    {
+      "source_id": "doi:10.1007/s42452-023-05325-8",
+      "title": "从基线长度到空间失相关：NRTK 为什么不能只验收‘固定了没有’",
+      "url": "https://doi.org/10.1007/s42452-023-05325-8",
+      "published": "2023-04-05",
+      "digest_date": "2026-09-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-022-01317-0",
+      "title": "从全固定到可控子集：中长基线 RTK 怎样用成功率换更早的厘米解",
+      "url": "https://doi.org/10.1007/s10291-022-01317-0",
+      "published": "2022-08-22",
+      "digest_date": "2026-09-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-023-01553-y",
+      "title": "从天球格网到坐标序列：机器学习多路径模型怎样真正改善纯 GNSS 短基线 RTK",
+      "url": "https://doi.org/10.1007/s10291-023-01553-y",
+      "published": "2023-10-16",
+      "digest_date": "2026-09-21",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 91,
+    "receiver-engineering": 93,
     "low-cost-mobile": 26,
-    "positioning": 68
+    "positioning": 69
   },
   "learning_level_counts": {
-    "foundation": 68,
-    "intermediate": 68,
-    "advanced": 68
+    "foundation": 69,
+    "intermediate": 69,
+    "advanced": 69
   },
   "positioning_rotation": {
     "spp": 12,
-    "rtk": 11,
+    "rtk": 12,
     "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 11,
     "smartphone-low-cost": 11,
