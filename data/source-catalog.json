@@ -5175,19 +5175,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16901",
+      "title": "空间走廊把保护级推到未来轨道，动力学失配比单星钟跳更难发现",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16901",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-22",
+      "section": "brief",
+      "category": "leo-gnss-space-corridor-integrity"
+    },
+    {
+      "source_id": "ion:gnss2026-17008",
+      "title": "H-ARAIM 的轻量预检覆盖八组故障，但 15 小时无人机飞行仍不替代完整 MOPS",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17008",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-22",
+      "section": "brief",
+      "category": "ed259b-haraim-sensitivity-drone-flight"
+    },
+    {
+      "source_id": "ion:gnss2026-17026",
+      "title": "航空 HAS 原型静态 95% 水平 0.32 m、垂直 0.68 m，飞行验证仍在后面",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17026",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-22",
+      "section": "brief",
+      "category": "galileo-has-airborne-triple-band-prototype"
+    },
+    {
+      "source_id": "ion:gnss2026-16912",
+      "title": "31 天预测产品省链路，前三天轨道 95% 小于 1 m 不等于手机已获得同等位置精度",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16912",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-22",
+      "section": "brief",
+      "category": "mass-market-predicted-agnss-ionosphere-corrections"
+    },
+    {
+      "source_id": "ion:gnss2026-17122",
+      "title": "Android 辅助认证链已闭合，±17 ms 安全时间界仍不是抗欺骗成功率",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17122",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-22",
+      "section": "brief",
+      "category": "android-assisted-osnma-secure-time"
+    },
+    {
+      "source_id": "doi:10.1007/s12544-016-0217-5",
+      "title": "从残差到剔星：加权为什么既能提精度，也可能让 FDE 变迟钝",
+      "url": "https://doi.org/10.1007/s12544-016-0217-5",
+      "published": "2016-12-27",
+      "digest_date": "2026-09-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10846-022-01692-3",
+      "title": "从剔一颗星到比较多套解：怎样让保护级包住算法与噪声失配",
+      "url": "https://doi.org/10.1007/s10846-022-01692-3",
+      "published": "2022-08-19",
+      "digest_date": "2026-09-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-022-01391-4",
+      "title": "从单星故障到大气改正：纯 GNSS PPP-RTK 怎样给递推解分配完整性风险",
+      "url": "https://doi.org/10.1007/s10291-022-01391-4",
+      "published": "2023-02-13",
+      "digest_date": "2026-09-22",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 93,
+    "receiver-engineering": 95,
     "low-cost-mobile": 26,
-    "positioning": 69
+    "positioning": 70
   },
   "learning_level_counts": {
-    "foundation": 69,
-    "intermediate": 69,
-    "advanced": 69
+    "foundation": 70,
+    "intermediate": 70,
+    "advanced": 70
   },
   "positioning_rotation": {
     "spp": 12,
@@ -5195,6 +5270,6 @@
     "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 11,
     "smartphone-low-cost": 11,
-    "integrity": 11
+    "integrity": 12
   }
 }
