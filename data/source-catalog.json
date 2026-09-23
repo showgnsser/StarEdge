@@ -5250,26 +5250,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2609.23732",
+      "title": "太阳风直接驱动区域 TEC 预测，跨年残差范围不等于定位误差已受控",
+      "url": "https://arxiv.org/abs/2609.23732",
+      "published": "2026-09-20",
+      "digest_date": "2026-09-23",
+      "section": "brief",
+      "category": "solar-wind-driven-indian-tec-neural-prediction"
+    },
+    {
+      "source_id": "arxiv:2609.22900",
+      "title": "Pixel 8 不会因普通 SUPL_INIT 短信把位置发给攻击者，但结论只覆盖一套基带实现",
+      "url": "https://arxiv.org/abs/2609.22900",
+      "published": "2026-09-19",
+      "digest_date": "2026-09-23",
+      "section": "brief",
+      "category": "pixel8-sms-supl-init-privacy-gates"
+    },
+    {
+      "source_id": "arxiv:2609.20629",
+      "title": "RTK 负责找回移动母机，视觉与独立安全门才完成空中回收",
+      "url": "https://arxiv.org/abs/2609.20629",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-23",
+      "section": "brief",
+      "category": "rtk-vision-ppo-airborne-uav-recovery"
+    },
+    {
+      "source_id": "arxiv:2609.17174",
+      "title": "LEO PNT 对轨道 GNSS 的最坏干扰很短，结论来自厂商仿真而非在轨接收机",
+      "url": "https://arxiv.org/abs/2609.17174",
+      "published": "2026-09-15",
+      "digest_date": "2026-09-23",
+      "section": "brief",
+      "category": "xona-pulsar-spaceborne-gnss-compatibility"
+    },
+    {
+      "source_id": "arxiv:2609.15824",
+      "title": "Galileo SAS 首次闭合民用认证时间解，单星 20 ns 仍不是认证 PVT",
+      "url": "https://arxiv.org/abs/2609.15824",
+      "published": "2026-09-14",
+      "digest_date": "2026-09-23",
+      "section": "brief",
+      "category": "galileo-sas-authenticated-snapshot-time"
+    },
+    {
+      "source_id": "doi:10.3390/s24082569",
+      "title": "从方向图到坐标序列：手机正反面为什么会改变可用观测",
+      "url": "https://doi.org/10.3390/s24082569",
+      "published": "2024-04-17",
+      "digest_date": "2026-09-23",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22249879",
+      "title": "从 L1 改正到 L5 观测：怎样不新建基站也让手机双频码差分工作",
+      "url": "https://doi.org/10.3390/s22249879",
+      "published": "2022-12-15",
+      "digest_date": "2026-09-23",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20630",
+      "title": "从内置天线到厘米步行：零距离重辐射怎样把手机载波变成可固定观测",
+      "url": "https://doi.org/10.33012/2026.20630",
+      "published": "2026-05-04",
+      "digest_date": "2026-09-23",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
     "receiver-engineering": 95,
-    "low-cost-mobile": 26,
-    "positioning": 70
+    "low-cost-mobile": 28,
+    "positioning": 71
   },
   "learning_level_counts": {
-    "foundation": 70,
-    "intermediate": 70,
-    "advanced": 70
+    "foundation": 71,
+    "intermediate": 71,
+    "advanced": 71
   },
   "positioning_rotation": {
     "spp": 12,
     "rtk": 12,
     "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 11,
-    "smartphone-low-cost": 11,
+    "smartphone-low-cost": 12,
     "integrity": 12
   }
 }
