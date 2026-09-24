@@ -5325,25 +5325,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17193",
+      "title": "高纬电离层变化超过 5 cm/s 时，传统周跳门限可能把扰动当故障",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17193",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-24",
+      "section": "brief",
+      "category": "high-latitude-gifc-cycle-slip-detection"
+    },
+    {
+      "source_id": "ion:gnss2026-16885",
+      "title": "冻结更新可让阶跃相位故障不再被滤波状态逐渐吞掉",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16885",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-24",
+      "section": "brief",
+      "category": "frozen-kalman-dd-phase-jump-monitoring"
+    },
+    {
+      "source_id": "ion:gnss2026-16854",
+      "title": "Jetson 以 FP16 和统一内存实时合成 20 通道、40.92 MSPS 双频点信号",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16854",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-24",
+      "section": "brief",
+      "category": "jetson-gpu-realtime-gnss-simulator"
+    },
+    {
+      "source_id": "ion:gnss2026-16888",
+      "title": "开源 B1C 生成器已被 SDR 捕获跟踪，商用接收机验收仍是计划项",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16888",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-24",
+      "section": "brief",
+      "category": "open-bds3-b1c-sdr-simulator"
+    },
+    {
+      "source_id": "ion:gnss2026-16974",
+      "title": "城市欺骗数据把多路径、遮挡与同步拖曳放进同一条 IF 证据链",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16974",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-24",
+      "section": "brief",
+      "category": "urban-gnss-spoofing-if-dataset"
+    },
+    {
+      "source_id": "doi:10.3390/s130709435",
+      "title": "半周不是整数：混合接收机为何会让 BDS 双差定姿整周失效",
+      "url": "https://doi.org/10.3390/s130709435",
+      "published": "2013-07-22",
+      "digest_date": "2026-09-24",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s16060841",
+      "title": "两条双差先旋正坐标：怎样让模糊函数少搜、又不忽略几何噪声",
+      "url": "https://doi.org/10.3390/s16060841",
+      "published": "2016-06-08",
+      "digest_date": "2026-09-24",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1016/j.actaastro.2017.01.006",
+      "title": "不用伪距也能瞬时定姿：粒子怎样把四元数先验变成整数候选",
+      "url": "https://doi.org/10.1016/j.actaastro.2017.01.006",
+      "published": "2017-01-07",
+      "digest_date": "2026-09-24",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 9,
     "tracking": 10,
-    "receiver-engineering": 95,
+    "receiver-engineering": 97,
     "low-cost-mobile": 28,
-    "positioning": 71
+    "positioning": 72
   },
   "learning_level_counts": {
-    "foundation": 71,
-    "intermediate": 71,
-    "advanced": 71
+    "foundation": 72,
+    "intermediate": 72,
+    "advanced": 72
   },
   "positioning_rotation": {
     "spp": 12,
     "rtk": 12,
     "ppp-ppp-rtk": 12,
-    "dual-antenna-heading": 11,
+    "dual-antenna-heading": 12,
     "smartphone-low-cost": 12,
     "integrity": 12
   }
