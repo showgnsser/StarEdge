@@ -5400,22 +5400,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17164",
+      "title": "LEO 高功率不自动等于低捕获成本，副码假设空间仍会随相干深度增长",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17164",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-25",
+      "section": "brief",
+      "category": "leo-pnt-l1-acquisition-complexity"
+    },
+    {
+      "source_id": "ion:gnss2026-16869",
+      "title": "固定监测站可把已知几何作为外部先验，离线分离真实载波相位与闪烁相位",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16869",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-25",
+      "section": "brief",
+      "category": "geometry-aided-scintillation-kalman-tracking"
+    },
+    {
+      "source_id": "ion:gnss2026-16802",
+      "title": "足球大小的 3D 打印 Luneburg 透镜让 20° 来波提高约 8 dB，但仍是五波束原型",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16802",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-25",
+      "section": "brief",
+      "category": "printed-luneburg-lens-gnss-antenna"
+    },
+    {
+      "source_id": "ion:gnss2026-16927",
+      "title": "分段双向滤波从健康区向衰落区推进，避免一次中断把整条开环轨迹拖散",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16927",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-25",
+      "section": "brief",
+      "category": "segmented-open-loop-waveform-filter"
+    },
+    {
+      "source_id": "ion:gnss2026-16806",
+      "title": "组合移位本地码把宽延迟多路径搬进 ±1 chip，再按频移拆回原位置",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16806",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-25",
+      "section": "brief",
+      "category": "l5-shifted-combined-code-multipath-detection"
+    },
+    {
+      "source_id": "doi:10.1155/2015/765898",
+      "title": "两段码避免符号翻转：为什么拆小 FFT 能少存很多、又不损失相关峰",
+      "url": "https://doi.org/10.1155/2015/765898",
+      "published": "2015-12-16",
+      "digest_date": "2026-09-25",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs16111836",
+      "title": "让每颗星共享运动信息：自适应平方根 UKF 怎样在遮挡时稳住矢量环",
+      "url": "https://doi.org/10.3390/rs16111836",
+      "published": "2024-05-21",
+      "digest_date": "2026-09-25",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s12518-022-00457-9",
+      "title": "同一副天线、同一组卫星：为什么 30 美元 SDR 的 SPP 仍被伪距噪声拉散",
+      "url": "https://doi.org/10.1007/s12518-022-00457-9",
+      "published": "2022-08-26",
+      "digest_date": "2026-09-25",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 9,
-    "tracking": 10,
+    "acquisition": 10,
+    "tracking": 11,
     "receiver-engineering": 97,
     "low-cost-mobile": 28,
-    "positioning": 72
+    "positioning": 73
   },
   "learning_level_counts": {
-    "foundation": 72,
-    "intermediate": 72,
-    "advanced": 72
+    "foundation": 73,
+    "intermediate": 73,
+    "advanced": 73
   },
   "positioning_rotation": {
-    "spp": 12,
+    "spp": 13,
     "rtk": 12,
     "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 12,
