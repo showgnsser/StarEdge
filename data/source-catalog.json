@@ -5475,23 +5475,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16880",
+      "title": "24 小时城市信道仿真提醒：码误差小，不等于最终定位一定更好",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16880",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-26",
+      "section": "brief",
+      "category": "geometry-adapted-rnss-multipath-assessment"
+    },
+    {
+      "source_id": "ion:gnss2026-17003",
+      "title": "区域 PPP-RTK 把 CORS 残差压进四叉树广播，但 70–80% 压缩率不是定位验收",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17003",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-26",
+      "section": "brief",
+      "category": "regional-ppp-rtk-local-datum-quadtree"
+    },
+    {
+      "source_id": "ion:gnss2026-17179",
+      "title": "L1C 的高频 TMBOC 分量提高可辨性，却不自动得到低算力抗多路径",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17179",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-26",
+      "section": "brief",
+      "category": "gps-l1c-correlator-multipath-review-plan"
+    },
+    {
+      "source_id": "ion:gnss2026-17201",
+      "title": "16 通道前端拟内建扫频 S21 校准，把站间信号监测差异追到 ADC 之前",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17201",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-26",
+      "section": "brief",
+      "category": "self-equalizing-array-satnav-front-end"
+    },
+    {
+      "source_id": "ion:gnss2026-17099",
+      "title": "把 PPP-AR 验整改写成概率校准问题，300 余站训练方案仍需真实错误固定验真",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17099",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-26",
+      "section": "brief",
+      "category": "probability-calibrated-ppp-ar-validation"
+    },
+    {
+      "source_id": "doi:10.3390/s140815415",
+      "title": "多一套星座先改善可固定性：Kalman 浮点模糊度怎样接到 LAMBDA",
+      "url": "https://doi.org/10.3390/s140815415",
+      "published": "2014-08-20",
+      "digest_date": "2026-09-26",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s22010165",
+      "title": "不要为一颗坏星拒绝全部整数：网络 RTK 怎样逐层缩小固定子集",
+      "url": "https://doi.org/10.3390/s22010165",
+      "published": "2021-12-27",
+      "digest_date": "2026-09-26",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1109/lra.2020.3003861",
+      "title": "把过去历元当虚拟基站：单机时相 RTK 怎样闭合 Doppler 轨迹",
+      "url": "https://doi.org/10.1109/LRA.2020.3003861",
+      "published": "2020-06-22",
+      "digest_date": "2026-09-26",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 11,
-    "receiver-engineering": 97,
+    "receiver-engineering": 99,
     "low-cost-mobile": 28,
-    "positioning": 73
+    "positioning": 74
   },
   "learning_level_counts": {
-    "foundation": 73,
-    "intermediate": 73,
-    "advanced": 73
+    "foundation": 74,
+    "intermediate": 74,
+    "advanced": 74
   },
   "positioning_rotation": {
     "spp": 13,
-    "rtk": 12,
+    "rtk": 13,
     "ppp-ppp-rtk": 12,
     "dual-antenna-heading": 12,
     "smartphone-low-cost": 12,
