@@ -5550,24 +5550,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16805",
+      "title": "完整性监测站不是越均匀越好，凸优化直接按保护级挑位置",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16805",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-27",
+      "section": "brief",
+      "category": "ppp-integrity-monitor-convex-station-selection"
+    },
+    {
+      "source_id": "ion:gnss2026-16839",
+      "title": "AIS、ADS-B 与 CYGNSS 交叉佐证干扰，但“没对上”常只是卫星没有经过",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16839",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-27",
+      "section": "brief",
+      "category": "multi-domain-gnss-rfi-corroboration"
+    },
+    {
+      "source_id": "ion:gnss2026-16788",
+      "title": "把野外 RF 录像拆成 LOS 与反射，再自动重建可控仿真场景",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16788",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-27",
+      "section": "brief",
+      "category": "rf-recording-decomposition-simulator-reconstruction"
+    },
+    {
+      "source_id": "ion:gnss2026-17036",
+      "title": "Galileo E6C 先录后验，RECS 与 OSNMA 组合给信号来源加密校验",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17036",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-27",
+      "section": "brief",
+      "category": "galileo-sas-recs-aposteriori-authentication"
+    },
+    {
+      "source_id": "ion:gnss2026-16801",
+      "title": "先用 INS 报警，再把功率匹配的真伪相关峰拆开并分别跟踪",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16801",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-27",
+      "section": "brief",
+      "category": "ins-ccaf-iraim-spoofing-separation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00067-1",
+      "title": "电离层改正不是硬常数：先验均值和方差怎样共同拉快 PPP-RTK",
+      "url": "https://doi.org/10.1186/s43020-022-00067-1",
+      "published": "2022-03-28",
+      "digest_date": "2026-09-27",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00071-5",
+      "title": "让每五分钟都重新回答“这条电离层改正有多可信”",
+      "url": "https://doi.org/10.1186/s43020-022-00071-5",
+      "published": "2022-05-26",
+      "digest_date": "2026-09-27",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-025-00169-6",
+      "title": "多频多系统并不只加观测：偏差、几何和大气产品必须一起闭合",
+      "url": "https://doi.org/10.1186/s43020-025-00169-6",
+      "published": "2025-07-01",
+      "digest_date": "2026-09-27",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 11,
-    "receiver-engineering": 99,
+    "receiver-engineering": 101,
     "low-cost-mobile": 28,
-    "positioning": 74
+    "positioning": 75
   },
   "learning_level_counts": {
-    "foundation": 74,
-    "intermediate": 74,
-    "advanced": 74
+    "foundation": 75,
+    "intermediate": 75,
+    "advanced": 75
   },
   "positioning_rotation": {
     "spp": 13,
     "rtk": 13,
-    "ppp-ppp-rtk": 12,
+    "ppp-ppp-rtk": 13,
     "dual-antenna-heading": 12,
     "smartphone-low-cost": 12,
     "integrity": 12
