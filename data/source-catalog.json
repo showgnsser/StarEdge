@@ -5625,25 +5625,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16853",
+      "title": "质量指标不直接回归误差，而是先决定手机 PPP 应相信哪个历元",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16853",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-28",
+      "section": "brief",
+      "category": "smartphone-ppp-error-aware-temporal-attention"
+    },
+    {
+      "source_id": "ion:gnss2026-16939",
+      "title": "五频单星级联把码噪声逐层洗入载波，但 12.7 mm 仍是测距精度",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16939",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-28",
+      "section": "brief",
+      "category": "standalone-galileo-five-frequency-narrowlane-ranging"
+    },
+    {
+      "source_id": "ion:gnss2026-16972",
+      "title": "GNSS、LEO 与 5G 共用时间基准，但目前融合结果只覆盖 GNSS+5G",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16972",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-28",
+      "section": "brief",
+      "category": "time-coherent-gnss-leo-5g-hybrid-terminal"
+    },
+    {
+      "source_id": "ion:gnss2026-17010",
+      "title": "先按环境把误差分层，再在每层内做传统高斯包络",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17010",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-28",
+      "section": "brief",
+      "category": "ml-conditioned-gaussian-multipath-overbounding"
+    },
+    {
+      "source_id": "ion:gnss2026-16978",
+      "title": "三频 PPP 的 95% 三分钟收敛来自厂商样例，后台切换仍要单独验连续性",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16978",
+      "published": "2026-09-17",
+      "digest_date": "2026-09-28",
+      "section": "brief",
+      "category": "global-ppp-service-state-latency-failover"
+    },
+    {
+      "source_id": "proceedings:isgps2008-teunissen-gnss-attitude",
+      "title": "已知基线长度不是事后验算：它会重排整数候选",
+      "url": "https://research.tudelft.nl/en/publications/gnss-ambiguity-resolution-for-attitude-determination-theory-and-m/",
+      "published": "2008-11-11",
+      "digest_date": "2026-09-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s140711395",
+      "title": "惯性姿态不是替代 GNSS：它先把模糊度搜索椭球压瘦",
+      "url": "https://doi.org/10.3390/s140711395",
+      "published": "2014-06-26",
+      "digest_date": "2026-09-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-025-00174-9",
+      "title": "长桥不是先定位再算姿态：把位移与四元数放进同一 UKF",
+      "url": "https://doi.org/10.1186/s43020-025-00174-9",
+      "published": "2025-07-15",
+      "digest_date": "2026-09-28",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 11,
-    "receiver-engineering": 101,
+    "receiver-engineering": 103,
     "low-cost-mobile": 28,
-    "positioning": 75
+    "positioning": 76
   },
   "learning_level_counts": {
-    "foundation": 75,
-    "intermediate": 75,
-    "advanced": 75
+    "foundation": 76,
+    "intermediate": 76,
+    "advanced": 76
   },
   "positioning_rotation": {
     "spp": 13,
     "rtk": 13,
     "ppp-ppp-rtk": 13,
-    "dual-antenna-heading": 12,
+    "dual-antenna-heading": 13,
     "smartphone-low-cost": 12,
     "integrity": 12
   }
