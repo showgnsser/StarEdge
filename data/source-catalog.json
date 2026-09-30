@@ -5700,26 +5700,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17094",
+      "title": "Galileo 广播测距误差已稳定，但“走向完全运行能力”仍要看独立长期监测",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17094",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-30",
+      "section": "brief",
+      "category": "galileo-open-service-long-term-performance"
+    },
+    {
+      "source_id": "ion:gnss2026-17024",
+      "title": "铁路与海事误差模型不能整套搬航空：可移植项按设计复用，本地多路径按投运验真",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17024",
+      "published": "2026-09-18",
+      "digest_date": "2026-09-30",
+      "section": "brief",
+      "category": "rail-maritime-integrity-model-validation"
+    },
+    {
+      "source_id": "ion:gnss2026-16855",
+      "title": "10% 占空比不等于只耗 10% 电：射频前端、唤醒时间和捕获代价都要入账",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16855",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-30",
+      "section": "brief",
+      "category": "hardware-gnss-duty-cycle-power-characterization"
+    },
+    {
+      "source_id": "ion:gnss2026-17129",
+      "title": "叠加谐波想保留宽带测距收益，同时减少 BOC 多峰带来的假锁",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17129",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-30",
+      "section": "brief",
+      "category": "harmonic-superposition-navigation-modulation"
+    },
+    {
+      "source_id": "ion:gnss2026-16881",
+      "title": "把接收机相位偏差放到单位圆上，避免选一颗枢轴星把误差传播给所有卫星",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16881",
+      "published": "2026-09-16",
+      "digest_date": "2026-09-30",
+      "section": "brief",
+      "category": "circular-receiver-phase-bias-estimation"
+    },
+    {
+      "source_id": "doi:10.3390/s19194302",
+      "title": "手机 RTK 显示 FIX 也可能是错的：先理解双差、ratio 与拒绝",
+      "url": "https://doi.org/10.3390/s19194302",
+      "published": "2019-10-04",
+      "digest_date": "2026-09-30",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s24051477",
+      "title": "别先删观测：用创新与后验残差连续调大坏数据方差",
+      "url": "https://doi.org/10.3390/s24051477",
+      "published": "2024-02-24",
+      "digest_date": "2026-09-30",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs15122983",
+      "title": "静态分米不等于动态分米：实时多系统手机 PPP 的场景鸿沟",
+      "url": "https://doi.org/10.3390/rs15122983",
+      "published": "2023-06-08",
+      "digest_date": "2026-09-30",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 11,
     "receiver-engineering": 103,
-    "low-cost-mobile": 28,
-    "positioning": 76
+    "low-cost-mobile": 30,
+    "positioning": 77
   },
   "learning_level_counts": {
-    "foundation": 76,
-    "intermediate": 76,
-    "advanced": 76
+    "foundation": 77,
+    "intermediate": 77,
+    "advanced": 77
   },
   "positioning_rotation": {
     "spp": 13,
     "rtk": 13,
     "ppp-ppp-rtk": 13,
     "dual-antenna-heading": 13,
-    "smartphone-low-cost": 12,
+    "smartphone-low-cost": 13,
     "integrity": 12
   }
 }

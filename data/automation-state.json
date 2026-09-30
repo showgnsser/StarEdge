@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
   "automation_start_date": "2026-07-15",
-  "last_successful_date": "2026-09-28",
+  "last_successful_date": "2026-09-30",
   "missing_dates": [
-    "2026-09-19"
+    "2026-09-19",
+    "2026-09-29"
   ]
 }
