@@ -5775,19 +5775,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16845",
+      "title": "重构欺骗信号也会混叠：相位插值先补高采样等效，再滤波降采样",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16845",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-01",
+      "section": "brief",
+      "category": "phase-interpolated-successive-spoofing-cancellation"
+    },
+    {
+      "source_id": "ion:gnss2026-17192",
+      "title": "车辆安全广播可反向帮助同步欺骗：侧信道先暴露位置与运动状态",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17192",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-01",
+      "section": "brief",
+      "category": "cav-bsm-assisted-synchronous-gnss-spoofing"
+    },
+    {
+      "source_id": "ion:gnss2026-16800",
+      "title": "真实干扰测试不应只报“检测到”：还要公开真值、对手接收机与恢复轨迹",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16800",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-01",
+      "section": "brief",
+      "category": "commercial-receiver-jammertest-antijam-antispoof-assessment"
+    },
+    {
+      "source_id": "ion:gnss2026-16902",
+      "title": "多层判决把逐星异常汇总到频段和星座，但 98% 仍不是完整风险证明",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16902",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-01",
+      "section": "brief",
+      "category": "embedded-multitier-observable-spoofing-classifier"
+    },
+    {
+      "source_id": "ion:gnss2026-17004",
+      "title": "阵列先在相关前找异常空间特征，再在相关后判断谁正被欺骗信号牵引",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17004",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-01",
+      "section": "brief",
+      "category": "blind-pre-post-correlation-array-spoofing-detection"
+    },
+    {
+      "source_id": "doi:10.1109/jproc.2016.2526658",
+      "title": "先理解接管：欺骗峰怎样贴住、压过并拖走真实相关峰",
+      "url": "https://doi.org/10.1109/JPROC.2016.2526658",
+      "published": "2016-06-01",
+      "digest_date": "2026-10-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1109/taes.2017.2765258",
+      "title": "低功率会扭曲峰，高功率会抬升底噪：把攻击夹在二维判决面里",
+      "url": "https://doi.org/10.1109/TAES.2017.2765258",
+      "published": "2018-04-01",
+      "digest_date": "2026-10-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01804-6",
+      "title": "保护级几乎不动，位置却已落到转发器附近：共模欺骗的完整性断层",
+      "url": "https://doi.org/10.1007/s10291-024-01804-6",
+      "published": "2025-04-11",
+      "digest_date": "2026-10-01",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 11,
-    "receiver-engineering": 103,
+    "receiver-engineering": 105,
     "low-cost-mobile": 30,
-    "positioning": 77
+    "positioning": 78
   },
   "learning_level_counts": {
-    "foundation": 77,
-    "intermediate": 77,
-    "advanced": 77
+    "foundation": 78,
+    "intermediate": 78,
+    "advanced": 78
   },
   "positioning_rotation": {
     "spp": 13,
@@ -5795,6 +5870,6 @@
     "ppp-ppp-rtk": 13,
     "dual-antenna-heading": 13,
     "smartphone-low-cost": 13,
-    "integrity": 12
+    "integrity": 13
   }
 }
