@@ -5850,22 +5850,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16783",
+      "title": "极低 C/N0 下别先求鉴相角：直接把导频 I/Q 相关量送进惯导深耦合 EKF",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16783",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-02",
+      "section": "brief",
+      "category": "pilot-iq-deep-ins-carrier-tracking-under-wideband-jamming"
+    },
+    {
+      "source_id": "ion:gnss2026-16825",
+      "title": "低多普勒会让码间互相关长期不平均：GEO/QGEO 的 PRN 组合要先做最坏对筛选",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16825",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-02",
+      "section": "brief",
+      "category": "l1c-weil-code-low-doppler-prn-minimax-selection"
+    },
+    {
+      "source_id": "ion:gnss2026-16983",
+      "title": "Galileo G2 准导频不只是“更长积分”：健康状态叠加码可能在积分窗内改变",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16983",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-02",
+      "section": "brief",
+      "category": "galileo-g2-quasi-pilot-qhs-receiver-processing"
+    },
+    {
+      "source_id": "ion:gnss2026-16828",
+      "title": "优化波形若还用 BPSK 本地副本会自损：硬件在环必须匹配片内极性变化",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16828",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-02",
+      "section": "brief",
+      "category": "hil-distortion-optimized-multilevel-coded-spreading-tracking"
+    },
+    {
+      "source_id": "ion:gnss2026-17046",
+      "title": "BDS-3 片波形异常与带宽、抽头间隔联合作用，测距偏差可达米级",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17046",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-02",
+      "section": "brief",
+      "category": "bds-b1c-b2a-code-chip-anomaly-ranging-bias"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00077-z",
+      "title": "从相关峰走向锁点：用可微代价的梯度更新替代一对早晚差",
+      "url": "https://doi.org/10.1186/s43020-022-00077-z",
+      "published": "2022-07-13",
+      "digest_date": "2026-10-02",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01667-x",
+      "title": "不直接猜锁点：让随机森林估计反射幅度与延迟，再重建并相减",
+      "url": "https://doi.org/10.1007/s10291-024-01667-x",
+      "published": "2024-05-20",
+      "digest_date": "2026-10-02",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s24144663",
+      "title": "可疑星不一定该删：把 CNN 置信度变成权重，兼顾多径与几何",
+      "url": "https://doi.org/10.3390/s24144663",
+      "published": "2024-07-18",
+      "digest_date": "2026-10-02",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
-    "tracking": 11,
-    "receiver-engineering": 105,
+    "tracking": 12,
+    "receiver-engineering": 106,
     "low-cost-mobile": 30,
-    "positioning": 78
+    "positioning": 79
   },
   "learning_level_counts": {
-    "foundation": 78,
-    "intermediate": 78,
-    "advanced": 78
+    "foundation": 79,
+    "intermediate": 79,
+    "advanced": 79
   },
   "positioning_rotation": {
-    "spp": 13,
+    "spp": 14,
     "rtk": 13,
     "ppp-ppp-rtk": 13,
     "dual-antenna-heading": 13,
