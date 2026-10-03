@@ -5925,23 +5925,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16951",
+      "title": "机器学习能加快网端宽巷固定，但众包站的错固定风险仍显著高于测地站",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16951",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-03",
+      "section": "brief",
+      "category": "ml-ppp-rtk-network-ambiguity-validation"
+    },
+    {
+      "source_id": "ion:gnss2026-17083",
+      "title": "道路低成本 PPP-RTK／NRTK 对比，先把参考轨迹的独立性和共模误差说清",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17083",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-03",
+      "section": "brief",
+      "category": "low-cost-road-ppp-rtk-nrtk-reference-workflow"
+    },
+    {
+      "source_id": "ion:gnss2026-17087",
+      "title": "新一代手机不必然有更好的码观测，天线集成可压过芯片代际收益",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17087",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-03",
+      "section": "brief",
+      "category": "cross-generation-smartphone-observable-quality"
+    },
+    {
+      "source_id": "ion:gnss2026-17092",
+      "title": "TD-CMC 只拦快速码—载波不一致，慢变残差还要靠尾部包络进入 RTK 协方差",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17092",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-03",
+      "section": "brief",
+      "category": "td-cmc-gating-overbound-rtk-iar"
+    },
+    {
+      "source_id": "ion:gnss2026-17200",
+      "title": "闪烁下谁先失锁不只看频率，C/N0 裕量、衰落时间尺度和鉴相器捕获范围共同决定",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17200",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-03",
+      "section": "brief",
+      "category": "multifrequency-gps-scintillation-loss-of-lock"
+    },
+    {
+      "source_id": "doi:10.3390/s20144046",
+      "title": "先量清载波：运动零基线双差怎样分离毫米噪声与时间不同步",
+      "url": "https://doi.org/10.3390/s20144046",
+      "published": "2020-07-21",
+      "digest_date": "2026-10-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs13152904",
+      "title": "别为“固定更多”而固定：按位置精度贡献挑选模糊度子集",
+      "url": "https://doi.org/10.3390/rs13152904",
+      "published": "2021-07-23",
+      "digest_date": "2026-10-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs13112106",
+      "title": "少量好双差先锚定，再迭代收回坏观测：序贯 RTK 的收益与风险",
+      "url": "https://doi.org/10.3390/rs13112106",
+      "published": "2021-05-27",
+      "digest_date": "2026-10-03",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 12,
-    "receiver-engineering": 106,
+    "receiver-engineering": 108,
     "low-cost-mobile": 30,
-    "positioning": 79
+    "positioning": 80
   },
   "learning_level_counts": {
-    "foundation": 79,
-    "intermediate": 79,
-    "advanced": 79
+    "foundation": 80,
+    "intermediate": 80,
+    "advanced": 80
   },
   "positioning_rotation": {
     "spp": 14,
-    "rtk": 13,
+    "rtk": 14,
     "ppp-ppp-rtk": 13,
     "dual-antenna-heading": 13,
     "smartphone-low-cost": 13,
