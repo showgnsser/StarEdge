@@ -6000,24 +6000,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16872",
+      "title": "把双频电离层消除移到位置域，前提是两套单频偏移确实共享同一尺度",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16872",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-04",
+      "section": "brief",
+      "category": "position-domain-ionosphere-free-combination"
+    },
+    {
+      "source_id": "ion:gnss2026-16964",
+      "title": "低纬电离层定权不能只看基线长度，地方时与基线方位也进入方差",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16964",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-04",
+      "section": "brief",
+      "category": "low-latitude-ionosphere-spatiotemporal-weighting"
+    },
+    {
+      "source_id": "ion:gnss2026-16999",
+      "title": "LEO-PNT 共频兼容性应先由独立机构量信号，而不是只看运营商链路预算",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16999",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-04",
+      "section": "brief",
+      "category": "independent-leo-pnt-signal-compatibility-assessment"
+    },
+    {
+      "source_id": "ion:gnss2026-17107",
+      "title": "通信星座叠加低功率定位导频可行，但当前证据仍是自研仿真而非在轨服务",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17107",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-04",
+      "section": "brief",
+      "category": "leo-ntn-inband-positioning-overlay"
+    },
+    {
+      "source_id": "ion:gnss2026-16804",
+      "title": "抗干扰要跨越信号、认证、传感器与参考网，但厂商闭环仍需公开量化边界",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16804",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-04",
+      "section": "brief",
+      "category": "multilayer-precise-navigation-interference-defense"
+    },
+    {
+      "source_id": "doi:10.3390/s21134566",
+      "title": "先把噪声量出来：按信号与卫星块构造完整经验协方差",
+      "url": "https://doi.org/10.3390/s21134566",
+      "published": "2021-07-03",
+      "digest_date": "2026-10-04",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s20030669",
+      "title": "不逐元素追噪声：用 Helmert 方差分量在线平衡多系统权重",
+      "url": "https://doi.org/10.3390/s20030669",
+      "published": "2020-01-25",
+      "digest_date": "2026-10-04",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs17173071",
+      "title": "随机模型也要跟踪：LS-VCE 如何让 PPP-AR 与中断恢复不过度自信",
+      "url": "https://doi.org/10.3390/rs17173071",
+      "published": "2025-09-03",
+      "digest_date": "2026-10-04",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 12,
-    "receiver-engineering": 108,
+    "receiver-engineering": 110,
     "low-cost-mobile": 30,
-    "positioning": 80
+    "positioning": 81
   },
   "learning_level_counts": {
-    "foundation": 80,
-    "intermediate": 80,
-    "advanced": 80
+    "foundation": 81,
+    "intermediate": 81,
+    "advanced": 81
   },
   "positioning_rotation": {
     "spp": 14,
     "rtk": 14,
-    "ppp-ppp-rtk": 13,
+    "ppp-ppp-rtk": 14,
     "dual-antenna-heading": 13,
     "smartphone-low-cost": 13,
     "integrity": 13
