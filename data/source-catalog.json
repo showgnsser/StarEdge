@@ -6075,25 +6075,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16819",
+      "title": "GPS 导航电文能藏在 5G 波形下，但发射 SIR 不是接收 SINR",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16819",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-05",
+      "section": "brief",
+      "category": "dsss-ofdm-gnss-overlay-meo-relay"
+    },
+    {
+      "source_id": "ion:gnss2026-16987",
+      "title": "把 SSR 在终端还原成 OSR，可复用旧引擎，但验证仍混入厂商服务与高等级天线条件",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16987",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-05",
+      "section": "brief",
+      "category": "on-device-ssr-to-osr-vrs-reconstruction"
+    },
+    {
+      "source_id": "ion:gnss2026-16946",
+      "title": "Doppler 更擅长量速度而非单独量位置，运动几何比可见星数更关键",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16946",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-05",
+      "section": "brief",
+      "category": "doppler-motion-geometry-pseudorange-integration"
+    },
+    {
+      "source_id": "ion:gnss2026-16998",
+      "title": "跨场景欺骗检测要压掉场景指纹，但模拟迁移仍不是实网泛化",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16998",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-05",
+      "section": "brief",
+      "category": "domain-adversarial-cross-scene-spoofing-detection"
+    },
+    {
+      "source_id": "ion:gnss2026-17185",
+      "title": "LEO 到达方向能估姿态，但四星实验里的 459 m 联合位置误差说明可观测性仍弱",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17185&sessionID=2130",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-05",
+      "section": "brief",
+      "category": "leo-doa-quaternion-pose-estimation"
+    },
+    {
+      "source_id": "doi:10.2478/v10018-007-0009-1",
+      "title": "已知基线长度不是事后验尺：把它放进整数最小二乘目标",
+      "url": "https://doi.org/10.2478/v10018-007-0009-1",
+      "published": "2007-05-10",
+      "digest_date": "2026-10-05",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.2478/v10018-008-0002-3",
+      "title": "多条基线不是逐条解：把整数矩阵与正交姿态矩阵一起估",
+      "url": "https://doi.org/10.2478/v10018-008-0002-3",
+      "published": "2008-02-29",
+      "digest_date": "2026-10-05",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs13234845",
+      "title": "共钟单差少一次差分：保留卫星几何能否补强俯仰",
+      "url": "https://doi.org/10.3390/rs13234845",
+      "published": "2021-11-29",
+      "digest_date": "2026-10-05",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 12,
-    "receiver-engineering": 110,
+    "receiver-engineering": 112,
     "low-cost-mobile": 30,
-    "positioning": 81
+    "positioning": 82
   },
   "learning_level_counts": {
-    "foundation": 81,
-    "intermediate": 81,
-    "advanced": 81
+    "foundation": 82,
+    "intermediate": 82,
+    "advanced": 82
   },
   "positioning_rotation": {
     "spp": 14,
     "rtk": 14,
     "ppp-ppp-rtk": 14,
-    "dual-antenna-heading": 13,
+    "dual-antenna-heading": 14,
     "smartphone-low-cost": 13,
     "integrity": 13
   }
