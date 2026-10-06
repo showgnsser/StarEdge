@@ -6150,26 +6150,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17161",
+      "title": "把城市衍射从定位误差反过来当测图传感器，但 4 m 偏移仍只是可行性证据",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17161",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-06",
+      "section": "brief",
+      "category": "smartphone-gnss-diffraction-building-edge-renewal"
+    },
+    {
+      "source_id": "ion:gnss2026-17096",
+      "title": "手表载波周跳先辨识再修复，比删掉 TDCP 因子更能保住弱约束",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17096",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-06",
+      "section": "brief",
+      "category": "smartwatch-tdcp-dia-cycle-slip-repair-fgo"
+    },
+    {
+      "source_id": "ion:gnss2026-16793",
+      "title": "量产 SoC 上的紧组合能减弱桥下误差，但厂商摘要未给路线与样本账",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16793",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-06",
+      "section": "brief",
+      "category": "production-soc-tight-ins-gnss-adr-udr"
+    },
+    {
+      "source_id": "doi:10.1029/2025SW004871",
+      "title": "同型号 Pixel 7 的载波 TEC 噪声也会相差一倍，硬件个体差不能被型号名遮住",
+      "url": "https://doi.org/10.1029/2025SW004871",
+      "published": "2026-05-12",
+      "digest_date": "2026-10-06",
+      "section": "brief",
+      "category": "pixel7-carrier-phase-tec-inter-device-variability"
+    },
+    {
+      "source_id": "ion:gnss2026-17069",
+      "title": "OSNMA 城市评估先把‘能定位’与‘能连续认证’拆成两套 KPI",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17069",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-06",
+      "section": "brief",
+      "category": "osnma-mass-market-urban-kpi-methodology"
+    },
+    {
+      "source_id": "doi:10.3390/s23073478",
+      "title": "先把手机噪声量出来：LS-VCE 如何从双机双差生成随机模型",
+      "url": "https://doi.org/10.3390/s23073478",
+      "published": "2023-03-26",
+      "digest_date": "2026-10-06",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs16173117",
+      "title": "不要见异常就删：用跨频 Kalman 预测实时修复码相跳变",
+      "url": "https://doi.org/10.3390/rs16173117",
+      "published": "2024-08-23",
+      "digest_date": "2026-10-06",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-021-01106-1",
+      "title": "把测地 PPP 改成手机能用：分离码相钟、混频观测与实时质量控制",
+      "url": "https://doi.org/10.1007/s10291-021-01106-1",
+      "published": "2021-03-03",
+      "digest_date": "2026-10-06",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 12,
     "receiver-engineering": 112,
-    "low-cost-mobile": 30,
-    "positioning": 82
+    "low-cost-mobile": 32,
+    "positioning": 83
   },
   "learning_level_counts": {
-    "foundation": 82,
-    "intermediate": 82,
-    "advanced": 82
+    "foundation": 83,
+    "intermediate": 83,
+    "advanced": 83
   },
   "positioning_rotation": {
     "spp": 14,
     "rtk": 14,
     "ppp-ppp-rtk": 14,
     "dual-antenna-heading": 14,
-    "smartphone-low-cost": 13,
+    "smartphone-low-cost": 14,
     "integrity": 13
   }
 }
