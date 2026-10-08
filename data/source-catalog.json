@@ -1795,7 +1795,7 @@
       "source_id": "doi:10.1109/plans61210.2025.11028291",
       "title": "共模欺骗让单天线 RAIM 失明：双天线如何把检测量变成保护级",
       "url": "https://doi.org/10.1109/plans61210.2025.11028291",
-      "published": "2025-04",
+      "published": "2025-04-28",
       "digest_date": "2026-08-06",
       "section": "deep",
       "category": "positioning",
@@ -6225,19 +6225,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17167",
+      "title": "重尾误差不必全塞进膨胀高斯，但 50 次仿真还不是尾部概率证明",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17167",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-08",
+      "section": "brief",
+      "category": "gaussian-pareto-hybrid-protection-level-filter"
+    },
+    {
+      "source_id": "ion:gnss2026-16840",
+      "title": "Bayes tree 的秩更新可把约 23 个故障假设压到 1 ms 内，但保证依赖高斯后验近似",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16840",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-08",
+      "section": "brief",
+      "category": "incremental-smoothing-araim-rank-update"
+    },
+    {
+      "source_id": "ion:gnss2026-17035",
+      "title": "AI 干扰检测开始闭环到删星与降权，但摘要没有给误警、漏警或时延数字",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17035",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-08",
+      "section": "brief",
+      "category": "ai-gnss-interference-closed-loop-mitigation"
+    },
+    {
+      "source_id": "ion:gnss2026-16947",
+      "title": "跨厂商质量分类想修正接收机‘过度自信’，但‘显著改善’仍缺公开样本账",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16947",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-08",
+      "section": "brief",
+      "category": "cross-vendor-ai-gnss-quality-classification"
+    },
+    {
+      "source_id": "ion:gnss2026-16859",
+      "title": "LEO 星座自己用 GNSS 定轨时，上游单星故障会变成下游共因故障",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16859",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-08",
+      "section": "brief",
+      "category": "leo-pnt-onboard-ura-cascaded-gnss-fault"
+    },
+    {
+      "source_id": "doi:10.1109/PLANS61210.2025.11028185",
+      "title": "先把时间相关写进协方差：多元高斯外包络怎样约束任意线性组合",
+      "url": "https://doi.org/10.1109/PLANS61210.2025.11028185",
+      "published": "2025-04",
+      "digest_date": "2026-10-08",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20609",
+      "title": "外包络要落到用户域：一阶相关状态怎样收紧 PPP 的 2σ 边界",
+      "url": "https://doi.org/10.33012/2026.20609",
+      "published": "2026-04-16",
+      "digest_date": "2026-10-08",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.33012/navi.718",
+      "title": "固定解不是高斯：CDGNSS 解分离怎样把漏检故障也包进 VPL",
+      "url": "https://doi.org/10.33012/navi.718",
+      "published": "2025-12-01",
+      "digest_date": "2026-10-08",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 12,
-    "receiver-engineering": 112,
+    "receiver-engineering": 114,
     "low-cost-mobile": 32,
-    "positioning": 83
+    "positioning": 84
   },
   "learning_level_counts": {
-    "foundation": 83,
-    "intermediate": 83,
-    "advanced": 83
+    "foundation": 84,
+    "intermediate": 84,
+    "advanced": 84
   },
   "positioning_rotation": {
     "spp": 14,
@@ -6245,6 +6320,6 @@
     "ppp-ppp-rtk": 14,
     "dual-antenna-heading": 14,
     "smartphone-low-cost": 14,
-    "integrity": 13
+    "integrity": 14
   }
 }
