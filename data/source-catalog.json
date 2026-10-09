@@ -6300,23 +6300,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17147",
+      "title": "图神经网络在已见攻击上检出率 96.4%，换成未见动态等功率欺骗后只剩 58.6%",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17147",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-09",
+      "section": "brief",
+      "category": "spoofing-stgnn-cross-scenario-generalization"
+    },
+    {
+      "source_id": "ion:gnss2026-17064",
+      "title": "信号不可预测性加亚毫秒时钟界可把欺骗区域压到几十平方千米，但仍不是精确位置认证",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17064",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-09",
+      "section": "brief",
+      "category": "authenticated-geometry-time-spoofing-region"
+    },
+    {
+      "source_id": "ion:gnss2026-16935",
+      "title": "跨域注意力在 1% 误警率下给出 94.59% 单星检出率，但数据集留出方式决定可信度",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16935",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-09",
+      "section": "brief",
+      "category": "cross-domain-lightweight-spoofing-attention"
+    },
+    {
+      "source_id": "ion:gnss2026-17176",
+      "title": "Pulsar 首颗在轨星的时间传递仍处于‘将报告结果’，不能把测试计划写成性能证明",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17176",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-09",
+      "section": "brief",
+      "category": "xona-pulsar-iov-time-transfer-plan"
+    },
+    {
+      "source_id": "ion:gnss2026-16810",
+      "title": "MEMS 保持称 8 小时误差小于 1.5 μs，但证据包含厂商仿真与客户陈述",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16810",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-09",
+      "section": "brief",
+      "category": "mems-oscillator-gnss-holdover-resilience"
+    },
+    {
+      "source_id": "doi:10.3390/s21072503",
+      "title": "从相关峰看见 NLOS：多相关器为什么比单一 C/N0 多一层信息",
+      "url": "https://doi.org/10.3390/s21072503",
+      "published": "2021-04-03",
+      "digest_date": "2026-10-09",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3389/frobt.2022.868608",
+      "title": "拿不到相关器怎么办：RINEX 特征与伪距残差做两道 NLOS 门控",
+      "url": "https://doi.org/10.3389/frobt.2022.868608",
+      "published": "2022-05-05",
+      "digest_date": "2026-10-09",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01962-1",
+      "title": "从射线到双差误差：3D 地图怎样为城市 NRTK 预演可用观测",
+      "url": "https://doi.org/10.1007/s10291-025-01962-1",
+      "published": "2025-10-31",
+      "digest_date": "2026-10-09",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
-    "tracking": 12,
-    "receiver-engineering": 114,
+    "tracking": 13,
+    "receiver-engineering": 115,
     "low-cost-mobile": 32,
-    "positioning": 84
+    "positioning": 85
   },
   "learning_level_counts": {
-    "foundation": 84,
-    "intermediate": 84,
-    "advanced": 84
+    "foundation": 85,
+    "intermediate": 85,
+    "advanced": 85
   },
   "positioning_rotation": {
     "spp": 14,
-    "rtk": 14,
+    "rtk": 15,
     "ppp-ppp-rtk": 14,
     "dual-antenna-heading": 14,
     "smartphone-low-cost": 14,
