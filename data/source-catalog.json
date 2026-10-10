@@ -6375,24 +6375,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16506",
+      "title": "MADOCA 多频多系统加电离层约束把平均收敛从 300 s 降到 200 s，但仍是厂商静态测试",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16506",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-10",
+      "section": "brief",
+      "category": "madoca-pppar-multifrequency-ionosphere"
+    },
+    {
+      "source_id": "ion:gnss2026-17051",
+      "title": "Fast-PPP 在四站二十天数据上常缩短 2–4 倍收敛，但混用不相容产品反而变差",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17051",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-10",
+      "section": "brief",
+      "category": "fast-ppp-ssr-product-coherence"
+    },
+    {
+      "source_id": "ion:gnss2026-17199",
+      "title": "公共跨频相位偏差格式节省约 16.6% 传输量，代价是固定率下降约 0.84%",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17199",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-10",
+      "section": "brief",
+      "category": "compact-ssr-common-interfrequency-phase-bias"
+    },
+    {
+      "source_id": "ion:gnss2026-16784",
+      "title": "轮载惯性周期运动加轻量网络使位置 RMSE 降约 46%，但收益不是纯 GNSS 算法",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16784",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-10",
+      "section": "brief",
+      "category": "wheel-mounted-inertial-ai-gnss-update"
+    },
+    {
+      "source_id": "ion:gnss2026-16827",
+      "title": "三接收机共钟一体机宣称垂向精度改善 50%，但没有公开绝对误差与样本账",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16827",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-10",
+      "section": "brief",
+      "category": "triple-antenna-common-clock-machine-control"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-021-01510-y",
+      "title": "先把码钟与相位钟拆开：PPP 模糊度为什么才能重新成为整数",
+      "url": "https://doi.org/10.1007/s00190-021-01510-y",
+      "published": "2021-05-05",
+      "digest_date": "2026-10-10",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00084-0",
+      "title": "用户能否固定取决于服务端：OSB、相位钟与轨道怎样一起闭合",
+      "url": "https://doi.org/10.1186/s43020-022-00084-0",
+      "published": "2022-10-17",
+      "digest_date": "2026-10-10",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00222-y",
+      "title": "多系统能遮住多少产品误差：实时与事后 PPP-AR 的公平同框比较",
+      "url": "https://doi.org/10.1186/s43020-026-00222-y",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-10",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 13,
-    "receiver-engineering": 115,
+    "receiver-engineering": 117,
     "low-cost-mobile": 32,
-    "positioning": 85
+    "positioning": 86
   },
   "learning_level_counts": {
-    "foundation": 85,
-    "intermediate": 85,
-    "advanced": 85
+    "foundation": 86,
+    "intermediate": 86,
+    "advanced": 86
   },
   "positioning_rotation": {
     "spp": 14,
     "rtk": 15,
-    "ppp-ppp-rtk": 14,
+    "ppp-ppp-rtk": 15,
     "dual-antenna-heading": 14,
     "smartphone-low-cost": 14,
     "integrity": 14
