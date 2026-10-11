@@ -6450,22 +6450,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20696",
+      "title": "纯 GNSS Supercorrelation 在伦敦深城市峡谷给出 7.36 m 的 95% 水平误差，但对照仍由厂商掌控",
+      "url": "https://doi.org/10.33012/2026.20696",
+      "published": "2026-09",
+      "digest_date": "2026-10-11",
+      "section": "brief",
+      "category": "supercorrelation-deep-urban-gnss-only"
+    },
+    {
+      "source_id": "ion:gnss2026-16848",
+      "title": "先判场景再调 LOS/MP/NLOS 比例把水平 RMSE 降约 65%，但标签和路线外泛化仍待公开",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16848",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-11",
+      "section": "brief",
+      "category": "scene-adaptive-signal-classification-wls"
+    },
+    {
+      "source_id": "ion:gnss2026-16981",
+      "title": "STFT 同时看伪距残差与多普勒可区分 LOS/MP/NLOS，但显著改善尚无公开数值",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16981&sessionID=2078",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-11",
+      "section": "brief",
+      "category": "stft-neural-los-multipath-nlos-classification"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20695",
+      "title": "所有卫星同时降 C/N₀ 才告警可压低局部掉星误报，代价是轻微降低干扰灵敏度",
+      "url": "https://doi.org/10.33012/2026.20695",
+      "published": "2026-09",
+      "digest_date": "2026-10-11",
+      "section": "brief",
+      "category": "cors-intersection-union-jamming-detection"
+    },
+    {
+      "source_id": "ion:gnss2026-16920",
+      "title": "保留 TEC 空间结构把 IGSG 一日预报 RMSE 从低分辨率 3.81 降到高分辨率 3.47 TECU",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16920",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-11",
+      "section": "brief",
+      "category": "ed-convgru-global-tec-forecast"
+    },
+    {
+      "source_id": "doi:10.3390/s21062125",
+      "title": "先承认手机天线不按仰角行事：C/N₀ 定权为什么比几何定权更贴近码噪声",
+      "url": "https://doi.org/10.3390/s21062125",
+      "published": "2021-03-18",
+      "digest_date": "2026-10-11",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s21010188",
+      "title": "让频带从数据里长出来：EMD 与 HHT 怎样把码多路径从电离层和噪声中拆开",
+      "url": "https://doi.org/10.3390/s21010188",
+      "published": "2020-12-30",
+      "digest_date": "2026-10-11",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s24216880",
+      "title": "三个历元够不够看见反射：伪距加速度与 SNR 怎样联合稳住城市 SPP",
+      "url": "https://doi.org/10.3390/s24216880",
+      "published": "2024-10-26",
+      "digest_date": "2026-10-11",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 13,
-    "receiver-engineering": 117,
-    "low-cost-mobile": 32,
-    "positioning": 86
+    "receiver-engineering": 118,
+    "low-cost-mobile": 33,
+    "positioning": 87
   },
   "learning_level_counts": {
-    "foundation": 86,
-    "intermediate": 86,
-    "advanced": 86
+    "foundation": 87,
+    "intermediate": 87,
+    "advanced": 87
   },
   "positioning_rotation": {
-    "spp": 14,
+    "spp": 15,
     "rtk": 15,
     "ppp-ppp-rtk": 15,
     "dual-antenna-heading": 14,
