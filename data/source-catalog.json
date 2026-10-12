@@ -6525,25 +6525,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16785",
+      "title": "惯导前馈能让环路熬过高动态，但实车自适应协方差没有额外精度收益",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16785",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-12",
+      "section": "brief",
+      "category": "ins-doppler-feedforward-carrier-tracking"
+    },
+    {
+      "source_id": "ion:gnss2026-16787",
+      "title": "盲估反射环境能救回一个坏 RTK 基站，却不等于方向定权普遍有效",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16787",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-12",
+      "section": "brief",
+      "category": "blind-laser-validated-cors-environment-map"
+    },
+    {
+      "source_id": "ion:gnss2026-16847",
+      "title": "局部梯度陷波在双扫频干扰下多恢复 4 dB，上界和实机收益必须分开",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16847",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-12",
+      "section": "brief",
+      "category": "local-gradient-adaptive-notch-multiple-jammers"
+    },
+    {
+      "source_id": "ion:gnss2026-16906",
+      "title": "单贴片天线借车辆运动形成合成孔径，转发欺骗 ROC AUC 达 0.989",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16906",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-12",
+      "section": "brief",
+      "category": "single-antenna-supercorrelation-meaconing-authentication"
+    },
+    {
+      "source_id": "ion:gnss2026-17016",
+      "title": "开源 RTCM 链路加贴附式重辐射器让手机步行 RTK 接近全固定，但硬件改变了问题",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17016",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-12",
+      "section": "brief",
+      "category": "open-smartphone-booster-realtime-rtk"
+    },
+    {
+      "source_id": "doi:10.3390/s17020274",
+      "title": "先把一条已知基线放上球面：为什么几何约束能救单历元定整",
+      "url": "https://doi.org/10.3390/s17020274",
+      "published": "2017-01-30",
+      "digest_date": "2026-10-12",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s151229774",
+      "title": "不只知道边有多长：粗航向与俯仰怎样压缩整数候选",
+      "url": "https://doi.org/10.3390/s151229774",
+      "published": "2015-12-02",
+      "digest_date": "2026-10-12",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1155/2022/4426987",
+      "title": "两条边不能各算各的：正交姿态矩阵怎样直接约束单历元定向",
+      "url": "https://doi.org/10.1155/2022/4426987",
+      "published": "2022-03-01",
+      "digest_date": "2026-10-12",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 13,
-    "receiver-engineering": 118,
+    "receiver-engineering": 120,
     "low-cost-mobile": 33,
-    "positioning": 87
+    "positioning": 88
   },
   "learning_level_counts": {
-    "foundation": 87,
-    "intermediate": 87,
-    "advanced": 87
+    "foundation": 88,
+    "intermediate": 88,
+    "advanced": 88
   },
   "positioning_rotation": {
     "spp": 15,
     "rtk": 15,
     "ppp-ppp-rtk": 15,
-    "dual-antenna-heading": 14,
+    "dual-antenna-heading": 15,
     "smartphone-low-cost": 14,
     "integrity": 14
   }
