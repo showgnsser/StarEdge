@@ -6600,26 +6600,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16893",
+      "title": "月面 GNSS 切边观测补上 800–8000 km 等离子体盲区，但摘要只给模型结构差异",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16893",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-13",
+      "section": "brief",
+      "category": "lunar-gnss-limb-sounding-plasmasphere"
+    },
+    {
+      "source_id": "ion:gnss2026-16916",
+      "title": "手机电离层集成模型把一次 2001.73 m 异常压到 0.53 m，但目标本身是 GIM",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16916",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-13",
+      "section": "brief",
+      "category": "smartphone-ionosphere-gated-ensemble"
+    },
+    {
+      "source_id": "ion:gnss2026-16894",
+      "title": "15 年 RTX 历史数据训练映射函数，20 站平均收敛时间改善约 25%",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16894",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-13",
+      "section": "brief",
+      "category": "ml-vtec-stec-mapping-rtx"
+    },
+    {
+      "source_id": "ion:gnss2026-17028",
+      "title": "北斗机载多路径随平滑从强仰角相关变平，600 s 模型不能照搬 100 s 上界",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17028",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-13",
+      "section": "brief",
+      "category": "bds-dfmc-gbas-airborne-multipath-bounds"
+    },
+    {
+      "source_id": "ion:gnss2026-16822",
+      "title": "四天线 COTS 节点在 Jammertest 实时识别干扰，但双站定位精度只到‘中等’",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16822",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-13",
+      "section": "brief",
+      "category": "cots-multinode-rfi-detection-localization"
+    },
+    {
+      "source_id": "doi:10.3390/s25144452",
+      "title": "先别把新机等同于好解：观测完整度、信号质量与定位误差要分账",
+      "url": "https://doi.org/10.3390/s25144452",
+      "published": "2025-07-17",
+      "digest_date": "2026-10-13",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s25206452",
+      "title": "把环境写成连续数：C/N₀ 与 PDOP 如何合成 ECI",
+      "url": "https://doi.org/10.3390/s25206452",
+      "published": "2025-10-18",
+      "digest_date": "2026-10-13",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/engproc2025088023",
+      "title": "从手机内置天线到厘米 RTK：多频观测、定权与定整的闭环",
+      "url": "https://doi.org/10.3390/engproc2025088023",
+      "published": "2025-03-28",
+      "digest_date": "2026-10-13",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 13,
     "receiver-engineering": 120,
-    "low-cost-mobile": 33,
-    "positioning": 88
+    "low-cost-mobile": 35,
+    "positioning": 89
   },
   "learning_level_counts": {
-    "foundation": 88,
-    "intermediate": 88,
-    "advanced": 88
+    "foundation": 89,
+    "intermediate": 89,
+    "advanced": 89
   },
   "positioning_rotation": {
     "spp": 15,
     "rtk": 15,
     "ppp-ppp-rtk": 15,
     "dual-antenna-heading": 15,
-    "smartphone-low-cost": 14,
+    "smartphone-low-cost": 15,
     "integrity": 14
   }
 }
