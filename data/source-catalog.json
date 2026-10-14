@@ -6675,19 +6675,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17047",
+      "title": "7 km 外的区域基站能否服务机场，官方摘要仍只有试验设计没有答案",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17047",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-14",
+      "section": "brief",
+      "category": "regional-gbas-ground-station-spacing-flight-test"
+    },
+    {
+      "source_id": "ion:gnss2026-17030",
+      "title": "DFMC GBAS 天线群时延校准只改善同批次 L5/E5a，不能按型号通用",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17030",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-14",
+      "section": "brief",
+      "category": "dfmc-gbas-mla-agdv-calibration-lot-environment"
+    },
+    {
+      "source_id": "ion:gnss2026-16856",
+      "title": "载波短时断续时传播码相整平项，能续上合成宽带伪距但摘要不给误差量",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16856",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-14",
+      "section": "brief",
+      "category": "synthetic-meta-signal-carrier-outage-propagation"
+    },
+    {
+      "source_id": "ion:gnss2026-17162",
+      "title": "低仰角 DFMC 闪烁监测增密 4.1 倍，5° 附近的多路径误警仍然严重",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17162",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-14",
+      "section": "brief",
+      "category": "dfmc-gbas-low-elevation-scintillation-monitoring"
+    },
+    {
+      "source_id": "ion:gnss2026-17166",
+      "title": "四年 BDS-3 双频 SISRE 持续下降，但 ARAIM 先验仍受有限故障样本约束",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17166",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-14",
+      "section": "brief",
+      "category": "bds3-sis-performance-araim-prior-characterization"
+    },
+    {
+      "source_id": "doi:10.3390/s17071508",
+      "title": "剔对了坏星也会留偏：检验选择怎样改变位置解的均值",
+      "url": "https://doi.org/10.3390/s17071508",
+      "published": "2017-06-26",
+      "digest_date": "2026-10-14",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs15010176",
+      "title": "残差彼此相关时，为什么逐星 v-test 会把 HPL 拉到数百米",
+      "url": "https://doi.org/10.3390/rs15010176",
+      "published": "2022-12-28",
+      "digest_date": "2026-10-14",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs15122979",
+      "title": "URA 还是故障概率更危险：用最坏偏差扫描星座现代化后的 RAIM 风险",
+      "url": "https://doi.org/10.3390/rs15122979",
+      "published": "2023-06-07",
+      "digest_date": "2026-10-14",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 13,
-    "receiver-engineering": 120,
+    "receiver-engineering": 122,
     "low-cost-mobile": 35,
-    "positioning": 89
+    "positioning": 90
   },
   "learning_level_counts": {
-    "foundation": 89,
-    "intermediate": 89,
-    "advanced": 89
+    "foundation": 90,
+    "intermediate": 90,
+    "advanced": 90
   },
   "positioning_rotation": {
     "spp": 15,
@@ -6695,6 +6770,6 @@
     "ppp-ppp-rtk": 15,
     "dual-antenna-heading": 15,
     "smartphone-low-cost": 15,
-    "integrity": 14
+    "integrity": 15
   }
 }
