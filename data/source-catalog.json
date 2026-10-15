@@ -6750,23 +6750,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17056",
+      "title": "星载双频载波相位 EKF 已到分米级，厘米级仍是调参与硬件在环目标",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17056",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-15",
+      "section": "brief",
+      "category": "leo-onboard-gnss-pod-ekf-fde"
+    },
+    {
+      "source_id": "ion:gnss2026-17188",
+      "title": "在线改正 Starlink 星历把车载 3D RMSE 从 150 m 压到 8.41 m",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17188",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-15",
+      "section": "brief",
+      "category": "starlink-doppler-online-ephemeris-correction-pnt"
+    },
+    {
+      "source_id": "ion:gnss2026-17012",
+      "title": "3D 场景先验把 5G 仿真 RMSE 降到 1.44 m，但尚未过真实街谷",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17012",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-15",
+      "section": "brief",
+      "category": "5g-raytracing-prior-vbakf-urban-positioning"
+    },
+    {
+      "source_id": "ion:gnss2026-16962",
+      "title": "Galileo 二代 HAS 正在权衡取数时间与复杂度，最终服务定义尚未定案",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16962",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-15",
+      "section": "brief",
+      "category": "galileo-second-generation-has-concept-tradeoff"
+    },
+    {
+      "source_id": "ion:gnss2026-17145",
+      "title": "月面可扩展双向测距原型平均误差低于 2 m，时钟标定仍是核心",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17145",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-15",
+      "section": "brief",
+      "category": "lunar-cdma-two-way-ranging-clock-characterization"
+    },
+    {
+      "source_id": "doi:10.3390/s19051066",
+      "title": "先问整数模型够不够强：ADOP 怎样把星数、几何与噪声压成一个尺度",
+      "url": "https://doi.org/10.3390/s19051066",
+      "published": "2019-03-02",
+      "digest_date": "2026-10-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-024-00141-w",
+      "title": "第一名不够可信时别清空信息：多个整数候选怎样拆成可固定与可加权两部分",
+      "url": "https://doi.org/10.1186/s43020-024-00141-w",
+      "published": "2024-07-08",
+      "digest_date": "2026-10-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01976-9",
+      "title": "站间线性插值不够时：沿电离层穿刺点轨迹建模怎样稳住低纬 NRTK",
+      "url": "https://doi.org/10.1007/s10291-025-01976-9",
+      "published": "2025-10-18",
+      "digest_date": "2026-10-15",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 10,
     "tracking": 13,
-    "receiver-engineering": 122,
+    "receiver-engineering": 124,
     "low-cost-mobile": 35,
-    "positioning": 90
+    "positioning": 91
   },
   "learning_level_counts": {
-    "foundation": 90,
-    "intermediate": 90,
-    "advanced": 90
+    "foundation": 91,
+    "intermediate": 91,
+    "advanced": 91
   },
   "positioning_rotation": {
     "spp": 15,
-    "rtk": 15,
+    "rtk": 16,
     "ppp-ppp-rtk": 15,
     "dual-antenna-heading": 15,
     "smartphone-low-cost": 15,
