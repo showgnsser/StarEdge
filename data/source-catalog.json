@@ -6825,22 +6825,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17063",
+      "title": "PPP-AR 与 PPP-RTK 已能覆盖不同芯片路径，但厘米指标仍来自厂商试验",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17063",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-16",
+      "section": "brief",
+      "category": "commercial-pppar-ppprtk-onchip-ssr2osr"
+    },
+    {
+      "source_id": "ion:gnss2026-17178",
+      "title": "双频欺骗偏差小到 0.05 chip 时，跨频一致性检出率只约一半",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17178",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-16",
+      "section": "brief",
+      "category": "dual-frequency-coherent-spoofing-alignment-cfar"
+    },
+    {
+      "source_id": "ion:gnss2026-17053",
+      "title": "路口视觉事件把 5.515 km 失锁路线误差压到约 4–5 m，深度残差本身贡献很小",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17053",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-16",
+      "section": "brief",
+      "category": "gnss-denied-route-progress-landmark-correction"
+    },
+    {
+      "source_id": "ion:gnss2026-16826",
+      "title": "三引擎一致才报固定可把林下可用率抬到 95–100%，但比较由厂商控制",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16826",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-16",
+      "section": "brief",
+      "category": "triple-engine-rtk-consensus-degraded-field-test"
+    },
+    {
+      "source_id": "ion:gnss2026-16945",
+      "title": "单颗月球中继配合着陆器差分多普勒，仿真 1.8 h 后进入 10 m 内",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16945",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-16",
+      "section": "brief",
+      "category": "lunar-rover-single-relay-differential-doppler-ranging"
+    },
+    {
+      "source_id": "doi:10.3390/electronics15010171",
+      "title": "不必重建整段波形：低维投影怎样保住码相位—多普勒峰",
+      "url": "https://doi.org/10.3390/electronics15010171",
+      "published": "2025-12-30",
+      "digest_date": "2026-10-16",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs13102000",
+      "title": "让预滤波器守住单通道：级联矢量环怎样跨过 100 g 动态",
+      "url": "https://doi.org/10.3390/rs13102000",
+      "published": "2021-05-20",
+      "digest_date": "2026-10-16",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01858-0",
+      "title": "实时电离层图还有几 TECU 误差：学习修图怎样改善单频 SPP",
+      "url": "https://doi.org/10.1007/s10291-025-01858-0",
+      "published": "2025-05-12",
+      "digest_date": "2026-10-16",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 10,
-    "tracking": 13,
+    "acquisition": 11,
+    "tracking": 14,
     "receiver-engineering": 124,
     "low-cost-mobile": 35,
-    "positioning": 91
+    "positioning": 92
   },
   "learning_level_counts": {
-    "foundation": 91,
-    "intermediate": 91,
-    "advanced": 91
+    "foundation": 92,
+    "intermediate": 92,
+    "advanced": 92
   },
   "positioning_rotation": {
-    "spp": 15,
+    "spp": 16,
     "rtk": 16,
     "ppp-ppp-rtk": 15,
     "dual-antenna-heading": 15,
