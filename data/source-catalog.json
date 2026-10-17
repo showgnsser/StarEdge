@@ -6900,24 +6900,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17175",
+      "title": "高空气球在 143 km 外仍能跟踪 5G 基站，但四段 3D RMSE 相差四倍",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17175",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-17",
+      "section": "brief",
+      "category": "high-altitude-multicell-5g-opportunistic-navigation"
+    },
+    {
+      "source_id": "ion:gnss2026-17125",
+      "title": "厂商 NRTK 在美国实测 95% 水平误差约 24 cm，厘米结论不能只看中位数",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17125",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-17",
+      "section": "brief",
+      "category": "commercial-hybrid-nrtk-ssr2osr-us-field-campaign"
+    },
+    {
+      "source_id": "ion:gnss2026-17169",
+      "title": "12 颗 Starlink DTC 差分多普勒把 124 km 初差收敛到 2.7 m 水平精度",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17169",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-17",
+      "section": "brief",
+      "category": "starlink-direct-to-cell-differential-doppler-positioning"
+    },
+    {
+      "source_id": "ion:gnss2026-16814",
+      "title": "CRPA 场地—实验室复现显示照射区可抑制约 15 dB，阴影区反而接近 0 dB",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16814",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-17",
+      "section": "brief",
+      "category": "field-to-lab-3d-interference-crpa-validation"
+    },
+    {
+      "source_id": "ion:gnss2026-17110",
+      "title": "三套 UTC(k) 把光纤证据送进 Galileo 监测链，但公开摘要仍缺量化告警性能",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17110",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-17",
+      "section": "brief",
+      "category": "fiber-assisted-galileo-timing-service-monitoring"
+    },
+    {
+      "source_id": "doi:10.3390/s18041078",
+      "title": "先把不可估的账做平：未组合 PPP-RTK 怎样形成可用改正",
+      "url": "https://doi.org/10.3390/s18041078",
+      "published": "2018-04-03",
+      "digest_date": "2026-10-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s23010229",
+      "title": "改正也有记忆：双重滤波为何会让 PPP-RTK 过度自信",
+      "url": "https://doi.org/10.3390/s23010229",
+      "published": "2022-12-26",
+      "digest_date": "2026-10-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs15112792",
+      "title": "多频先固定容易的组合：PPP-RTK 怎样把 77% 解压到三历元内",
+      "url": "https://doi.org/10.3390/rs15112792",
+      "published": "2023-05-27",
+      "digest_date": "2026-10-17",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 124,
+    "receiver-engineering": 126,
     "low-cost-mobile": 35,
-    "positioning": 92
+    "positioning": 93
   },
   "learning_level_counts": {
-    "foundation": 92,
-    "intermediate": 92,
-    "advanced": 92
+    "foundation": 93,
+    "intermediate": 93,
+    "advanced": 93
   },
   "positioning_rotation": {
     "spp": 16,
     "rtk": 16,
-    "ppp-ppp-rtk": 15,
+    "ppp-ppp-rtk": 16,
     "dual-antenna-heading": 15,
     "smartphone-low-cost": 15,
     "integrity": 15
