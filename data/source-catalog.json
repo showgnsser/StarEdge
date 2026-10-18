@@ -6975,19 +6975,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16965",
+      "title": "510 km 低轨 Celeste 首次验证 L/S 双频测距，但公开摘要尚未给误差统计",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16965",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-18",
+      "section": "brief",
+      "category": "celeste-leo-pnt-in-orbit-l-s-ranging"
+    },
+    {
+      "source_id": "ion:gnss2026-16917",
+      "title": "LuGRE 月面解算有 65% 依赖真旁瓣，伪高度约束后的 RMS 仍约 8 km",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16917",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-18",
+      "section": "brief",
+      "category": "lugre-sidelobe-lunar-surface-positioning-filtering"
+    },
+    {
+      "source_id": "ion:gnss2026-16944",
+      "title": "单星月面多普勒仿真把最终 3D 均值误差降低约 19 m，相对论项漏建会放大 2.88 倍",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16944",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-18",
+      "section": "brief",
+      "category": "lunar-rover-single-satellite-doppler-correlated-ephemeris-relativity"
+    },
+    {
+      "source_id": "ion:gnss2026-17112",
+      "title": "Galileo SAS 已用五星实信号完成位置级认证演示，但还不是连续 PVT 认证",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17112",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-18",
+      "section": "brief",
+      "category": "galileo-sas-live-e6c-range-position-authentication"
+    },
+    {
+      "source_id": "ion:gnss2026-16838",
+      "title": "L1 闪烁仿真中抛物近似基本保住强度统计，VHF 相位却可偏数百弧度",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16838",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-18",
+      "section": "brief",
+      "category": "ionospheric-scintillation-parabolic-full-propagation-validity"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-024-01885-8",
+      "title": "整数没有‘已知’：怎样把固定结果的随机性带回总体故障检验",
+      "url": "https://doi.org/10.1007/s00190-024-01885-8",
+      "published": "2024-09-12",
+      "digest_date": "2026-10-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01806-4",
+      "title": "功效不能只画一条曲线：怎样把模型强度、故障类型与门限不确定度一起扫完",
+      "url": "https://doi.org/10.1007/s10291-024-01806-4",
+      "published": "2025-03-08",
+      "digest_date": "2026-10-18",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-025-01952-3",
+      "title": "从‘有故障’到‘哪个偏差’：多峰分布怎样决定显著性检验的接受域",
+      "url": "https://doi.org/10.1007/s10291-025-01952-3",
+      "published": "2025-09-27",
+      "digest_date": "2026-10-18",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 126,
+    "receiver-engineering": 128,
     "low-cost-mobile": 35,
-    "positioning": 93
+    "positioning": 94
   },
   "learning_level_counts": {
-    "foundation": 93,
-    "intermediate": 93,
-    "advanced": 93
+    "foundation": 94,
+    "intermediate": 94,
+    "advanced": 94
   },
   "positioning_rotation": {
     "spp": 16,
@@ -6995,6 +7070,6 @@
     "ppp-ppp-rtk": 16,
     "dual-antenna-heading": 15,
     "smartphone-low-cost": 15,
-    "integrity": 15
+    "integrity": 16
   }
 }
