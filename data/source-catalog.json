@@ -7125,25 +7125,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-16979",
+      "title": "MADOCA-PPP 八站运营评估把平均收敛从 485 s 压到 90 s，但结果依赖服务区与验收门限",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16979",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-20",
+      "section": "brief",
+      "category": "madoca-ppp-operational-multi-frequency-performance"
+    },
+    {
+      "source_id": "ion:gnss2026-17034",
+      "title": "三零陷模拟前端把完整双频相位卫星数从 28 降到 17，移动零陷的垂向 SPP RMS 升至 6.0 m",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17034",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-20",
+      "section": "brief",
+      "category": "analog-crpa-nulling-measurement-positioning-impact"
+    },
+    {
+      "source_id": "ion:gnss2026-17158",
+      "title": "双天线自参照监测在 12 万个名义历元零虚警，但约 11 m 单天线偏差才触及检出底线",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17158",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-20",
+      "section": "brief",
+      "category": "self-referenced-dual-antenna-geometric-consistency"
+    },
+    {
+      "source_id": "ion:gnss2026-17174",
+      "title": "两轮太阳活动峰值各取 72 天，L1 闪烁事件接近对半，L2C 的 59.5% 对 40.5% 主要受星座完备度影响",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17174",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-20",
+      "section": "brief",
+      "category": "auroral-gnss-scintillation-solar-cycle-comparison"
+    },
+    {
+      "source_id": "ion:gnss2026-16929",
+      "title": "同 EIRP 下 S 波段比 UHF 少 18–20 dB，穿墙还多损约 16 dB",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16929",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-20",
+      "section": "brief",
+      "category": "leo-pnt-uhf-s-band-propagation-hardware-test"
+    },
+    {
+      "source_id": "doi:10.1007/978-3-642-20338-1_118",
+      "title": "刚性阵列不是验后尺子：怎样把已知边长与夹角直接写进整数估计",
+      "url": "https://doi.org/10.1007/978-3-642-20338-1_118",
+      "published": "2012",
+      "digest_date": "2026-10-20",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.5772/38381",
+      "title": "约束能否扛住飞行动态：从搜索上下界到单历元无辅助定姿",
+      "url": "https://doi.org/10.5772/38381",
+      "published": "2012-02-24",
+      "digest_date": "2026-10-20",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s140712715",
+      "title": "姿态不是旁路产品：可靠阵列整数解怎样反过来增强相对定位",
+      "url": "https://doi.org/10.3390/s140712715",
+      "published": "2014-07-17",
+      "digest_date": "2026-10-20",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 129,
+    "receiver-engineering": 131,
     "low-cost-mobile": 36,
-    "positioning": 95
+    "positioning": 96
   },
   "learning_level_counts": {
-    "foundation": 95,
-    "intermediate": 95,
-    "advanced": 95
+    "foundation": 96,
+    "intermediate": 96,
+    "advanced": 96
   },
   "positioning_rotation": {
     "spp": 16,
     "rtk": 16,
     "ppp-ppp-rtk": 16,
-    "dual-antenna-heading": 15,
+    "dual-antenna-heading": 16,
     "smartphone-low-cost": 16,
     "integrity": 16
   }
