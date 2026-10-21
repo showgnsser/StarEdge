@@ -7200,22 +7200,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17119",
+      "title": "LuGRE 从地月航程与月面识别出 229 条色散掩星弧，几何参照下分类一致率为 95.6%",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17119",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-21",
+      "section": "brief",
+      "category": "lunar-gnss-dispersive-occultation-arc-catalog"
+    },
+    {
+      "source_id": "ion:gnss2026-16993",
+      "title": "把空间天气信息接入 GBAS 后，GAST-E 名义检验统计量降低 20%，但适航认证仍未闭环",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16993",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-21",
+      "section": "brief",
+      "category": "space-weather-informed-gbas-availability"
+    },
+    {
+      "source_id": "ion:gnss2026-16919",
+      "title": "外网格 STEC 用自适应 k-NN 与倾斜因子回归后，交叉验证 RMSE 从 0.53 m 降到 0.35 m",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16919",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-21",
+      "section": "brief",
+      "category": "outer-grid-stec-adaptive-knn-obliquity-regression"
+    },
+    {
+      "source_id": "ion:gnss2026-16799",
+      "title": "48 次无人机地面初始化试验暴露了协方差乐观：既有多路径模型没有包住位置误差",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16799",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-21",
+      "section": "brief",
+      "category": "uas-surface-navigation-experimental-integrity-gap"
+    },
+    {
+      "source_id": "ion:gnss2026-16878",
+      "title": "一维 INS/里程计把 30 km 无 GNSS 线路的里程 RMSE 从 16.073 m 降到 1.335 m",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16878",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-21",
+      "section": "brief",
+      "category": "railway-one-dimensional-ins-odometer-recursion"
+    },
+    {
+      "source_id": "gps-sps-performance-standard-2020",
+      "title": "先把责任边界画清：SIS 误差、卫星几何与用户 SPP 为什么不是同一个指标",
+      "url": "https://navcen.uscg.gov/sites/default/files/pdf/gps/geninfo/2020SPSPerformanceStandardFINAL.pdf",
+      "published": "2020-04",
+      "digest_date": "2026-10-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s20174921",
+      "title": "两台接收机怎样合一个坐标：简单 PDOP 权能改善，也可能把直觉写反",
+      "url": "https://doi.org/10.3390/s20174921",
+      "published": "2020-08-31",
+      "digest_date": "2026-10-21",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "arxiv:2603.16420",
+      "title": "高楼把高斯尾拉坏以后：Logistic 似然怎样把城市伪距变成可迭代的稳健权",
+      "url": "https://arxiv.org/abs/2603.16420",
+      "published": "2026-03-17",
+      "digest_date": "2026-10-21",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 131,
+    "receiver-engineering": 133,
     "low-cost-mobile": 36,
-    "positioning": 96
+    "positioning": 97
   },
   "learning_level_counts": {
-    "foundation": 96,
-    "intermediate": 96,
-    "advanced": 96
+    "foundation": 97,
+    "intermediate": 97,
+    "advanced": 97
   },
   "positioning_rotation": {
-    "spp": 16,
+    "spp": 17,
     "rtk": 16,
     "ppp-ppp-rtk": 16,
     "dual-antenna-heading": 16,
