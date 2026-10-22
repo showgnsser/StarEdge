@@ -7275,23 +7275,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20765",
+      "title": "三套低成本车载方案同场比较：城市段 NRTK 水平最好，PPP-RTK/IMU 连续性最好",
+      "url": "https://doi.org/10.33012/2026.20765",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-22",
+      "section": "brief",
+      "category": "low-cost-road-ppp-rtk-nrtk-comparison"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20788",
+      "title": "冻结 Kalman 阻断相位跳变污染：持续故障不再被创新衰减吞掉",
+      "url": "https://doi.org/10.33012/2026.20788",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-22",
+      "section": "brief",
+      "category": "frozen-kalman-dd-carrier-jump-detection"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20769",
+      "title": "TD-CMC 不是万能多路径探测器：门限与残差包络必须联合设计",
+      "url": "https://doi.org/10.33012/2026.20769",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-22",
+      "section": "brief",
+      "category": "td-cmc-screening-rtk-ambiguity-overbound"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20827",
+      "title": "开环观测频繁衰落时，分段双向滤波避免坏区拖垮健康区",
+      "url": "https://doi.org/10.33012/2026.20827",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-22",
+      "section": "brief",
+      "category": "segmented-complex-waveform-open-loop-filter"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20674",
+      "title": "L1C 的分裂频谱提醒：旧式双差相关器可能比窄相关器更差",
+      "url": "https://doi.org/10.33012/2026.20674",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-22",
+      "section": "brief",
+      "category": "gps-l1c-mboc-correlation-multipath-comparison"
+    },
+    {
+      "source_id": "doi:10.3390/rs16091617",
+      "title": "先别把 CMC 全叫多路径：码相组合怎样把固件故障也照出来",
+      "url": "https://doi.org/10.3390/rs16091617",
+      "published": "2024-04-30",
+      "digest_date": "2026-10-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02138-1",
+      "title": "墙不挡星也会弯相位：可控衍射怎样侵蚀模糊度固定",
+      "url": "https://doi.org/10.1007/s10291-026-02138-1",
+      "published": "2026-10-06",
+      "digest_date": "2026-10-22",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs16132320",
+      "title": "大气偏差顶住窄巷时：EWL→WL→NL 序贯定整怎样加速 NRTK",
+      "url": "https://doi.org/10.3390/rs16132320",
+      "published": "2024-06-25",
+      "digest_date": "2026-10-22",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 133,
+    "receiver-engineering": 135,
     "low-cost-mobile": 36,
-    "positioning": 97
+    "positioning": 98
   },
   "learning_level_counts": {
-    "foundation": 97,
-    "intermediate": 97,
-    "advanced": 97
+    "foundation": 98,
+    "intermediate": 98,
+    "advanced": 98
   },
   "positioning_rotation": {
     "spp": 17,
-    "rtk": 16,
+    "rtk": 17,
     "ppp-ppp-rtk": 16,
     "dual-antenna-heading": 16,
     "smartphone-low-cost": 16,
