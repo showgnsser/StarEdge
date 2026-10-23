@@ -7350,24 +7350,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnss2026-17020",
+      "title": "Galileo HAS 落到紧凑接收机：公开改正可测，但厂商结果仍需独立复核",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17020",
+      "published": "2026-09-17",
+      "digest_date": "2026-10-23",
+      "section": "brief",
+      "category": "galileo-has-mosaic-g5-position-time-performance"
+    },
+    {
+      "source_id": "ion:gnss2026-17033",
+      "title": "专用 LEO-PNT 怎样改变 PPP 收敛：几何更快变化不等于已有星座已达标",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17033",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-23",
+      "section": "brief",
+      "category": "leo-pnt-constellation-ppp-convergence-evolution"
+    },
+    {
+      "source_id": "ion:gnss2026-16980",
+      "title": "无人机协作叠加 LEO-PNT：仿真能压住失锁，但父机本身仍是单点条件",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16980",
+      "published": "2026-09-18",
+      "digest_date": "2026-10-23",
+      "section": "brief",
+      "category": "leo-pnt-cooperative-uav-navigation-hil"
+    },
+    {
+      "source_id": "ion:gnss2026-17180",
+      "title": "气球在同频干扰下追踪 7 个 5G 基站：11.1 m 结果是混合 PNT，不是纯 5G",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17180",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-23",
+      "section": "brief",
+      "category": "cognitive-5g-aerial-navigation-cochannel-interference"
+    },
+    {
+      "source_id": "ion:gnss2026-16820",
+      "title": "Galileo H-ARAIM 用 9.5 年监测更新先验：异常反应与广播 ISM 同样重要",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16820",
+      "published": "2026-09-16",
+      "digest_date": "2026-10-23",
+      "section": "brief",
+      "category": "galileo-haraim-long-term-performance-ism"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-017-0678-6",
+      "title": "PPP 的地基会动：实时轨道钟产品怎样把星座差异带进用户解",
+      "url": "https://doi.org/10.1007/s10291-017-0678-6",
+      "published": "2017-11-06",
+      "digest_date": "2026-10-23",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00064-4",
+      "title": "不是每个参数都能单独估：UDUC PPP-RTK 怎样用 S-basis 把秩亏写成可用改正",
+      "url": "https://doi.org/10.1186/s43020-022-00064-4",
+      "published": "2022-02-14",
+      "digest_date": "2026-10-23",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-022-00068-0",
+      "title": "从 EWL 到 L1 逐级收口：多频多星座 PPP-RTK 怎样在车载遮挡后重新定整",
+      "url": "https://doi.org/10.1186/s43020-022-00068-0",
+      "published": "2022-04-11",
+      "digest_date": "2026-10-23",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 135,
+    "receiver-engineering": 137,
     "low-cost-mobile": 36,
-    "positioning": 98
+    "positioning": 99
   },
   "learning_level_counts": {
-    "foundation": 98,
-    "intermediate": 98,
-    "advanced": 98
+    "foundation": 99,
+    "intermediate": 99,
+    "advanced": 99
   },
   "positioning_rotation": {
     "spp": 17,
     "rtk": 17,
-    "ppp-ppp-rtk": 16,
+    "ppp-ppp-rtk": 17,
     "dual-antenna-heading": 16,
     "smartphone-low-cost": 16,
     "integrity": 16
