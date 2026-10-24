@@ -7425,25 +7425,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20712",
+      "title": "把衍射从误差变成尺子：手机 C/N0 可给楼边位置与屋顶高度米级约束",
+      "url": "https://doi.org/10.33012/2026.20712",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-24",
+      "section": "brief",
+      "category": "gnss-diffraction-lod1-building-edge-renewal"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20778",
+      "title": "手表周跳先修再入图：2% 注入下比稳健降权少 4.3 cm 三维 RMSE",
+      "url": "https://doi.org/10.33012/2026.20778",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-24",
+      "section": "brief",
+      "category": "smartwatch-dia-cycle-slip-repair-fgo"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20779",
+      "title": "人体不是随机噪声：身体相对方位定权让手机 RTK 水平 RMSE 降 17.2%–39.7%",
+      "url": "https://doi.org/10.33012/2026.20779",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-24",
+      "section": "brief",
+      "category": "smartphone-body-proximity-transformer-stochastic-model"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20745",
+      "title": "载波短时中断不必杀死合成宽带码：有限传播 leveling 项并显式标记",
+      "url": "https://doi.org/10.33012/2026.20745",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-24",
+      "section": "brief",
+      "category": "synthetic-meta-signal-carrier-outage-bounded-propagation"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20819",
+      "title": "三道零陷也会伤真星：完整双频相位星数从 28 降到 17",
+      "url": "https://doi.org/10.33012/2026.20819",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-24",
+      "section": "brief",
+      "category": "analog-crpa-null-measurement-positioning-side-effects"
+    },
+    {
+      "source_id": "doi:10.3390/s140609669",
+      "title": "阵列不先校准，方向就没有物理意义：把固定误差与来波相关误差分开",
+      "url": "https://doi.org/10.3390/s140609669",
+      "published": "2014-05-30",
+      "digest_date": "2026-10-24",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s23010077",
+      "title": "两副天线给的是基线，不是机体真轴：圆锥运动怎样让安装失准变得可估",
+      "url": "https://doi.org/10.3390/s23010077",
+      "published": "2022-12-21",
+      "digest_date": "2026-10-24",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/app16073289",
+      "title": "十厘米阵列也要先把整数站稳：冗余平面与相位偏差迭代怎样服务抗欺骗定向",
+      "url": "https://doi.org/10.3390/app16073289",
+      "published": "2026-03-28",
+      "digest_date": "2026-10-24",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 137,
+    "receiver-engineering": 139,
     "low-cost-mobile": 36,
-    "positioning": 99
+    "positioning": 100
   },
   "learning_level_counts": {
-    "foundation": 99,
-    "intermediate": 99,
-    "advanced": 99
+    "foundation": 100,
+    "intermediate": 100,
+    "advanced": 100
   },
   "positioning_rotation": {
     "spp": 17,
     "rtk": 17,
     "ppp-ppp-rtk": 17,
-    "dual-antenna-heading": 16,
+    "dual-antenna-heading": 17,
     "smartphone-low-cost": 16,
     "integrity": 16
   }
