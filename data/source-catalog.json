@@ -7500,19 +7500,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20688",
+      "title": "Galileo 为 H-ARAIM 补齐长期证据与广播入口：9.5 年监测、在轨异常响应和 ISM 同时闭环",
+      "url": "https://doi.org/10.33012/2026.20688",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-25",
+      "section": "brief",
+      "category": "galileo-haraim-performance-ism"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20880",
+      "title": "H-ARAIM 从全球仿真走到近 10 h 无人机数据：真正的短板是双频可见性与排除候选策略",
+      "url": "https://doi.org/10.33012/2026.20880",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-25",
+      "section": "brief",
+      "category": "haraim-simulation-flight-assessment"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20675",
+      "title": "多路径不是平稳白噪声：先自适应分窗，再在局部平稳段做 PSD 包络",
+      "url": "https://doi.org/10.33012/2026.20675",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-25",
+      "section": "brief",
+      "category": "nonstationary-code-multipath-window-overbound"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20849",
+      "title": "一个全局高斯包络不再包打天下：用 C/N0 与高度角预测质量组，再逐组保守包络",
+      "url": "https://doi.org/10.33012/2026.20849",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-25",
+      "section": "brief",
+      "category": "ml-quality-index-gaussian-overbound"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20705",
+      "title": "NRTK 改正也要自报健康：把参考站异常与大气建模错误变成质量指标和状态位",
+      "url": "https://doi.org/10.33012/2026.20705",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-25",
+      "section": "brief",
+      "category": "nrtk-correction-integrity-monitoring"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-020-00034-8",
+      "title": "先把“可信”写成可检验事件：AL、PL、FDE 与威胁模型怎样闭环",
+      "url": "https://doi.org/10.1186/s43020-020-00034-8",
+      "published": "2021-02-08",
+      "digest_date": "2026-10-25",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-020-00018-8",
+      "title": "用户之前先守住改正：用监测站残差给轨道钟服务加 UDRE 与告警",
+      "url": "https://doi.org/10.1186/s43020-020-00018-8",
+      "published": "2020-10-12",
+      "digest_date": "2026-10-25",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-023-00099-1",
+      "title": "把固定信息当成也会故障的观测：单历元 PPP-RTK 怎样构造多假设保护级",
+      "url": "https://doi.org/10.1186/s43020-023-00099-1",
+      "published": "2023-04-03",
+      "digest_date": "2026-10-25",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 139,
+    "receiver-engineering": 141,
     "low-cost-mobile": 36,
-    "positioning": 100
+    "positioning": 101
   },
   "learning_level_counts": {
-    "foundation": 100,
-    "intermediate": 100,
-    "advanced": 100
+    "foundation": 101,
+    "intermediate": 101,
+    "advanced": 101
   },
   "positioning_rotation": {
     "spp": 17,
@@ -7520,6 +7595,6 @@
     "ppp-ppp-rtk": 17,
     "dual-antenna-heading": 17,
     "smartphone-low-cost": 16,
-    "integrity": 16
+    "integrity": 17
   }
 }
