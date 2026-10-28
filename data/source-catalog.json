@@ -7575,26 +7575,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20761",
+      "title": "4 s 增量因子图压低城市 PPP/RTK 长尾，但收益来自 GNSS、IMU 与里程计的联合约束",
+      "url": "https://doi.org/10.33012/2026.20761",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-28",
+      "section": "brief",
+      "category": "incremental-fgo-ppp-rtk-urban-tail"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20655",
+      "title": "完整性监测先从射频链校准：多通道前端要能在线量到天线—ADC 的传递函数",
+      "url": "https://doi.org/10.33012/2026.20655",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-28",
+      "section": "brief",
+      "category": "multichannel-multiband-rffe-transfer-calibration"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20735",
+      "title": "先识别场景、再给单星分级：两层分类在 Google 动态数据上把水平 RMSE 降约 65%",
+      "url": "https://doi.org/10.33012/2026.20735",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-28",
+      "section": "brief",
+      "category": "scene-aware-signal-classification-multipath-nlos"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20706",
+      "title": "林下连续性可增加最多 27%，但这是 GPS/INS 后处理与特定 IMU 初始化共同给出的结果",
+      "url": "https://doi.org/10.33012/2026.20706",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-28",
+      "section": "brief",
+      "category": "dense-canopy-gps-ins-continuity"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20738",
+      "title": "误差感知注意力把手机 PPP RMS 从 2.3 m 降到 1.8 m，跨设备测试仍需跨路线与跨城市验证",
+      "url": "https://doi.org/10.33012/2026.20738",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-28",
+      "section": "brief",
+      "category": "error-aware-attention-smartphone-ppp"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-024-01705-8",
+      "title": "Android 不直接给伪距：先把时钟、发射时刻与状态位还原成可处理观测",
+      "url": "https://doi.org/10.1007/s10291-024-01705-8",
+      "published": "2024-07-27",
+      "digest_date": "2026-10-28",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s12518-022-00467-7",
+      "title": "双频标识不等于双频能力：用可见性、SNR、周跳与重复性给 Pixel 5 体检",
+      "url": "https://doi.org/10.1007/s12518-022-00467-7",
+      "published": "2022-10-13",
+      "digest_date": "2026-10-28",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s23031205",
+      "title": "先用 Doppler 补齐速度，再让 TDCP 拉紧位移：纯 GNSS 两阶段因子图怎样避开手机定整难题",
+      "url": "https://doi.org/10.3390/s23031205",
+      "published": "2023-01-20",
+      "digest_date": "2026-10-28",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 141,
-    "low-cost-mobile": 36,
-    "positioning": 101
+    "receiver-engineering": 142,
+    "low-cost-mobile": 37,
+    "positioning": 102
   },
   "learning_level_counts": {
-    "foundation": 101,
-    "intermediate": 101,
-    "advanced": 101
+    "foundation": 102,
+    "intermediate": 102,
+    "advanced": 102
   },
   "positioning_rotation": {
     "spp": 17,
     "rtk": 17,
     "ppp-ppp-rtk": 17,
     "dual-antenna-heading": 17,
-    "smartphone-low-cost": 16,
+    "smartphone-low-cost": 17,
     "integrity": 17
   }
 }
