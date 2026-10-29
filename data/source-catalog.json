@@ -7650,22 +7650,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00221-z",
+      "title": "泛热带 GNSS-R 相干性可解释约六成，但解释的是代理量而不是相位真值",
+      "url": "https://doi.org/10.1186/s43020-026-00221-z",
+      "published": "2026-10-21",
+      "digest_date": "2026-10-29",
+      "section": "brief",
+      "category": "cygnss-ddm-coherence-explainable-land-controls"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02159-w",
+      "title": "Swarm 十二年共检出 87,594 次失锁；欧洲—西亚异常与干扰报告同现，但尚不能反演发射源",
+      "url": "https://doi.org/10.1007/s10291-026-02159-w",
+      "published": "2026-10-16",
+      "digest_date": "2026-10-29",
+      "section": "brief",
+      "category": "swarm-loss-of-lock-space-weather-regional-interference"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02168-9",
+      "title": "飞行代表性硬件在环把 LEO 轨道做到 9.5 cm、时间同步到 1.0 ns，仍不是在轨闭环验收",
+      "url": "https://doi.org/10.1007/s10291-026-02168-9",
+      "published": "2026-10-16",
+      "digest_date": "2026-10-29",
+      "section": "brief",
+      "category": "leo-pnt-hardware-in-loop-odts-csac"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00223-x",
+      "title": "全频 PPP-AR 的 98% 首历元厘米级来自产品—接收机闭合，机器学习只能做关联归因",
+      "url": "https://doi.org/10.1186/s43020-026-00223-x",
+      "published": "2026-10-14",
+      "digest_date": "2026-10-29",
+      "section": "brief",
+      "category": "all-frequency-ppp-ar-product-completeness-attribution"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02124-y",
+      "title": "三座 12 m VLBI 天线已直接观测 Galileo E1/E6，但皮秒级精度仍被百皮秒系统项压住",
+      "url": "https://doi.org/10.1007/s00190-026-02124-y",
+      "published": "2026-10-08",
+      "digest_date": "2026-10-29",
+      "section": "brief",
+      "category": "galileo-vlbi-auscope-space-tie"
+    },
+    {
+      "source_id": "fig:13837",
+      "title": "检测不是解算后的补丁：残差落在哪个分区，就决定输出哪一个估计",
+      "url": "https://www.fig.net/resources/proceedings/fig_proceedings/fig2026/papers/ts01g/TS01G_teunissen_13837.pdf",
+      "published": "2026-05-24",
+      "digest_date": "2026-10-29",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-024-01859-w",
+      "title": "把“识别对了”改成“后果可接受”：惩罚化分区怎样主动留出不可用区",
+      "url": "https://doi.org/10.1007/s00190-024-01859-w",
+      "published": "2024-05-21",
+      "digest_date": "2026-10-29",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/1345_2024_246",
+      "title": "完整性不能只看协方差：把检测错误混进纯 GNSS SPP 的位置分布",
+      "url": "https://doi.org/10.1007/1345_2024_246",
+      "published": "2024-07-12",
+      "digest_date": "2026-10-29",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 142,
+    "receiver-engineering": 144,
     "low-cost-mobile": 37,
-    "positioning": 102
+    "positioning": 103
   },
   "learning_level_counts": {
-    "foundation": 102,
-    "intermediate": 102,
-    "advanced": 102
+    "foundation": 103,
+    "intermediate": 103,
+    "advanced": 103
   },
   "positioning_rotation": {
-    "spp": 17,
+    "spp": 18,
     "rtk": 17,
     "ppp-ppp-rtk": 17,
     "dual-antenna-heading": 17,
