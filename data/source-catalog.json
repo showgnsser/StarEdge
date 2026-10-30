@@ -7725,23 +7725,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02172-z",
+      "title": "把路线与星座时间一起规划，城市测图的连续固定段可由 56 m 增至 744 m",
+      "url": "https://doi.org/10.1007/s10291-026-02172-z",
+      "published": "2026-10-28",
+      "digest_date": "2026-10-30",
+      "section": "brief",
+      "category": "route-time-aware-gnss-mission-planning"
+    },
+    {
+      "source_id": "doi:10.1186/s40623-026-02573-x",
+      "title": "近场 GNSS 看到 2011 与 2026 位移图样近乎一致，但只能约束矩与位置，不能拆开长宽滑移",
+      "url": "https://doi.org/10.1186/s40623-026-02573-x",
+      "published": "2026-10-26",
+      "digest_date": "2026-10-30",
+      "section": "brief",
+      "category": "near-field-gnss-repeating-asperity-evidence"
+    },
+    {
+      "source_id": "doi:10.1093/gji/ggag461",
+      "title": "R3DI 用多元中位数逐步加站，合成速度恢复差中位数仅 0.04 mm/yr",
+      "url": "https://doi.org/10.1093/gji/ggag461",
+      "published": "2026-10-24",
+      "digest_date": "2026-10-30",
+      "section": "brief",
+      "category": "robust-3d-gnss-strain-imaging-europe"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02161-2",
+      "title": "低成本 GNSS+MEMS 可重建 0.5 mm 振动，但 0.1–0.2 mm 是受控振动台误差，不是现场保证",
+      "url": "https://doi.org/10.1007/s10291-026-02161-2",
+      "published": "2026-10-14",
+      "digest_date": "2026-10-30",
+      "section": "brief",
+      "category": "mass-market-gnss-mems-millimeter-vibration"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20654",
+      "title": "闪烁时谁先失锁不只看频率：22 dB-Hz 余量与鉴相器拉入范围共同决定 L1/L2C/L5 排名",
+      "url": "https://doi.org/10.33012/2026.20654",
+      "published": "2026-10-07",
+      "digest_date": "2026-10-30",
+      "section": "brief",
+      "category": "gps-multifrequency-scintillation-loss-of-lock"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-025-01945-7",
+      "title": "不显式搜索整数也不等于没有整数风险：歧义函数的周期似然与全局地形",
+      "url": "https://doi.org/10.1007/s00190-025-01945-7",
+      "published": "2025-04-04",
+      "digest_date": "2026-10-30",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/electronics14132712",
+      "title": "固定失败后别只删低仰角：用稳健残差、机体系方位与 PDOP 选择整数子集",
+      "url": "https://doi.org/10.3390/electronics14132712",
+      "published": "2025-07-04",
+      "digest_date": "2026-10-30",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00216-w",
+      "title": "让残差而非经验 ratio 决定是否固定：跨平台机器学习验收城市纯 GNSS RTK",
+      "url": "https://doi.org/10.1186/s43020-026-00216-w",
+      "published": "2026-09-20",
+      "digest_date": "2026-10-30",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 144,
+    "receiver-engineering": 146,
     "low-cost-mobile": 37,
-    "positioning": 103
+    "positioning": 104
   },
   "learning_level_counts": {
-    "foundation": 103,
-    "intermediate": 103,
-    "advanced": 103
+    "foundation": 104,
+    "intermediate": 104,
+    "advanced": 104
   },
   "positioning_rotation": {
     "spp": 18,
-    "rtk": 17,
+    "rtk": 18,
     "ppp-ppp-rtk": 17,
     "dual-antenna-heading": 17,
     "smartphone-low-cost": 17,
