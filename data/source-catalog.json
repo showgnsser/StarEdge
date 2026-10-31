@@ -7800,24 +7800,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00228-6",
+      "title": "25 ms 短时相关让机载 GNSS-R 测离地高，但平地 4 m 与山区 15 m 仍不是无线电高度表替代品",
+      "url": "https://doi.org/10.1186/s43020-026-00228-6",
+      "published": "2026-10-27",
+      "digest_date": "2026-10-31",
+      "section": "brief",
+      "category": "airborne-gnssr-agl-multiterrain-field-test"
+    },
+    {
+      "source_id": "doi:10.1049/rsn2.70259",
+      "title": "把伪距与伪距率留在观测域重建，90 s 断链水平 RMS 从 123.358 m 压到 15.506 m",
+      "url": "https://doi.org/10.1049/rsn2.70259",
+      "published": "2026-10-27",
+      "digest_date": "2026-10-31",
+      "section": "brief",
+      "category": "trimsan-observation-domain-gnss-ins-outage-bridging"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00225-9",
+      "title": "原子钟模型稳住时间尺度，但正常时 GPS/BDS/Galileo 的 SISRE 几乎不变",
+      "url": "https://doi.org/10.1186/s43020-026-00225-9",
+      "published": "2026-10-21",
+      "digest_date": "2026-10-31",
+      "section": "brief",
+      "category": "realtime-gnss-clock-model-anomaly-mitigation"
+    },
+    {
+      "source_id": "doi:10.1029/2026SW005093",
+      "title": "异方差 GPR 把斜电离层插值 RMS 从 0.558 降到 0.425 TECU，但收益只在九天低纬站网内成立",
+      "url": "https://doi.org/10.1029/2026SW005093",
+      "published": "2026-10-09",
+      "digest_date": "2026-10-31",
+      "section": "brief",
+      "category": "gpr-slant-ionosphere-uncertainty-ppp-rtk"
+    },
+    {
+      "source_id": "doi:10.1029/2026SW005040",
+      "title": "77 场磁暴中 ROTI 与固定星比例强负相关，但它仍是分箱关联而非逐历元告警器",
+      "url": "https://doi.org/10.1029/2026SW005040",
+      "published": "2026-10-01",
+      "digest_date": "2026-10-31",
+      "section": "brief",
+      "category": "storm-scintillation-kinematic-ppp-ar-statistics"
+    },
+    {
+      "source_id": "doi:10.3390/atmos16030316",
+      "title": "先算频率距离的代价：无电离层组合为何消掉一阶延迟却放大噪声",
+      "url": "https://doi.org/10.3390/atmos16030316",
+      "published": "2025-03-10",
+      "digest_date": "2026-10-31",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-023-01723-3",
+      "title": "同一颗钟为何随频对改变：产品参考组合、跨频偏差与多频 PPP-AR 闭合",
+      "url": "https://doi.org/10.1007/s00190-023-01723-3",
+      "published": "2023-03-29",
+      "digest_date": "2026-10-31",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02156-z",
+      "title": "固定率高也可能解得更差：赤道区 Galileo 频对如何用残差与收敛验真 PPP-AR",
+      "url": "https://doi.org/10.1007/s10291-026-02156-z",
+      "published": "2026-10-06",
+      "digest_date": "2026-10-31",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 146,
+    "receiver-engineering": 148,
     "low-cost-mobile": 37,
-    "positioning": 104
+    "positioning": 105
   },
   "learning_level_counts": {
-    "foundation": 104,
-    "intermediate": 104,
-    "advanced": 104
+    "foundation": 105,
+    "intermediate": 105,
+    "advanced": 105
   },
   "positioning_rotation": {
     "spp": 18,
     "rtk": 18,
-    "ppp-ppp-rtk": 17,
+    "ppp-ppp-rtk": 18,
     "dual-antenna-heading": 17,
     "smartphone-low-cost": 17,
     "integrity": 17
