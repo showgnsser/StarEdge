@@ -7875,19 +7875,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1038/s41598-026-66289-4",
+      "title": "小波去噪可在 INS 前端换取更平滑的输入，但新论文只给仿真比较，尚不能证明真实断链定位收益",
+      "url": "https://doi.org/10.1038/s41598-026-66289-4",
+      "published": "2026-10-31",
+      "digest_date": "2026-11-01",
+      "section": "brief",
+      "category": "wavelet-denoising-gnss-ins-simulation"
+    },
+    {
+      "source_id": "doi:10.3390/s26216849",
+      "title": "物理先验元学习把“最难牵引样本”变成可搜索对象，四通道检测器的保形上界下降 30.7%",
+      "url": "https://doi.org/10.3390/s26216849",
+      "published": "2026-10-29",
+      "digest_date": "2026-11-01",
+      "section": "brief",
+      "category": "physics-meta-learning-hard-spoofing-samples"
+    },
+    {
+      "source_id": "doi:10.3390/app162110729",
+      "title": "PDR 约束补足阴影匹配的沿街弱可观性，但两条单次校园路线仍不足以证明城市泛化",
+      "url": "https://doi.org/10.3390/app162110729",
+      "published": "2026-10-29",
+      "digest_date": "2026-11-01",
+      "section": "brief",
+      "category": "pdr-constrained-smartphone-shadow-matching"
+    },
+    {
+      "source_id": "doi:10.1088/1361-6501/aeb95e",
+      "title": "RANSAC 只负责判断初始“好集”是否仍藏粗差，再动态增加最大疑似数，比固定阶数更少错删",
+      "url": "https://doi.org/10.1088/1361-6501/aeb95e",
+      "published": "2026-10-26",
+      "digest_date": "2026-11-01",
+      "section": "brief",
+      "category": "ransac-guided-iterative-data-refining-spp"
+    },
+    {
+      "source_id": "doi:10.1515/jag-2026-0078",
+      "title": "严格按场景切分后，商用接收机输出仍能识别干扰，但宏 F1 只有 0.549，机骗最难",
+      "url": "https://doi.org/10.1515/jag-2026-0078",
+      "published": "2026-10-23",
+      "digest_date": "2026-11-01",
+      "section": "brief",
+      "category": "leakage-safe-navigation-observable-interference-recognition"
+    },
+    {
+      "source_id": "doi:10.33012/2023.19279",
+      "title": "先把二维风险装进一个圆：为什么分别算东、北保护级会多付保守代价",
+      "url": "https://doi.org/10.33012/2023.19279",
+      "published": "2023-09",
+      "digest_date": "2026-11-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.33012/2024.19670",
+      "title": "别等门限跳变才删星：让完整性区间连续决定该信谁",
+      "url": "https://doi.org/10.33012/2024.19670",
+      "published": "2024-04",
+      "digest_date": "2026-11-01",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1093/pnasnexus/pgaf366",
+      "title": "把最坏故障写进目标函数：Optimal‑ARAIM 怎样在精度约束内收紧 VPL",
+      "url": "https://doi.org/10.1093/pnasnexus/pgaf366",
+      "published": "2025-11-14",
+      "digest_date": "2026-11-01",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 148,
+    "receiver-engineering": 150,
     "low-cost-mobile": 37,
-    "positioning": 105
+    "positioning": 106
   },
   "learning_level_counts": {
-    "foundation": 105,
-    "intermediate": 105,
-    "advanced": 105
+    "foundation": 106,
+    "intermediate": 106,
+    "advanced": 106
   },
   "positioning_rotation": {
     "spp": 18,
@@ -7895,6 +7970,6 @@
     "ppp-ppp-rtk": 18,
     "dual-antenna-heading": 17,
     "smartphone-low-cost": 17,
-    "integrity": 17
+    "integrity": 18
   }
 }
