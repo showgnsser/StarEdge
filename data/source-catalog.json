@@ -7950,26 +7950,101 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20884",
+      "title": "码片边沿异常会把相关峰拉歪；B1C/B2a 必须联动监测鉴相器与相关器间隔",
+      "url": "https://doi.org/10.33012/2026.20884",
+      "published": "2026-10-07",
+      "digest_date": "2026-11-02",
+      "section": "brief",
+      "category": "bds-b1c-b2a-code-chip-anomaly-ranging"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20853",
+      "title": "手机 GNSS Booster 把 Android 观测转换、云端 RTK 与可附着重辐射硬件串成开源链",
+      "url": "https://doi.org/10.33012/2026.20853",
+      "published": "2026-10-07",
+      "digest_date": "2026-11-02",
+      "section": "brief",
+      "category": "open-smartphone-gnss-booster-cloud-rtk"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20782",
+      "title": "把接收机相位偏差当圆变量，PPP-AR 不必先用任意基准星抹掉连续性",
+      "url": "https://doi.org/10.33012/2026.20782",
+      "published": "2026-10-07",
+      "digest_date": "2026-11-02",
+      "section": "brief",
+      "category": "circular-receiver-phase-bias-ppp-ar"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20798",
+      "title": "快速 PPP 的关键不是混搭更多产品，而是保持轨道、钟、偏差和电离层的共同基准",
+      "url": "https://doi.org/10.33012/2026.20798",
+      "published": "2026-10-07",
+      "digest_date": "2026-11-02",
+      "section": "brief",
+      "category": "fast-ppp-cross-provider-product-coherence"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20859",
+      "title": "低纬电离层权重还要看地方时与基线方位，单靠长度和仰角会错配不确定度",
+      "url": "https://doi.org/10.33012/2026.20859",
+      "published": "2026-10-07",
+      "digest_date": "2026-11-02",
+      "section": "brief",
+      "category": "low-latitude-ionosphere-weight-spatiotemporal-rtk"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-019-0892-5",
+      "title": "先给手机观测体检：为什么仰角不是低功耗接收机的好权重",
+      "url": "https://doi.org/10.1007/s10291-019-0892-5",
+      "published": "2019-07-15",
+      "digest_date": "2026-11-02",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s20226447",
+      "title": "坏观测不能只靠删：多系统手机 PPP 怎样联合定权、稳健滤波与相位体检",
+      "url": "https://doi.org/10.3390/s20226447",
+      "published": "2020-11-11",
+      "digest_date": "2026-11-02",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/rs15225371",
+      "title": "没有载波也能更稳：多频码观测怎样做 Doppler 平滑、单差与电离层处理",
+      "url": "https://doi.org/10.3390/rs15225371",
+      "published": "2023-11-15",
+      "digest_date": "2026-11-02",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
     "receiver-engineering": 150,
-    "low-cost-mobile": 37,
-    "positioning": 106
+    "low-cost-mobile": 39,
+    "positioning": 107
   },
   "learning_level_counts": {
-    "foundation": 106,
-    "intermediate": 106,
-    "advanced": 106
+    "foundation": 107,
+    "intermediate": 107,
+    "advanced": 107
   },
   "positioning_rotation": {
     "spp": 18,
     "rtk": 18,
     "ppp-ppp-rtk": 18,
     "dual-antenna-heading": 17,
-    "smartphone-low-cost": 17,
+    "smartphone-low-cost": 18,
     "integrity": 18
   }
 }
