@@ -8025,25 +8025,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00226-8",
+      "title": "7.5 年反演揭出 Block IIF 日凌转向错误，逐星 β 偏差把反向事件从 88 个压到 6 个",
+      "url": "https://doi.org/10.1186/s43020-026-00226-8",
+      "published": "2026-10-16",
+      "digest_date": "2026-11-03",
+      "section": "brief",
+      "category": "gps-block-iif-eclipse-yaw-rkppp-refinement"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02111-3",
+      "title": "9 家设施校准不是选一条“标准曲线”，而是把低仰角与方位差异传播到 PPP 坐标",
+      "url": "https://doi.org/10.1007/s00190-026-02111-3",
+      "published": "2026-09-26",
+      "digest_date": "2026-11-03",
+      "section": "brief",
+      "category": "igs-multifacility-antenna-calibration-ring-campaign"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00220-0",
+      "title": "缺测不该让一阶差分再丢一次信息，跨空洞自由差分保住噪声与速度不确定度",
+      "url": "https://doi.org/10.1186/s43020-026-00220-0",
+      "published": "2026-10-05",
+      "digest_date": "2026-11-03",
+      "section": "brief",
+      "category": "information-preserving-gnss-timeseries-missing-data-mle"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00219-7",
+      "title": "CYGNSS 与 Sentinel-1 双流融合把水位 RMSE 做到 0.2388 m，但它是时间外推而非跨流域证明",
+      "url": "https://doi.org/10.1186/s43020-026-00219-7",
+      "published": "2026-10-12",
+      "digest_date": "2026-11-03",
+      "section": "brief",
+      "category": "physics-guided-cygnss-sentinel-water-level-dual-stream"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-026-00232-w",
+      "title": "零样本航片—卫星图匹配把无人机绝对误差压到 5.02 m，前提是起点已知且仍有可匹配地表",
+      "url": "https://doi.org/10.1186/s43020-026-00232-w",
+      "published": "2026-11-02",
+      "digest_date": "2026-11-03",
+      "section": "brief",
+      "category": "gnss-denied-zero-shot-aerial-satellite-particle-localization"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-010-0380-8",
+      "title": "基线长度不是事后验算：把几何约束直接写进整周目标函数",
+      "url": "https://doi.org/10.1007/s00190-010-0380-8",
+      "published": "2010-04-02",
+      "digest_date": "2026-11-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s20082203",
+      "title": "弱信号时不要各自锁载波：陀螺怎样闭合多天线相位差矢量环",
+      "url": "https://doi.org/10.3390/s20082203",
+      "published": "2020-04-13",
+      "digest_date": "2026-11-03",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-017-0639-0",
+      "title": "接收机不同步也能定姿：先把米级时标错位外推到共同历元",
+      "url": "https://doi.org/10.1007/s10291-017-0639-0",
+      "published": "2017-05-18",
+      "digest_date": "2026-11-03",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 150,
+    "receiver-engineering": 152,
     "low-cost-mobile": 39,
-    "positioning": 107
+    "positioning": 108
   },
   "learning_level_counts": {
-    "foundation": 107,
-    "intermediate": 107,
-    "advanced": 107
+    "foundation": 108,
+    "intermediate": 108,
+    "advanced": 108
   },
   "positioning_rotation": {
     "spp": 18,
     "rtk": 18,
     "ppp-ppp-rtk": 18,
-    "dual-antenna-heading": 17,
+    "dual-antenna-heading": 18,
     "smartphone-low-cost": 18,
     "integrity": 18
   }
