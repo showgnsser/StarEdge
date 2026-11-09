@@ -8100,22 +8100,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20839",
+      "title": "Doppler 定位不能只数可见星，卫星运动方向分布同样决定可观测性",
+      "url": "https://doi.org/10.33012/2026.20839",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-09",
+      "section": "brief",
+      "category": "doppler-geometry-latitude-pseudorange-integration"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20899",
+      "title": "Starlink DTC 首次被做成采集—跟踪—差分 Doppler 闭环，但仍是机会信号实验",
+      "url": "https://doi.org/10.33012/2026.20899",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-09",
+      "section": "brief",
+      "category": "starlink-direct-to-cell-differential-doppler-pnt"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20700",
+      "title": "图神经网络在已见攻击上很强，跨类型留出后却暴露明显分布外退化",
+      "url": "https://doi.org/10.33012/2026.20700",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-09",
+      "section": "brief",
+      "category": "spoofing-stgnn-cross-scenario-generalization"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20882",
+      "title": "城市 SNR 地图把横街判别变成场所指纹，但地图老化与手机差异仍未闭合",
+      "url": "https://doi.org/10.33012/2026.20882",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-09",
+      "section": "brief",
+      "category": "urban-smartphone-nmea-snr-map-matching"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20668",
+      "title": "等功率欺骗重叠时先分离再成组，TEXBAT 证明“跟住两套解”可行但不负责判真",
+      "url": "https://doi.org/10.33012/2026.20668",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-09",
+      "section": "brief",
+      "category": "matched-power-spoofing-separate-group-track"
+    },
+    {
+      "source_id": "doi:10.5194/ars-9-203-2011",
+      "title": "每个历元都从球面重来：伪距 SPP 为什么必须反复线性化",
+      "url": "https://doi.org/10.5194/ars-9-203-2011",
+      "published": "2011-08-01",
+      "digest_date": "2026-11-09",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.33012/navi.734",
+      "title": "一步走太远就回退：阻尼与 Wolfe 启发式怎样救回低轨定位收敛",
+      "url": "https://doi.org/10.33012/navi.734",
+      "published": "2026-01-05",
+      "digest_date": "2026-11-09",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-022-01272-w",
+      "title": "单历元解完还不够：把手机伪距与伪距率串成可优化的 SPP 轨迹",
+      "url": "https://doi.org/10.1007/s10291-022-01272-w",
+      "published": "2022-06-18",
+      "digest_date": "2026-11-09",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 152,
+    "receiver-engineering": 154,
     "low-cost-mobile": 39,
-    "positioning": 108
+    "positioning": 109
   },
   "learning_level_counts": {
-    "foundation": 108,
-    "intermediate": 108,
-    "advanced": 108
+    "foundation": 109,
+    "intermediate": 109,
+    "advanced": 109
   },
   "positioning_rotation": {
-    "spp": 18,
+    "spp": 19,
     "rtk": 18,
     "ppp-ppp-rtk": 18,
     "dual-antenna-heading": 18,
