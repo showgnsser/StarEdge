@@ -8250,24 +8250,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02174-x",
+      "title": "把 GPS 的相位中心改正借给 Galileo，PPP 高程偏差可到 −14 mm",
+      "url": "https://doi.org/10.1007/s10291-026-02174-x",
+      "published": "2026-11-05",
+      "digest_date": "2026-11-11",
+      "section": "brief",
+      "category": "receiver-antenna-individual-type-mean-pcc-ppp"
+    },
+    {
+      "source_id": "doi:10.1007/s00190-026-02126-w",
+      "title": "BDS-3 星载天线改正跨 −50 至 +30 cm，新模型把尺度一致性收紧到 0.1 ppb",
+      "url": "https://doi.org/10.1007/s00190-026-02126-w",
+      "published": "2026-11-05",
+      "digest_date": "2026-11-11",
+      "section": "brief",
+      "category": "igs-bds3-satellite-antenna-calibration-igs20-scale"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20754",
+      "title": "同一台航天 GNSS 接收机难同时覆盖发射、GEO 与再入，架构必须拆分资源配置",
+      "url": "https://doi.org/10.33012/2026.20754",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-11",
+      "section": "brief",
+      "category": "spaceborne-gnss-receiver-launch-geo-reentry-architecture"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20670",
+      "title": "把 L5 多个移位码塞进 ±1 chip 相关器，深城定位提升“最高 94%”仍是数据集内结果",
+      "url": "https://doi.org/10.33012/2026.20670",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-11",
+      "section": "brief",
+      "category": "l5-shifted-combined-code-efficient-multipath-detection"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20658",
+      "title": "低成本基准站能从自身观测反演遮挡，但环境地图更适合“启用门控”而非直接定权",
+      "url": "https://doi.org/10.33012/2026.20658",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-11",
+      "section": "brief",
+      "category": "crowdsourced-reference-station-blind-environment-qc"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-011-0228-6",
+      "title": "先认清 PPP 的外部产品账：单频实时解为何仍要等约 1.5 小时",
+      "url": "https://doi.org/10.1007/s10291-011-0228-6",
+      "published": "2011-06-05",
+      "digest_date": "2026-11-11",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.1007/s10291-026-02148-z",
+      "title": "先消掉分析中心自己的钟：逐历元对齐怎样让多 GNSS 产品可组合",
+      "url": "https://doi.org/10.1007/s10291-026-02148-z",
+      "published": "2026-09-28",
+      "digest_date": "2026-11-11",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.1186/s43020-025-00178-5",
+      "title": "让 PPP-RTK 大气改正携带可信度：留一站交叉验证怎样在风暴中降权",
+      "url": "https://doi.org/10.1186/s43020-025-00178-5",
+      "published": "2025-09-22",
+      "digest_date": "2026-11-11",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 156,
+    "receiver-engineering": 158,
     "low-cost-mobile": 39,
-    "positioning": 110
+    "positioning": 111
   },
   "learning_level_counts": {
-    "foundation": 110,
-    "intermediate": 110,
-    "advanced": 110
+    "foundation": 111,
+    "intermediate": 111,
+    "advanced": 111
   },
   "positioning_rotation": {
     "spp": 19,
     "rtk": 19,
-    "ppp-ppp-rtk": 18,
+    "ppp-ppp-rtk": 19,
     "dual-antenna-heading": 18,
     "smartphone-low-cost": 18,
     "integrity": 18
