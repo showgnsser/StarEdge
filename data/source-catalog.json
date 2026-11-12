@@ -8325,25 +8325,100 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20742",
+      "title": "占空比降到 10% 只省下 31% 功耗，接收机底座功耗不能忽略",
+      "url": "https://doi.org/10.33012/2026.20742",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-12",
+      "section": "brief",
+      "category": "hardware-gnss-duty-cycling-power-floor"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20841",
+      "title": "机器学习把测地站宽巷验整正确率从约 75% 提到约 97%，但众包站仍更难",
+      "url": "https://doi.org/10.33012/2026.20841",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-12",
+      "section": "brief",
+      "category": "ppp-rtk-network-ml-ambiguity-validation"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20887",
+      "title": "3D 打印 Luneburg 透镜提高 C/N0 与抗多路径潜力，摘要尚不足以给出增益数字",
+      "url": "https://doi.org/10.33012/2026.20887",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-12",
+      "section": "brief",
+      "category": "3d-printed-luneburg-lens-gnss-antenna"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20860",
+      "title": "Celeste 两颗 510 km LEO 导航试验星已给出初始测距链，但每次过境只有约 10–15 min",
+      "url": "https://doi.org/10.33012/2026.20860",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-12",
+      "section": "brief",
+      "category": "esa-celeste-leo-pnt-in-orbit-ranging"
+    },
+    {
+      "source_id": "doi:10.33012/2026.20892",
+      "title": "仿真 LEO 信号在强干扰下优于 MEO Galileo，结论仍受同频同模型场景约束",
+      "url": "https://doi.org/10.33012/2026.20892",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-12",
+      "section": "brief",
+      "category": "simulated-leo-pnt-jamming-resilience-sdr"
+    },
+    {
+      "source_id": "doi:10.1155/2018/4871239",
+      "title": "先把阵列定姿误差拆开：几何、测量噪声与周跳各伤哪一环",
+      "url": "https://doi.org/10.1155/2018/4871239",
+      "published": "2018-01-16",
+      "digest_date": "2026-11-12",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.31803/tg-20240708150316",
+      "title": "再用基线与俯仰筛整周：一个 0.75 m 双天线原型的收益与硬边界",
+      "url": "https://doi.org/10.31803/tg-20240708150316",
+      "published": "2026-09-15",
+      "digest_date": "2026-11-12",
+      "section": "deep",
+      "category": "low-cost-mobile",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s150612180",
+      "title": "最后让阵列在干扰后自己找回航向：盲投影、导向矢量与无畸变 STP 闭环",
+      "url": "https://doi.org/10.3390/s150612180",
+      "published": "2015-05-26",
+      "digest_date": "2026-11-12",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 11,
     "tracking": 14,
-    "receiver-engineering": 158,
-    "low-cost-mobile": 39,
-    "positioning": 111
+    "receiver-engineering": 159,
+    "low-cost-mobile": 40,
+    "positioning": 112
   },
   "learning_level_counts": {
-    "foundation": 111,
-    "intermediate": 111,
-    "advanced": 111
+    "foundation": 112,
+    "intermediate": 112,
+    "advanced": 112
   },
   "positioning_rotation": {
     "spp": 19,
     "rtk": 19,
     "ppp-ppp-rtk": 19,
-    "dual-antenna-heading": 18,
+    "dual-antenna-heading": 19,
     "smartphone-low-cost": 18,
     "integrity": 18
   }
