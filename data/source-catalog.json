@@ -8475,19 +8475,94 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "ion:gnssplus2026-17060",
+      "title": "微型多阵元 GNSS 天线的到达角与姿态性能",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17060",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-14",
+      "section": "brief",
+      "category": "miniaturized-multielement-gnss-antenna-aoa-attitude"
+    },
+    {
+      "source_id": "ion:gnssplus2026-17151",
+      "title": "面向站点故障与大气不确定度的 NRTK 改正完整性监测",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=17151",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-14",
+      "section": "brief",
+      "category": "nrtk-correction-station-fault-integrity-message"
+    },
+    {
+      "source_id": "ion:gnssplus2026-16600",
+      "title": "PPP 收敛大气状态与 PPP-RTK 服务器改正的可信条件",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16600",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-14",
+      "section": "brief",
+      "category": "ppp-converged-atmosphere-versus-server-correction"
+    },
+    {
+      "source_id": "ion:gnssplus2026-16895",
+      "title": "三维地图辅助的城市多传感器导航完整性预测与监测",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16895",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-14",
+      "section": "brief",
+      "category": "3d-map-aided-urban-integrity-prediction"
+    },
+    {
+      "source_id": "ion:gnssplus2026-16955",
+      "title": "5G 集成多无线电匹配图的 ConvNeXt 定位系统",
+      "url": "https://www.ion.org/gnss/abstracts.cfm?paperID=16955",
+      "published": "2026-10-06",
+      "digest_date": "2026-11-14",
+      "section": "brief",
+      "category": "5g-integrated-multiradio-matching-map-positioning"
+    },
+    {
+      "source_id": "doi:10.3390/s23239483",
+      "title": "先让 FPGA 在码相位—Doppler 平面找到峰：PCPS 为什么是接收机的第一道算力账",
+      "url": "https://doi.org/10.3390/s23239483",
+      "published": "2023-11-28",
+      "digest_date": "2026-11-14",
+      "section": "deep",
+      "category": "acquisition",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s23083932",
+      "title": "再把数据与导频合进载波环：延长积分为何既降噪也会引入位翻转风险",
+      "url": "https://doi.org/10.3390/s23083932",
+      "published": "2023-04-13",
+      "digest_date": "2026-11-14",
+      "section": "deep",
+      "category": "tracking",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/engproc2026126017",
+      "title": "最后用贝叶斯搜索收紧 ARAIM 保护级：优化门限之前，先守住风险分配",
+      "url": "https://doi.org/10.3390/engproc2026126017",
+      "published": "2026-02-20",
+      "digest_date": "2026-11-14",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
-    "acquisition": 11,
-    "tracking": 14,
+    "acquisition": 12,
+    "tracking": 15,
     "receiver-engineering": 160,
     "low-cost-mobile": 41,
-    "positioning": 113
+    "positioning": 114
   },
   "learning_level_counts": {
-    "foundation": 113,
-    "intermediate": 113,
-    "advanced": 113
+    "foundation": 114,
+    "intermediate": 114,
+    "advanced": 114
   },
   "positioning_rotation": {
     "spp": 19,
@@ -8495,6 +8570,6 @@
     "ppp-ppp-rtk": 19,
     "dual-antenna-heading": 19,
     "smartphone-low-cost": 19,
-    "integrity": 18
+    "integrity": 19
   }
 }
