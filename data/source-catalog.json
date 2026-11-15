@@ -8550,22 +8550,97 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2610.14822",
+      "title": "鱼眼图不只分天空与建筑，还能把 GNSS 残差变成逐方向故障概率",
+      "url": "https://arxiv.org/abs/2610.14822",
+      "published": "2026-10-10",
+      "digest_date": "2026-11-15",
+      "section": "brief",
+      "category": "point-supervised-visual-gnss-quality"
+    },
+    {
+      "source_id": "arxiv:2609.07056",
+      "title": "星间链路路由可用一次反向扫描替代逐时刻全图寻路，但结论仍来自仿真星座",
+      "url": "https://arxiv.org/abs/2609.07056",
+      "published": "2026-10-22",
+      "digest_date": "2026-11-15",
+      "section": "brief",
+      "category": "autonomous-gnss-isl-routing-topology"
+    },
+    {
+      "source_id": "arxiv:2609.11142",
+      "title": "GNSS 轨迹整体偏移时，多采样不会自动消除无线电地图的空间错配",
+      "url": "https://arxiv.org/abs/2609.11142",
+      "published": "2026-09-10",
+      "digest_date": "2026-11-15",
+      "section": "brief",
+      "category": "radio-map-posthoc-gnss-location-calibration"
+    },
+    {
+      "source_id": "doi:10.3390/s26206414",
+      "title": "5G NTN 初始接入依赖 GNSS 预补偿，单星 AoA/FoA/ToA 只能先把搜索区缩到可接入尺度",
+      "url": "https://doi.org/10.3390/s26206414",
+      "published": "2026-10-10",
+      "digest_date": "2026-11-15",
+      "section": "brief",
+      "category": "gnss-denied-5g-ntn-single-satellite-initial-access"
+    },
+    {
+      "source_id": "arxiv:2602.05517",
+      "title": "只仿冒少数 PRN 也可能造成拒止，认证导航电文不能保护捕获与跟踪前端",
+      "url": "https://arxiv.org/abs/2602.05517",
+      "published": "2026-02-05",
+      "digest_date": "2026-11-15",
+      "section": "brief",
+      "category": "gnss-spamming-spoofing-denial-of-service"
+    },
+    {
+      "source_id": "doi:10.1017/S0373463311000087",
+      "title": "先把楼宇阴影变成横街约束：影子匹配为什么补的是几何缺口",
+      "url": "https://doi.org/10.1017/S0373463311000087",
+      "published": "2011-06-07",
+      "digest_date": "2026-11-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.33012/navi.547",
+      "title": "再用 zonotope 保留位置集合：不铺网格也能逐星切分城市候选区",
+      "url": "https://doi.org/10.33012/navi.547",
+      "published": "2022-12",
+      "digest_date": "2026-11-15",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "arxiv:2509.17397",
+      "title": "最后让扩散模型只靠 GNSS 修正伪距：从误差分布到城市 SPP",
+      "url": "https://arxiv.org/abs/2509.17397",
+      "published": "2025-09-22",
+      "digest_date": "2026-11-15",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 12,
     "tracking": 15,
-    "receiver-engineering": 160,
+    "receiver-engineering": 162,
     "low-cost-mobile": 41,
-    "positioning": 114
+    "positioning": 115
   },
   "learning_level_counts": {
-    "foundation": 114,
-    "intermediate": 114,
-    "advanced": 114
+    "foundation": 115,
+    "intermediate": 115,
+    "advanced": 115
   },
   "positioning_rotation": {
-    "spp": 19,
+    "spp": 20,
     "rtk": 19,
     "ppp-ppp-rtk": 19,
     "dual-antenna-heading": 19,
