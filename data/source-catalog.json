@@ -8625,23 +8625,98 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "doi:10.3390/geomatics6060143",
+      "title": "精密轨道插值进入毫秒级接收机链后，仍要把“轨道更平滑”与“位置更准”分开验证",
+      "url": "https://www.mdpi.com/2673-7418/6/6/143",
+      "published": "2026-11-14",
+      "digest_date": "2026-11-16",
+      "section": "brief",
+      "category": "ann-igs-orbit-interpolation-millisecond-positioning"
+    },
+    {
+      "source_id": "doi:10.1016/j.measurement.2026.122859",
+      "title": "超短基线的长度约束也会有二阶余项，城市定姿不能把线性化误差当作白噪声",
+      "url": "https://doi.org/10.1016/j.measurement.2026.122859",
+      "published": "2026-11-15",
+      "digest_date": "2026-11-16",
+      "section": "brief",
+      "category": "ultrashort-baseline-attitude-geometric-stochastic-model"
+    },
+    {
+      "source_id": "doi:10.3390/s26217061",
+      "title": "SSR 短时断流时，不要继续把外推轨道钟当作同方差观测",
+      "url": "https://doi.org/10.3390/s26217061",
+      "published": "2026-11-08",
+      "digest_date": "2026-11-16",
+      "section": "brief",
+      "category": "ssr-outage-age-dependent-ppp-variance-inflation"
+    },
+    {
+      "source_id": "doi:10.1186/s43067-026-00412-3",
+      "title": "冗余时钟如果相差同一个 10 ms，正确切换也可能把变电站带入共同错误",
+      "url": "https://doi.org/10.1186/s43067-026-00412-3",
+      "published": "2026-11-09",
+      "digest_date": "2026-11-16",
+      "section": "brief",
+      "category": "gnss-ptp-substation-common-cause-time-failure"
+    },
+    {
+      "source_id": "doi:10.1038/s41597-026-08460-0",
+      "title": "环境感知数据集把完整卫星可见周期与遮挡类型一起记录，但数据集不是现成的泛化证明",
+      "url": "https://doi.org/10.1038/s41597-026-08460-0",
+      "published": "2026-11-03",
+      "digest_date": "2026-11-16",
+      "section": "brief",
+      "category": "environment-aware-gnss-visibility-propagation-dataset"
+    },
+    {
+      "source_id": "ion:gnss2012-10478",
+      "title": "先追到 GLONASS 频间相位偏差的 DSP 根源：为什么 L1/L2 都沿频道号画出同一条斜线",
+      "url": "https://www.ion.org/publications/abstract.cfm?articleID=10478",
+      "published": "2012-09-17",
+      "digest_date": "2026-11-16",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/rs10081223",
+      "title": "再绕开不可移植的码偏差表：用纯载波宽巷把跨弧段连成一个整数",
+      "url": "https://doi.org/10.3390/rs10081223",
+      "published": "2018-08-03",
+      "digest_date": "2026-11-16",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/geomatics6050107",
+      "title": "最后让 GPS/BDS 帮 GLONASS 标定偏差：单历元 RTK 怎样重新用上 FDMA 观测",
+      "url": "https://doi.org/10.3390/geomatics6050107",
+      "published": "2026-09-29",
+      "digest_date": "2026-11-16",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 12,
     "tracking": 15,
-    "receiver-engineering": 162,
+    "receiver-engineering": 164,
     "low-cost-mobile": 41,
-    "positioning": 115
+    "positioning": 116
   },
   "learning_level_counts": {
-    "foundation": 115,
-    "intermediate": 115,
-    "advanced": 115
+    "foundation": 116,
+    "intermediate": 116,
+    "advanced": 116
   },
   "positioning_rotation": {
     "spp": 20,
-    "rtk": 19,
+    "rtk": 20,
     "ppp-ppp-rtk": 19,
     "dual-antenna-heading": 19,
     "smartphone-low-cost": 19,
