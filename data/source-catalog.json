@@ -8700,24 +8700,99 @@
       "section": "deep",
       "category": "positioning",
       "learning_level": "advanced"
+    },
+    {
+      "source_id": "arxiv:2611.18186",
+      "title": "NPU 不只跑神经网络，也能把长码直接捕获从数秒压到亚秒级",
+      "url": "https://arxiv.org/abs/2611.18186",
+      "published": "2026-11-13",
+      "digest_date": "2026-11-17",
+      "section": "brief",
+      "category": "npu-accelerated-gnss-sdr-acquisition"
+    },
+    {
+      "source_id": "arxiv:2611.16023",
+      "title": "500 美元级 GNSS 驯服钟能服务射电天文，但共视差分稳定度不等于绝对 UTC",
+      "url": "https://arxiv.org/abs/2611.16023",
+      "published": "2026-11-11",
+      "digest_date": "2026-11-17",
+      "section": "brief",
+      "category": "low-cost-gnss-disciplined-oscillator-astronomy"
+    },
+    {
+      "source_id": "arxiv:2611.14007",
+      "title": "每个积分周期直接校相能减 PLL 惯性，但短积分时会把未滤波噪声带回环路",
+      "url": "https://arxiv.org/abs/2611.14007",
+      "published": "2026-11-10",
+      "digest_date": "2026-11-17",
+      "section": "brief",
+      "category": "dds-phase-correction-gnss-tracking-loop"
+    },
+    {
+      "source_id": "arxiv:2611.13655",
+      "title": "Starlink 伪距做到米级依赖“运营商式”轨道钟，不是被动监听即可复制",
+      "url": "https://arxiv.org/abs/2611.13655",
+      "published": "2026-11-10",
+      "digest_date": "2026-11-17",
+      "section": "brief",
+      "category": "mock-fused-starlink-pseudorange-pnt"
+    },
+    {
+      "source_id": "arxiv:2611.09653",
+      "title": "双蒸气室量子接收机的 10 dB 增益仍是协方差模型与蒙特卡洛证据",
+      "url": "https://arxiv.org/abs/2611.09653",
+      "published": "2026-11-06",
+      "digest_date": "2026-11-17",
+      "section": "brief",
+      "category": "differential-rydberg-quantum-gnss-receiver"
+    },
+    {
+      "source_id": "doi:10.5081/jgps.2.1.1",
+      "title": "先看整数估计如何切分模糊度空间：ILS、BIE 与整数孔径不是同一目标",
+      "url": "https://gnss.curtin.edu.au/wp-content/uploads/sites/21/2016/04/Teunissen2003Towards.pdf",
+      "published": "2003",
+      "digest_date": "2026-11-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "foundation"
+    },
+    {
+      "source_id": "doi:10.3390/s24072307",
+      "title": "再用 Kriging 补区域电离层残差：先拟合大尺度趋势，再只传有信息的局部改正",
+      "url": "https://doi.org/10.3390/s24072307",
+      "published": "2024-04-05",
+      "digest_date": "2026-11-17",
+      "section": "deep",
+      "category": "receiver-engineering",
+      "learning_level": "intermediate"
+    },
+    {
+      "source_id": "doi:10.3390/s26206553",
+      "title": "最后让三频 PPP-AR 在快定整与稳解间取舍：PAR、BIE、ILS 与 IAB 谁负责什么",
+      "url": "https://doi.org/10.3390/s26206553",
+      "published": "2026-10-15",
+      "digest_date": "2026-11-17",
+      "section": "deep",
+      "category": "positioning",
+      "learning_level": "advanced"
     }
   ],
   "deep_topic_rotation": {
     "acquisition": 12,
     "tracking": 15,
-    "receiver-engineering": 164,
+    "receiver-engineering": 166,
     "low-cost-mobile": 41,
-    "positioning": 116
+    "positioning": 117
   },
   "learning_level_counts": {
-    "foundation": 116,
-    "intermediate": 116,
-    "advanced": 116
+    "foundation": 117,
+    "intermediate": 117,
+    "advanced": 117
   },
   "positioning_rotation": {
     "spp": 20,
     "rtk": 20,
-    "ppp-ppp-rtk": 19,
+    "ppp-ppp-rtk": 20,
     "dual-antenna-heading": 19,
     "smartphone-low-cost": 19,
     "integrity": 19
